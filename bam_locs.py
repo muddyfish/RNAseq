@@ -1,6 +1,6 @@
 import os, shutil, subprocess
 CCLE_DIR = "/lustre/scratch112/sanger/cgppipe/cttv-rnaseq-am26/ccle-fusions/"
-TMP_DIR = "/lustre/scratch109/sanger/sb48/"
+TMP_DIR = "/lustre/scratch109/sanger/sb48/nodup_bams/"
 
 class Main(object):
     def __init__(self):
@@ -21,7 +21,7 @@ class Main(object):
     
     def parse_sample(self, sample):
         #self.copy_bam(sample)
-        self.add_bai(sample)
+        #self.add_bai(sample)
         self.run_loci(sample)
     
     def copy_bam(self, sample):
@@ -31,6 +31,12 @@ class Main(object):
         print "Sample copied to %s"%(dest)
 
     def add_bai(self, sample):
+        dest = os.path.join(TMP_DIR, sample+".bam")
+        cmd = "samtools index %s"%dest
+        sub = subprocess.Popen(cmd, shell=True,
+                               stdout=subprocess.PIPE,
+                               stderr=subprocess.PIPE)
+        assert(sub.communicate() == ('',''))
         print "Created BAM index file"
     
     def run_loci(self, sample):
@@ -40,7 +46,9 @@ class Main(object):
         sub = subprocess.Popen(cmd, shell=True,
                                stdout=subprocess.PIPE,
                                stderr=subprocess.PIPE)
-        for i in sub.communicate(): print i
+        stderr, stdout = sub.communicate()
+        assert(stderr == '')
+        print stdout
         
 
 def main():
