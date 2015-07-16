@@ -56,3 +56,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+"/software/CGP/projects/vcfCommons/perl/bin/createConfig.pl -p 1085 -o 1085_out"
