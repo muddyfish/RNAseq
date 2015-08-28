@@ -1,0 +1,2163 @@
+PROJECT	SAMPLE	PATH	TYPE
+1085	143B	/nfs/cancer_trk0033/00000121/1412416.bam	bam
+1085	143B	/nfs/cancer_trk0033/00000121/1412417.bam.bai	bam bai
+1085	201T	/nfs/cancer_trk0065/00000253/1104419.bam	bam
+1085	201T	/nfs/cancer_trk0065/00000253/1104422.bam.bai	bam bai
+1085	451Lu	/nfs/cancer_trk0065/00000252/1241316.bam	bam
+1085	451Lu	/nfs/cancer_trk0068/00000265/1241317.bam.bai	bam bai
+1085	A388	/nfs/cancer_trk0068/00000265/1241322.bam	bam
+1085	A388	/nfs/cancer_trk0068/00000265/1241323.bam.bai	bam bai
+1085	A427	/nfs/cancer_trk0065/00000253/1104306.bam	bam
+1085	A427	/nfs/cancer_trk0065/00000252/1104307.bam.bai	bam bai
+1085	A431	/nfs/cancer_trk0025/00000088/1396598.bam	bam
+1085	A431	/nfs/cancer_trk0025/00000089/1396599.bam.bai	bam bai
+1085	ACN	/nfs/cancer_trk0074/00000287/1763866.bam	bam
+1085	ACN	/nfs/cancer_trk0073/00000284/1763867.bam.bai	bam bai
+1085	ALL-PO	/nfs/cancer_trk0071/00000277/1597274.bam	bam
+1085	ALL-PO	/nfs/cancer_trk0070/00000273/1597275.bam.bai	bam bai
+1085	ARH-77	/nfs/cancer_trk0037/00000137/1440225.bam	bam
+1085	ARH-77	/nfs/cancer_trk0037/00000137/1440226.bam.bai	bam bai
+1085	ASH-3	/nfs/cancer_trk0037/00000137/1440219.bam	bam
+1085	ASH-3	/nfs/cancer_trk0037/00000137/1440220.bam.bai	bam bai
+1085	ATN-1	/nfs/cancer_trk0071/00000277/1597199.bam	bam
+1085	ATN-1	/nfs/cancer_trk0070/00000273/1597200.bam.bai	bam bai
+1085	BALL-1	/nfs/cancer_trk0071/00000276/1596982.bam	bam
+1085	BALL-1	/nfs/cancer_trk0070/00000273/1596983.bam.bai	bam bai
+1085	BB30-HNC						/nfs/cancer_trk0071/00000276/1596947.bam	bam
+1085	BB30-HNC						/nfs/cancer_trk0071/00000275/1596948.bam.bai	bam bai
+1085	BB49-HNC						/nfs/cancer_trk0071/00000277/1597180.bam	bam
+1085	BB49-HNC						/nfs/cancer_trk0070/00000273/1597181.bam.bai	bam bai
+1085	BB65-RCC						/nfs/cancer_trk0038/00000138/1440693.bam	bam
+1085	BB65-RCC						/nfs/cancer_trk0038/00000138/1440694.bam.bai	bam bai
+1085	BC-1							/nfs/cancer_trk0071/00000276/1596986.bam	bam
+1085	BC-1							/nfs/cancer_trk0070/00000273/1596987.bam.bai	bam bai
+1085	BC-3							/nfs/cancer_trk0071/00000276/1596984.bam	bam
+1085	BC-3							/nfs/cancer_trk0070/00000273/1596985.bam.bai	bam bai
+1085	BE-13							/nfs/cancer_trk0071/00000276/1596965.bam	bam
+1085	BE-13							/nfs/cancer_trk0071/00000275/1596968.bam.bai	bam bai
+1085	BE2-M17							/nfs/cancer_trk0071/00000277/1597264.bam	bam
+1085	BE2-M17							/nfs/cancer_trk0070/00000273/1597265.bam.bai	bam bai
+1085	BICR10							/nfs/cancer_trk0071/00000277/1597260.bam	bam
+1085	BICR10							/nfs/cancer_trk0070/00000273/1597261.bam.bai	bam bai
+1085	BICR78							/nfs/cancer_trk0071/00000276/1596936.bam	bam
+1085	BICR78							/nfs/cancer_trk0070/00000273/1596937.bam.bai	bam bai
+1085	BONNA-12						/nfs/cancer_trk0071/00000276/1596961.bam	bam
+1085	BONNA-12						/nfs/cancer_trk0071/00000275/1596963.bam.bai	bam bai
+1085	BPH-1							/nfs/cancer_trk0071/00000277/1597203.bam	bam
+1085	BPH-1							/nfs/cancer_trk0070/00000273/1597205.bam.bai	bam bai
+1085	BV-173							/nfs/cancer_trk0061/00000225/929025.bam		bam
+1085	BV-173							/nfs/cancer_trk0061/00000225/929026.bam.bai	bam bai
+1085	Becker							/nfs/cancer_trk0071/00000277/1597187.bam	bam
+1085	Becker							/nfs/cancer_trk0070/00000273/1597188.bam.bai	bam bai
+1085	C-33-A							/nfs/cancer_trk0071/00000276/1596945.bam	bam
+1085	C-33-A							/nfs/cancer_trk0071/00000275/1596946.bam.bai	bam bai
+1085	C-4-I							/nfs/cancer_trk0071/00000277/1597178.bam	bam
+1085	C-4-I							/nfs/cancer_trk0070/00000273/1597179.bam.bai	bam bai
+1085	C2BBe1							/nfs/cancer_trk0057/00000227/939488.bam		bam
+1085	C2BBe1							/nfs/cancer_trk0057/00000227/939489.bam.bai	bam bai
+1085	C3A							/nfs/cancer_trk0071/00000276/1596688.bam	bam
+1085	C3A							/nfs/cancer_trk0070/00000273/1596689.bam.bai	bam bai
+1085	CAL-39							/nfs/cancer_trk0071/00000277/1597206.bam	bam
+1085	CAL-39							/nfs/cancer_trk0070/00000273/1597207.bam.bai	bam bai
+1085	CAL-72							/nfs/cancer_trk0065/00000253/1104435.bam	bam
+1085	CAL-72							/nfs/cancer_trk0065/00000253/1104436.bam.bai	bam bai
+1085	CCK-81							/nfs/cancer_trk0057/00000227/939466.bam		bam
+1085	CCK-81							/nfs/cancer_trk0057/00000227/939467.bam.bai	bam bai
+1085	CCRF-CEM						/nfs/cancer_trk0071/00000277/1597266.bam	bam
+1085	CCRF-CEM						/nfs/cancer_trk0070/00000273/1597267.bam.bai	bam bai
+1085	CESS							/nfs/cancer_trk0071/00000277/1597272.bam	bam
+1085	CESS							/nfs/cancer_trk0070/00000273/1597273.bam.bai	bam bai
+1085	CGTH-W-1						/nfs/cancer_trk0038/00000138/1440913.bam	bam
+1085	CGTH-W-1						/nfs/cancer_trk0038/00000138/1440914.bam.bai	bam bai
+1085	CHL-1							/nfs/cancer_trk0025/00000088/1396202.bam	bam
+1085	CHL-1							/nfs/cancer_trk0025/00000089/1396203.bam.bai	bam bai
+1085	CHP-134							/nfs/cancer_trk0071/00000277/1597201.bam	bam
+1085	CHP-134							/nfs/cancer_trk0070/00000273/1597202.bam.bai	bam bai
+1085	CHSA0011						/nfs/cancer_trk0070/00000271/1241318.bam	bam
+1085	CHSA0011						/nfs/cancer_trk0070/00000270/1241319.bam.bai	bam bai
+1085	CHSA0108						/nfs/cancer_trk0067/00000260/1270589.bam	bam
+1085	CHSA0108						/nfs/cancer_trk0067/00000260/1270605.bam.bai	bam bai
+1085	CHSA8926						/nfs/cancer_trk0067/00000260/1270607.bam	bam
+1085	CHSA8926						/nfs/cancer_trk0067/00000260/1270608.bam.bai	bam bai
+1085	CL-40							/nfs/cancer_trk0065/00000253/1104412.bam	bam
+1085	CL-40							/nfs/cancer_trk0065/00000253/1104416.bam.bai	bam bai
+1085	CML-T1							/nfs/cancer_trk0061/00000225/928996.bam		bam
+1085	CML-T1							/nfs/cancer_trk0061/00000225/928997.bam.bai	bam bai
+1085	COLO-205						/nfs/cancer_trk0056/00000217/868938.bam		bam
+1085	COLO-205						/nfs/cancer_trk0056/00000217/868939.bam.bai	bam bai
+1085	COLO-320-HSR						/nfs/cancer_trk0065/00000253/1104304.bam			  bam
+1085	COLO-320-HSR						/nfs/cancer_trk0065/00000252/1104305.bam.bai			  bam bai
+1085	COLO-741						/nfs/cancer_trk0074/00000287/1763784.bam			  bam
+1085	COLO-741						/nfs/cancer_trk0074/00000286/1763785.bam.bai			  bam bai
+1085	COLO-824						/nfs/cancer_trk0068/00000265/1241320.bam			  bam
+1085	COLO-824						/nfs/cancer_trk0068/00000265/1241321.bam.bai			  bam bai
+1085	COR-L303						/nfs/cancer_trk0065/00000253/1104425.bam			  bam
+1085	COR-L303						/nfs/cancer_trk0065/00000253/1104426.bam.bai			  bam bai
+1085	COR-L32							/nfs/cancer_trk0065/00000253/1104340.bam			  bam
+1085	COR-L32							/nfs/cancer_trk0065/00000253/1104341.bam.bai			  bam bai
+1085	COR-L321						/nfs/cancer_trk0065/00000253/1104427.bam			  bam
+1085	COR-L321						/nfs/cancer_trk0065/00000253/1104430.bam.bai			  bam bai
+1085	CP50-MEL-B						/nfs/cancer_trk0070/00000272/1410575.bam			  bam
+1085	CP50-MEL-B						/nfs/cancer_trk0070/00000271/1410576.bam.bai			  bam bai
+1085	CP66-MEL						/nfs/cancer_trk0070/00000271/1393615.bam			  bam
+1085	CP66-MEL						/nfs/cancer_trk0070/00000271/1393616.bam.bai			  bam bai
+1085	CP67-MEL						/nfs/cancer_trk0070/00000272/1440699.bam			  bam
+1085	CP67-MEL						/nfs/cancer_trk0070/00000271/1440700.bam.bai			  bam bai
+1085	CPC-N							/nfs/cancer_trk0065/00000252/1104300.bam			  bam
+1085	CPC-N							/nfs/cancer_trk0065/00000252/1104301.bam.bai			  bam bai
+1085	CRO-AP2							/nfs/cancer_trk0071/00000276/1596973.bam			  bam
+1085	CRO-AP2							/nfs/cancer_trk0071/00000275/1596975.bam.bai			  bam bai
+1085	CRO-AP3							/nfs/cancer_trk0071/00000277/1597167.bam			  bam
+1085	CRO-AP3							/nfs/cancer_trk0070/00000273/1597168.bam.bai			  bam bai
+1085	CS1							/nfs/cancer_trk0070/00000272/1409904.bam			  bam
+1085	CS1							/nfs/cancer_trk0070/00000272/1409905.bam.bai			  bam bai
+1085	CTB-1							/nfs/cancer_trk0071/00000277/1597211.bam			  bam
+1085	CTB-1							/nfs/cancer_trk0070/00000273/1597212.bam.bai			  bam bai
+1085	CTV-1							/nfs/cancer_trk0071/00000277/1597185.bam			  bam
+1085	CTV-1							/nfs/cancer_trk0070/00000273/1597186.bam.bai			  bam bai
+1085	Ca-Ski							/nfs/cancer_trk0071/00000276/1596684.bam			  bam
+1085	Ca-Ski							/nfs/cancer_trk0070/00000273/1596685.bam.bai			  bam bai
+1085	Ca9-22							/nfs/cancer_trk0071/00000277/1597182.bam			  bam
+1085	Ca9-22							/nfs/cancer_trk0070/00000273/1597184.bam.bai			  bam bai
+1085	CaR-1							/nfs/cancer_trk0057/00000227/939490.bam				  bam
+1085	CaR-1							/nfs/cancer_trk0057/00000227/939491.bam.bai			  bam bai
+1085	D-247MG							/nfs/cancer_trk0071/00000277/1597278.bam			  bam
+1085	D-247MG							/nfs/cancer_trk0070/00000273/1597279.bam.bai			  bam bai
+1085	D-263MG							/nfs/cancer_trk0071/00000277/1597208.bam			  bam
+1085	D-263MG							/nfs/cancer_trk0070/00000273/1597210.bam.bai			  bam bai
+1085	D-336MG							/nfs/cancer_trk0071/00000276/1596988.bam			  bam
+1085	D-336MG							/nfs/cancer_trk0070/00000273/1596989.bam.bai			  bam bai
+1085	D-392MG							/nfs/cancer_trk0071/00000277/1599344.bam			  bam
+1085	D-392MG							/nfs/cancer_trk0071/00000276/1599345.bam.bai			  bam bai
+1085	D-423MG							/nfs/cancer_trk0071/00000277/1599346.bam			  bam
+1085	D-423MG							/nfs/cancer_trk0071/00000276/1599347.bam.bai			  bam bai
+1085	D-502MG							/nfs/cancer_trk0071/00000277/1599348.bam			  bam
+1085	D-502MG							/nfs/cancer_trk0071/00000276/1599349.bam.bai			  bam bai
+1085	D-542MG							/nfs/cancer_trk0071/00000277/1599334.bam			  bam
+1085	D-542MG							/nfs/cancer_trk0071/00000276/1599335.bam.bai			  bam bai
+1085	D-566MG							/nfs/cancer_trk0071/00000277/1599350.bam			  bam
+1085	D-566MG							/nfs/cancer_trk0071/00000276/1599351.bam.bai			  bam bai
+1085	DG-75							/nfs/cancer_trk0071/00000277/1597189.bam			  bam
+1085	DG-75							/nfs/cancer_trk0070/00000273/1597191.bam.bai			  bam bai
+1085	DIFI							/nfs/cancer_trk0057/00000227/939468.bam				  bam
+1085	DIFI							/nfs/cancer_trk0057/00000227/939469.bam.bai			  bam bai
+1085	DJM-1							/nfs/cancer_trk0070/00000272/1393621.bam			  bam
+1085	DJM-1							/nfs/cancer_trk0070/00000271/1393622.bam.bai			  bam bai
+1085	DOK							/nfs/cancer_trk0071/00000277/1599342.bam			  bam
+1085	DOK							/nfs/cancer_trk0071/00000276/1599343.bam.bai			  bam bai
+1085	DOV13							/nfs/cancer_trk0071/00000276/1596940.bam			  bam
+1085	DOV13							/nfs/cancer_trk0070/00000273/1596942.bam.bai			  bam bai
+1085	DSH1							/nfs/cancer_trk0071/00000276/1596950.bam			  bam
+1085	DSH1							/nfs/cancer_trk0071/00000275/1596955.bam.bai			  bam bai
+1085	DoTc2-4510						/nfs/cancer_trk0071/00000276/1596808.bam			  bam
+1085	DoTc2-4510						/nfs/cancer_trk0071/00000274/1596809.bam.bai			  bam bai
+1085	EB-3							/nfs/cancer_trk0071/00000277/1597268.bam			  bam
+1085	EB-3							/nfs/cancer_trk0070/00000273/1597269.bam.bai			  bam bai
+1085	EB2							/nfs/cancer_trk0071/00000277/1599338.bam			  bam
+1085	EB2							/nfs/cancer_trk0071/00000276/1599339.bam.bai			  bam bai
+1085	EGI-1							/nfs/cancer_trk0071/00000277/1597192.bam			  bam
+1085	EGI-1							/nfs/cancer_trk0070/00000273/1597194.bam.bai			  bam bai
+1085	EM-2							/nfs/cancer_trk0061/00000225/929019.bam				  bam
+1085	EM-2							/nfs/cancer_trk0061/00000225/929020.bam.bai			  bam bai
+1085	EMC-BAC-1						/nfs/cancer_trk0064/00000249/1110688.bam			  bam
+1085	EMC-BAC-1						/nfs/cancer_trk0064/00000249/1110689.bam.bai			  bam bai
+1085	EMC-BAC-2						/nfs/cancer_trk0064/00000249/1110781.bam			  bam
+1085	EMC-BAC-2						/nfs/cancer_trk0064/00000249/1110782.bam.bai			  bam bai
+1085	ES1							/nfs/cancer_trk0070/00000272/1393059.bam			  bam
+1085	ES1							/nfs/cancer_trk0070/00000271/1393060.bam.bai			  bam bai
+1085	ES3							/nfs/cancer_trk0070/00000271/1393055.bam			  bam
+1085	ES3							/nfs/cancer_trk0070/00000271/1393056.bam.bai			  bam bai
+1085	ES4							/nfs/cancer_trk0070/00000271/1393625.bam			  bam
+1085	ES4							/nfs/cancer_trk0070/00000271/1393626.bam.bai			  bam bai
+1085	ES5							/nfs/cancer_trk0025/00000090/1410243.bam			  bam
+1085	ES5							/nfs/cancer_trk0037/00000134/1410244.bam.bai			  bam bai
+1085	ES6							/nfs/cancer_trk0038/00000138/1440917.bam			  bam
+1085	ES6							/nfs/cancer_trk0038/00000138/1440918.bam.bai			  bam bai
+1085	ES7							/nfs/cancer_trk0037/00000137/1439699.bam			  bam
+1085	ES7							/nfs/cancer_trk0037/00000137/1439700.bam.bai			  bam bai
+1085	ES8							/nfs/cancer_trk0033/00000121/1412418.bam			  bam
+1085	ES8							/nfs/cancer_trk0037/00000134/1412419.bam.bai			  bam bai
+1085	ESO26							/nfs/cancer_trk0071/00000277/1599332.bam			  bam
+1085	ESO26							/nfs/cancer_trk0071/00000276/1599333.bam.bai			  bam bai
+1085	ESO51							/nfs/cancer_trk0071/00000277/1597172.bam			  bam
+1085	ESO51							/nfs/cancer_trk0070/00000273/1597173.bam.bai			  bam bai
+1085	ETK-1							/nfs/cancer_trk0071/00000276/1596976.bam			  bam
+1085	ETK-1							/nfs/cancer_trk0071/00000275/1596977.bam.bai			  bam bai
+1085	EVSA-T							/nfs/cancer_trk0038/00000138/1440695.bam			  bam
+1085	EVSA-T							/nfs/cancer_trk0038/00000138/1440696.bam.bai			  bam bai
+1085	EW-1							/nfs/cancer_trk0037/00000137/1440075.bam			  bam
+1085	EW-1							/nfs/cancer_trk0037/00000137/1440076.bam.bai			  bam bai
+1085	EW-11							/nfs/cancer_trk0033/00000121/1412412.bam			  bam
+1085	EW-11							/nfs/cancer_trk0033/00000121/1412413.bam.bai			  bam bai
+1085	EW-12							/nfs/cancer_trk0071/00000276/1597573.bam			  bam
+1085	EW-12							/nfs/cancer_trk0070/00000272/1597574.bam.bai			  bam bai
+1085	EW-13							/nfs/cancer_trk0038/00000138/1440824.bam			  bam
+1085	EW-13							/nfs/cancer_trk0038/00000138/1440825.bam.bai			  bam bai
+1085	EW-16							/nfs/cancer_trk0025/00000090/1410581.bam			  bam
+1085	EW-16							/nfs/cancer_trk0035/00000126/1410582.bam.bai			  bam bai
+1085	EW-18							/nfs/cancer_trk0025/00000090/1410579.bam			  bam
+1085	EW-18							/nfs/cancer_trk0037/00000134/1410580.bam.bai			  bam bai
+1085	EW-22							/nfs/cancer_trk0070/00000271/1393061.bam			  bam
+1085	EW-22							/nfs/cancer_trk0070/00000271/1393062.bam.bai			  bam bai
+1085	EW-24							/nfs/cancer_trk0025/00000090/1409910.bam			  bam
+1085	EW-24							/nfs/cancer_trk0025/00000090/1409911.bam.bai			  bam bai
+1085	EW-3							/nfs/cancer_trk0070/00000272/1412420.bam			  bam
+1085	EW-3							/nfs/cancer_trk0070/00000271/1412421.bam.bai			  bam bai
+1085	EW-7							/nfs/cancer_trk0038/00000138/1440702.bam			  bam
+1085	EW-7							/nfs/cancer_trk0038/00000138/1440704.bam.bai			  bam bai
+1085	EoL-1-cell						/nfs/cancer_trk0071/00000276/1596686.bam			  bam
+1085	EoL-1-cell						/nfs/cancer_trk0070/00000273/1596687.bam.bai			  bam bai
+1085	FLO-1							/nfs/cancer_trk0071/00000277/1597262.bam			  bam
+1085	FLO-1							/nfs/cancer_trk0070/00000273/1597263.bam.bai			  bam bai
+1085	Farage							/nfs/cancer_trk0071/00000276/1596938.bam			  bam
+1085	Farage							/nfs/cancer_trk0070/00000273/1596939.bam.bai			  bam bai
+1085	G-MEL							/nfs/cancer_trk0025/00000090/1409902.bam			  bam
+1085	G-MEL							/nfs/cancer_trk0035/00000126/1409903.bam.bai			  bam bai
+1085	GAK							/nfs/cancer_trk0038/00000138/1440822.bam			  bam
+1085	GAK							/nfs/cancer_trk0038/00000138/1440823.bam.bai			  bam bai
+1085	GEO							/nfs/cancer_trk0071/00000277/1597174.bam			  bam
+1085	GEO							/nfs/cancer_trk0070/00000273/1597176.bam.bai			  bam bai
+1085	GI-ME-N							/nfs/cancer_trk0071/00000277/1597270.bam			  bam
+1085	GI-ME-N							/nfs/cancer_trk0070/00000273/1597271.bam.bai			  bam bai
+1085	GOTO							/nfs/cancer_trk0071/00000276/1596810.bam			  bam
+1085	GOTO							/nfs/cancer_trk0071/00000274/1596811.bam.bai			  bam bai
+1085	GP5d							/nfs/cancer_trk0057/00000227/939476.bam				  bam
+1085	GP5d							/nfs/cancer_trk0057/00000227/939477.bam.bai			  bam bai
+1085	GR-ST							/nfs/cancer_trk0071/00000276/1596978.bam			  bam
+1085	GR-ST							/nfs/cancer_trk0071/00000275/1596979.bam.bai			  bam bai
+1085	GT3TKB							/nfs/cancer_trk0071/00000276/1596980.bam			  bam
+1085	GT3TKB							/nfs/cancer_trk0070/00000273/1596981.bam.bai			  bam bai
+1085	H-EMC-SS						/nfs/cancer_trk0038/00000138/1440818.bam			  bam
+1085	H-EMC-SS						/nfs/cancer_trk0038/00000138/1440819.bam.bai			  bam bai
+1085	H2369							/nfs/cancer_trk0056/00000217/868930.bam				  bam
+1085	H2369							/nfs/cancer_trk0056/00000216/868931.bam.bai			  bam bai
+1085	H2369							/nfs/cancer_trk0036/00000130/915162.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2369							/nfs/cancer_trk0036/00000131/916009.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2373							/nfs/cancer_trk0056/00000217/868932.bam				  bam
+1085	H2373							/nfs/cancer_trk0056/00000217/868933.bam.bai			  bam bai
+1085	H2373							/nfs/cancer_trk0036/00000130/915151.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2373							/nfs/cancer_trk0050/00000190/916033.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2461							/nfs/cancer_trk0056/00000217/868934.bam				  bam
+1085	H2461							/nfs/cancer_trk0056/00000216/868935.bam.bai			  bam bai
+1085	H2461							/nfs/cancer_trk0034/00000123/914791.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2461							/nfs/cancer_trk0050/00000190/916031.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2591							/nfs/cancer_trk0056/00000217/868926.bam				  bam
+1085	H2591							/nfs/cancer_trk0056/00000217/868927.bam.bai			  bam bai
+1085	H2591							/nfs/cancer_trk0060/00000220/915888.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2591							/nfs/cancer_trk0052/00000200/917104.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2595							/nfs/cancer_trk0056/00000217/868928.bam				  bam
+1085	H2595							/nfs/cancer_trk0056/00000217/868929.bam.bai			  bam bai
+1085	H2595							/nfs/cancer_trk0051/00000194/915826.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2595							/nfs/cancer_trk0050/00000190/916059.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2722							/nfs/cancer_trk0056/00000217/868936.bam				  bam
+1085	H2722							/nfs/cancer_trk0056/00000217/868937.bam.bai			  bam bai
+1085	H2722							/nfs/cancer_trk0051/00000194/915824.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2722							/nfs/cancer_trk0050/00000190/916055.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2731							/nfs/cancer_trk0056/00000217/869751.bam				  bam
+1085	H2731							/nfs/cancer_trk0056/00000217/869752.bam.bai			  bam bai
+1085	H2731							/nfs/cancer_trk0034/00000123/914784.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2731							/nfs/cancer_trk0036/00000130/915328.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2795							/nfs/cancer_trk0060/00000218/877983.bam				  bam
+1085	H2795							/nfs/cancer_trk0031/00000112/877984.bam.bai			  bam bai
+1085	H2795							/nfs/cancer_trk0034/00000123/914837.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2795							/nfs/cancer_trk0052/00000200/917107.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2803							/nfs/cancer_trk0060/00000218/877981.bam				  bam
+1085	H2803							/nfs/cancer_trk0031/00000112/877982.bam.bai			  bam bai
+1085	H2803							/nfs/cancer_trk0051/00000194/915851.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2803							/nfs/cancer_trk0050/00000190/916057.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2804							/nfs/cancer_trk0060/00000218/877905.bam				  bam
+1085	H2804							/nfs/cancer_trk0054/00000208/877906.bam.bai			  bam bai
+1085	H2804							/nfs/cancer_trk0034/00000123/914351.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2804							/nfs/cancer_trk0051/00000194/916872.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2810							/nfs/cancer_trk0060/00000218/877907.bam				  bam
+1085	H2810							/nfs/cancer_trk0056/00000217/877908.bam.bai			  bam bai
+1085	H2810							/nfs/cancer_trk0036/00000130/914958.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2810							/nfs/cancer_trk0052/00000200/917454.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2818							/nfs/cancer_trk0060/00000218/877915.bam				  bam
+1085	H2818							/nfs/cancer_trk0054/00000208/877916.bam.bai			  bam bai
+1085	H2818							/nfs/cancer_trk0036/00000130/914919.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2818							/nfs/cancer_trk0052/00000200/917102.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H2869							/nfs/cancer_trk0060/00000218/877909.bam				  bam
+1085	H2869							/nfs/cancer_trk0052/00000200/877910.bam.bai			  bam bai
+1085	H2869							/nfs/cancer_trk0034/00000123/914421.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H2869							/nfs/cancer_trk0050/00000190/916047.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H290							/nfs/cancer_trk0060/00000218/877911.bam				  bam
+1085	H290							/nfs/cancer_trk0056/00000217/877912.bam.bai			  bam bai
+1085	H290							/nfs/cancer_trk0051/00000194/915855.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H290							/nfs/cancer_trk0050/00000190/916040.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H3118							/nfs/cancer_trk0071/00000276/1596806.bam			  bam
+1085	H3118							/nfs/cancer_trk0071/00000274/1596807.bam.bai			  bam bai
+1085	H513							/nfs/cancer_trk0060/00000218/877913.bam				  bam
+1085	H513							/nfs/cancer_trk0056/00000217/877914.bam.bai			  bam bai
+1085	H513							/nfs/cancer_trk0034/00000123/914796.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	H513							/nfs/cancer_trk0036/00000131/915370.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	H9							/nfs/cancer_trk0071/00000277/1597195.bam			  bam
+1085	H9							/nfs/cancer_trk0070/00000273/1597196.bam.bai			  bam bai
+1085	HA7-RCC							/nfs/cancer_trk0038/00000138/1440816.bam			  bam
+1085	HA7-RCC							/nfs/cancer_trk0038/00000138/1440817.bam.bai			  bam bai
+1085	HAL							/nfs/cancer_trk0066/00000254/1113462.bam			  bam
+1085	HAL							/nfs/cancer_trk0066/00000254/1113463.bam.bai			  bam bai
+1085	HAL-01							/nfs/cancer_trk0071/00000277/1597280.bam			  bam
+1085	HAL-01							/nfs/cancer_trk0070/00000273/1597281.bam.bai			  bam bai
+1085	HC-1							/nfs/cancer_trk0071/00000277/1599340.bam			  bam
+1085	HC-1							/nfs/cancer_trk0071/00000276/1599341.bam.bai			  bam bai
+1085	HCC1187							/nfs/cancer_trk0061/00000225/929017.bam				  bam
+1085	HCC1187							/nfs/cancer_trk0061/00000225/929018.bam.bai			  bam bai
+1085	HCC1806							/nfs/cancer_trk0061/00000225/929021.bam				  bam
+1085	HCC1806							/nfs/cancer_trk0061/00000225/929022.bam.bai			  bam bai
+1085	HCC2998							/nfs/cancer_trk0057/00000227/939474.bam				  bam
+1085	HCC2998							/nfs/cancer_trk0057/00000227/939475.bam.bai			  bam bai
+1085	HCE-4							/nfs/cancer_trk0071/00000277/1599336.bam			  bam
+1085	HCE-4							/nfs/cancer_trk0071/00000276/1599337.bam.bai			  bam bai
+1085	HCT-116							/nfs/cancer_trk0060/00000218/877921.bam				  bam
+1085	HCT-116							/nfs/cancer_trk0033/00000118/877922.bam.bai			  bam bai
+1085	HCT-116							/nfs/cancer_trk0036/00000130/914923.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	HCT-116							/nfs/cancer_trk0036/00000131/915338.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	HCT-15							/nfs/cancer_trk0057/00000227/939470.bam				  bam
+1085	HCT-15							/nfs/cancer_trk0057/00000227/939471.bam.bai			  bam bai
+1085	HDLM-2							/nfs/cancer_trk0071/00000277/1597276.bam			  bam
+1085	HDLM-2							/nfs/cancer_trk0070/00000273/1597277.bam.bai			  bam bai
+1085	HEC-1							/nfs/cancer_trk0071/00000277/1597197.bam			  bam
+1085	HEC-1							/nfs/cancer_trk0070/00000273/1597198.bam.bai			  bam bai
+1085	HLE							/nfs/cancer_trk0072/00000281/1596455.bam			  bam
+1085	HLE							/nfs/cancer_trk0072/00000279/1596456.bam.bai			  bam bai
+1085	HMV-II							/nfs/cancer_trk0070/00000271/1393191.bam			  bam
+1085	HMV-II							/nfs/cancer_trk0070/00000271/1393192.bam.bai			  bam bai
+1085	HN							/nfs/cancer_trk0072/00000279/1654502.bam			  bam
+1085	HN							/nfs/cancer_trk0072/00000278/1654503.bam.bai			  bam bai
+1085	HO-1-N-1						/nfs/cancer_trk0072/00000279/1654484.bam			  bam
+1085	HO-1-N-1						/nfs/cancer_trk0072/00000278/1654485.bam.bai			  bam bai
+1085	HO-1-u-1						/nfs/cancer_trk0072/00000279/1654386.bam			  bam
+1085	HO-1-u-1						/nfs/cancer_trk0072/00000278/1654387.bam.bai			  bam bai
+1085	HOSMNNG							/nfs/cancer_trk0066/00000254/1113460.bam			  bam
+1085	HOSMNNG							/nfs/cancer_trk0064/00000248/1113461.bam.bai			  bam bai
+1085	HSC-39							/nfs/cancer_trk0072/00000279/1654500.bam			  bam
+1085	HSC-39							/nfs/cancer_trk0072/00000278/1654501.bam.bai			  bam bai
+1085	HT-115							/nfs/cancer_trk0058/00000232/961210.bam				  bam
+1085	HT-115							/nfs/cancer_trk0050/00000190/961211.bam.bai			  bam bai
+1085	HT-29							/nfs/cancer_trk0060/00000218/877923.bam				  bam
+1085	HT-29							/nfs/cancer_trk0033/00000118/877924.bam.bai			  bam bai
+1085	HT-29							/nfs/cancer_trk0050/00000192/916104.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	HT-29							/nfs/cancer_trk0050/00000190/916045.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	HT-3							/nfs/cancer_trk0072/00000279/1654504.bam			  bam
+1085	HT-3							/nfs/cancer_trk0072/00000278/1654505.bam.bai			  bam bai
+1085	HT55							/nfs/cancer_trk0058/00000232/961180.bam				  bam
+1085	HT55							/nfs/cancer_trk0050/00000190/961181.bam.bai			  bam bai
+1085	HTC-C3							/nfs/cancer_trk0037/00000137/1440073.bam			  bam
+1085	HTC-C3							/nfs/cancer_trk0037/00000137/1440074.bam.bai			  bam bai
+1085	HUH-6-clone5						/nfs/cancer_trk0072/00000280/1670865.bam			  bam
+1085	HUH-6-clone5						/nfs/cancer_trk0072/00000281/1670866.bam.bai			  bam bai
+1085	HeLa							/nfs/cancer_trk0071/00000277/1597169.bam			  bam
+1085	HeLa							/nfs/cancer_trk0070/00000273/1597170.bam.bai			  bam bai
+1085	Hey							/nfs/cancer_trk0071/00000277/1599330.bam			  bam
+1085	Hey							/nfs/cancer_trk0071/00000276/1599331.bam.bai			  bam bai
+1085	Hs-445							/nfs/cancer_trk0072/00000279/1654498.bam			  bam
+1085	Hs-445							/nfs/cancer_trk0072/00000278/1654499.bam.bai			  bam bai
+1085	Hs633T							/nfs/cancer_trk0072/00000279/1654496.bam			  bam
+1085	Hs633T							/nfs/cancer_trk0072/00000278/1654497.bam.bai			  bam bai
+1085	HuO-3N1							/nfs/cancer_trk0066/00000254/1113474.bam			  bam
+1085	HuO-3N1							/nfs/cancer_trk0066/00000254/1113475.bam.bai			  bam bai
+1085	HuO9							/nfs/cancer_trk0064/00000249/1110678.bam			  bam
+1085	HuO9							/nfs/cancer_trk0064/00000249/1110679.bam.bai			  bam bai
+1085	IHH-4							/nfs/cancer_trk0038/00000138/1440685.bam			  bam
+1085	IHH-4							/nfs/cancer_trk0038/00000138/1440686.bam.bai			  bam bai
+1085	IM-9							/nfs/cancer_trk0037/00000137/1440221.bam			  bam
+1085	IM-9							/nfs/cancer_trk0037/00000137/1440222.bam.bai			  bam bai
+1085	IMR-5							/nfs/cancer_trk0072/00000280/1670867.bam			  bam
+1085	IMR-5							/nfs/cancer_trk0072/00000280/1670868.bam.bai			  bam bai
+1085	IST-MEL1						/nfs/cancer_trk0038/00000138/1440503.bam			  bam
+1085	IST-MEL1						/nfs/cancer_trk0037/00000137/1440504.bam.bai			  bam bai
+1085	IST-MES1						/nfs/cancer_trk0060/00000218/877925.bam				  bam
+1085	IST-MES1						/nfs/cancer_trk0056/00000217/877926.bam.bai			  bam bai
+1085	IST-MES1						/nfs/cancer_trk0034/00000123/914793.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	IST-MES1						/nfs/cancer_trk0050/00000190/916049.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	IST-SL1							/nfs/cancer_trk0064/00000249/1110754.bam			  bam
+1085	IST-SL1							/nfs/cancer_trk0064/00000249/1110755.bam.bai			  bam bai
+1085	IST-SL2							/nfs/cancer_trk0064/00000249/1110783.bam			  bam
+1085	IST-SL2							/nfs/cancer_trk0064/00000249/1110784.bam.bai			  bam bai
+1085	JAR							/nfs/cancer_trk0072/00000280/1670869.bam			  bam
+1085	JAR							/nfs/cancer_trk0072/00000281/1670870.bam.bai			  bam bai
+1085	JEG-3							/nfs/cancer_trk0072/00000280/1670871.bam			  bam
+1085	JEG-3							/nfs/cancer_trk0072/00000281/1670872.bam.bai			  bam bai
+1085	JHOS-3							/nfs/cancer_trk0072/00000280/1670861.bam			  bam
+1085	JHOS-3							/nfs/cancer_trk0072/00000280/1670862.bam.bai			  bam bai
+1085	JHU-011							/nfs/cancer_trk0072/00000280/1670580.bam			  bam
+1085	JHU-011							/nfs/cancer_trk0072/00000281/1670581.bam.bai			  bam bai
+1085	JHU-022							/nfs/cancer_trk0072/00000280/1670582.bam			  bam
+1085	JHU-022							/nfs/cancer_trk0072/00000281/1670583.bam.bai			  bam bai
+1085	JHU-029							/nfs/cancer_trk0072/00000280/1670849.bam			  bam
+1085	JHU-029							/nfs/cancer_trk0072/00000280/1670850.bam.bai			  bam bai
+1085	JSC-1							/nfs/cancer_trk0072/00000280/1670853.bam			  bam
+1085	JSC-1							/nfs/cancer_trk0072/00000281/1670854.bam.bai			  bam bai
+1085	JiyoyeP-2003						/nfs/cancer_trk0072/00000280/1670873.bam			  bam
+1085	JiyoyeP-2003						/nfs/cancer_trk0072/00000281/1670874.bam.bai			  bam bai
+1085	K2							/nfs/cancer_trk0025/00000090/1410235.bam			  bam
+1085	K2							/nfs/cancer_trk0025/00000090/1410236.bam.bai			  bam bai
+1085	K5							/nfs/cancer_trk0037/00000137/1439957.bam			  bam
+1085	K5							/nfs/cancer_trk0037/00000137/1439958.bam.bai			  bam bai
+1085	KARPAS-1106P						/nfs/cancer_trk0072/00000280/1670855.bam			  bam
+1085	KARPAS-1106P						/nfs/cancer_trk0072/00000280/1670856.bam.bai			  bam bai
+1085	KARPAS-231						/nfs/cancer_trk0072/00000280/1670857.bam			  bam
+1085	KARPAS-231						/nfs/cancer_trk0072/00000281/1670858.bam.bai			  bam bai
+1085	KARPAS-45						/nfs/cancer_trk0072/00000280/1670875.bam			  bam
+1085	KARPAS-45						/nfs/cancer_trk0072/00000281/1670876.bam.bai			  bam bai
+1085	KGN							/nfs/cancer_trk0072/00000280/1671254.bam			  bam
+1085	KGN							/nfs/cancer_trk0072/00000281/1671257.bam.bai			  bam bai
+1085	KINGS-1							/nfs/cancer_trk0072/00000280/1671249.bam			  bam
+1085	KINGS-1							/nfs/cancer_trk0072/00000280/1671252.bam.bai			  bam bai
+1085	KMH-2							/nfs/cancer_trk0037/00000137/1440491.bam			  bam
+1085	KMH-2							/nfs/cancer_trk0037/00000137/1440492.bam.bai			  bam bai
+1085	KMOE-2							/nfs/cancer_trk0072/00000280/1670586.bam			  bam
+1085	KMOE-2							/nfs/cancer_trk0072/00000280/1670587.bam.bai			  bam bai
+1085	KNS-81-FD						/nfs/cancer_trk0072/00000280/1670879.bam			  bam
+1085	KNS-81-FD						/nfs/cancer_trk0072/00000281/1670880.bam.bai			  bam bai
+1085	KO52							/nfs/cancer_trk0072/00000280/1670859.bam			  bam
+1085	KO52							/nfs/cancer_trk0072/00000281/1670860.bam.bai			  bam bai
+1085	KON							/nfs/cancer_trk0072/00000280/1670851.bam			  bam
+1085	KON							/nfs/cancer_trk0072/00000281/1670852.bam.bai			  bam bai
+1085	KOSC-2							/nfs/cancer_trk0072/00000280/1671010.bam			  bam
+1085	KOSC-2							/nfs/cancer_trk0072/00000280/1671013.bam.bai			  bam bai
+1085	KP-1N							/nfs/cancer_trk0072/00000280/1670584.bam			  bam
+1085	KP-1N							/nfs/cancer_trk0072/00000281/1670585.bam.bai			  bam bai
+1085	KP-N-YS							/nfs/cancer_trk0072/00000280/1670881.bam			  bam
+1085	KP-N-YS							/nfs/cancer_trk0072/00000281/1670882.bam.bai			  bam bai
+1085	KPD							/nfs/cancer_trk0066/00000254/1113464.bam			  bam
+1085	KPD							/nfs/cancer_trk0066/00000254/1113465.bam.bai			  bam bai
+1085	KU812							/nfs/cancer_trk0061/00000225/928994.bam				  bam
+1085	KU812							/nfs/cancer_trk0061/00000225/928995.bam.bai			  bam bai
+1085	KY821							/nfs/cancer_trk0072/00000280/1670877.bam			  bam
+1085	KY821							/nfs/cancer_trk0072/00000280/1670878.bam.bai			  bam bai
+1085	KYAE-1							/nfs/cancer_trk0072/00000280/1670863.bam			  bam
+1085	KYAE-1							/nfs/cancer_trk0072/00000279/1670864.bam.bai			  bam bai
+1085	KYSE-220						/nfs/cancer_trk0072/00000280/1671244.bam			  bam
+1085	KYSE-220						/nfs/cancer_trk0072/00000281/1671246.bam.bai			  bam bai
+1085	KYSE-50							/nfs/cancer_trk0073/00000284/1759324.bam			  bam
+1085	KYSE-50							/nfs/cancer_trk0073/00000284/1759325.bam.bai			  bam bai
+1085	LAMA-84							/nfs/cancer_trk0061/00000225/928941.bam				  bam
+1085	LAMA-84							/nfs/cancer_trk0061/00000225/928942.bam.bai			  bam bai
+1085	LAN-6							/nfs/cancer_trk0073/00000283/1715830.bam			  bam
+1085	LAN-6							/nfs/cancer_trk0073/00000282/1715831.bam.bai			  bam bai
+1085	LB1047-RCC						/nfs/cancer_trk0038/00000140/1463590.bam			  bam
+1085	LB1047-RCC						/nfs/cancer_trk0038/00000140/1463591.bam.bai			  bam bai
+1085	LB2241-RCC						/nfs/cancer_trk0037/00000137/1440065.bam			  bam
+1085	LB2241-RCC						/nfs/cancer_trk0037/00000137/1440066.bam.bai			  bam bai
+1085	LB2518-MEL						/nfs/cancer_trk0070/00000271/1393617.bam			  bam
+1085	LB2518-MEL						/nfs/cancer_trk0070/00000271/1393618.bam.bai			  bam bai
+1085	LB373-MEL-D						/nfs/cancer_trk0037/00000137/1440067.bam			  bam
+1085	LB373-MEL-D						/nfs/cancer_trk0037/00000136/1440068.bam.bai			  bam bai
+1085	LB647-SCLC						/nfs/cancer_trk0064/00000249/1110785.bam			  bam
+1085	LB647-SCLC						/nfs/cancer_trk0064/00000249/1110786.bam.bai			  bam bai
+1085	LB771-HNC						/nfs/cancer_trk0073/00000284/1759326.bam			  bam
+1085	LB771-HNC						/nfs/cancer_trk0073/00000284/1759327.bam.bai			  bam bai
+1085	LB831-BLC						/nfs/cancer_trk0073/00000282/1715782.bam			  bam
+1085	LB831-BLC						/nfs/cancer_trk0073/00000282/1715783.bam.bai			  bam bai
+1085	LB996-RCC						/nfs/cancer_trk0037/00000137/1440497.bam			  bam
+1085	LB996-RCC						/nfs/cancer_trk0037/00000137/1440498.bam.bai			  bam bai
+1085	LC-1-sq							/nfs/cancer_trk0064/00000249/1110750.bam			  bam
+1085	LC-1-sq							/nfs/cancer_trk0064/00000249/1110751.bam.bai			  bam bai
+1085	LC-2-ad							/nfs/cancer_trk0064/00000249/1110692.bam			  bam
+1085	LC-2-ad							/nfs/cancer_trk0064/00000249/1110693.bam.bai			  bam bai
+1085	LC4-1							/nfs/cancer_trk0073/00000282/1715790.bam			  bam
+1085	LC4-1							/nfs/cancer_trk0073/00000282/1715791.bam.bai			  bam bai
+1085	LIM1215							/nfs/cancer_trk0073/00000283/1716004.bam			  bam
+1085	LIM1215							/nfs/cancer_trk0073/00000282/1716005.bam.bai			  bam bai
+1085	LN-405							/nfs/cancer_trk0073/00000283/1715818.bam			  bam
+1085	LN-405							/nfs/cancer_trk0073/00000282/1715819.bam.bai			  bam bai
+1085	LNZTA3WT4						/nfs/cancer_trk0073/00000282/1715746.bam			  bam
+1085	LNZTA3WT4						/nfs/cancer_trk0073/00000282/1715747.bam.bai			  bam bai
+1085	LS-180							/nfs/cancer_trk0057/00000227/939492.bam				  bam
+1085	LS-180							/nfs/cancer_trk0057/00000227/939493.bam.bai			  bam bai
+1085	LS-513							/nfs/cancer_trk0057/00000227/939478.bam				  bam
+1085	LS-513							/nfs/cancer_trk0057/00000227/939479.bam.bai			  bam bai
+1085	LU-134-A						/nfs/cancer_trk0064/00000249/1110787.bam			  bam
+1085	LU-134-A						/nfs/cancer_trk0064/00000249/1110788.bam.bai			  bam bai
+1085	LU-135							/nfs/cancer_trk0065/00000253/1104520.bam			  bam
+1085	LU-135							/nfs/cancer_trk0065/00000253/1104541.bam.bai			  bam bai
+1085	LU-139							/nfs/cancer_trk0065/00000253/1104433.bam			  bam
+1085	LU-139							/nfs/cancer_trk0065/00000253/1104434.bam.bai			  bam bai
+1085	LU-165							/nfs/cancer_trk0066/00000254/1113472.bam			  bam
+1085	LU-165							/nfs/cancer_trk0064/00000248/1113473.bam.bai			  bam bai
+1085	M059J							/nfs/cancer_trk0073/00000283/1715826.bam			  bam
+1085	M059J							/nfs/cancer_trk0073/00000282/1715827.bam.bai			  bam bai
+1085	M14							/nfs/cancer_trk0070/00000271/1393619.bam			  bam
+1085	M14							/nfs/cancer_trk0070/00000271/1393620.bam.bai			  bam bai
+1085	MC-1010							/nfs/cancer_trk0073/00000283/1733150.bam			  bam
+1085	MC-1010							/nfs/cancer_trk0073/00000283/1733151.bam.bai			  bam bai
+1085	MC-CAR							/nfs/cancer_trk0038/00000138/1440911.bam			  bam
+1085	MC-CAR							/nfs/cancer_trk0038/00000138/1440912.bam.bai			  bam bai
+1085	MC-IXC							/nfs/cancer_trk0073/00000282/1715215.bam			  bam
+1085	MC-IXC							/nfs/cancer_trk0073/00000282/1715220.bam.bai			  bam bai
+1085	MCC13							/nfs/cancer_trk0070/00000271/1393053.bam			  bam
+1085	MCC13							/nfs/cancer_trk0070/00000271/1393054.bam.bai			  bam bai
+1085	MCC26							/nfs/cancer_trk0038/00000138/1440808.bam			  bam
+1085	MCC26							/nfs/cancer_trk0038/00000138/1440809.bam.bai			  bam bai
+1085	MDA-MB-330						/nfs/cancer_trk0025/00000090/1410573.bam			  bam
+1085	MDA-MB-330						/nfs/cancer_trk0025/00000090/1410574.bam.bai			  bam bai
+1085	MDST8							/nfs/cancer_trk0064/00000249/1110686.bam			  bam
+1085	MDST8							/nfs/cancer_trk0064/00000249/1110687.bam.bai			  bam bai
+1085	ME-180							/nfs/cancer_trk0073/00000282/1715780.bam			  bam
+1085	ME-180							/nfs/cancer_trk0073/00000282/1715781.bam.bai			  bam bai
+1085	MFH-ino							/nfs/cancer_trk0073/00000283/1715822.bam			  bam
+1085	MFH-ino							/nfs/cancer_trk0073/00000282/1715823.bam.bai			  bam bai
+1085	MFM-223							/nfs/cancer_trk0070/00000271/1393623.bam			  bam
+1085	MFM-223							/nfs/cancer_trk0070/00000271/1393624.bam.bai			  bam bai
+1085	MHH-PREB-1						/nfs/cancer_trk0073/00000282/1715792.bam			  bam
+1085	MHH-PREB-1						/nfs/cancer_trk0073/00000282/1715793.bam.bai			  bam bai
+1085	MHM							/nfs/cancer_trk0068/00000264/1234039.bam			  bam
+1085	MHM							/nfs/cancer_trk0068/00000264/1234040.bam.bai			  bam bai
+1085	MKN28							/nfs/cancer_trk0073/00000282/1715794.bam			  bam
+1085	MKN28							/nfs/cancer_trk0073/00000282/1715795.bam.bai			  bam bai
+1085	ML-2							/nfs/cancer_trk0073/00000282/1715796.bam			  bam
+1085	ML-2							/nfs/cancer_trk0073/00000282/1715797.bam.bai			  bam bai
+1085	MLMA							/nfs/cancer_trk0073/00000282/1715798.bam			  bam
+1085	MLMA							/nfs/cancer_trk0073/00000282/1715799.bam.bai			  bam bai
+1085	MMAC-SF							/nfs/cancer_trk0038/00000138/1440915.bam			  bam
+1085	MMAC-SF							/nfs/cancer_trk0038/00000138/1440916.bam.bai			  bam bai
+1085	MN-60							/nfs/cancer_trk0073/00000282/1715232.bam			  bam
+1085	MN-60							/nfs/cancer_trk0073/00000282/1715244.bam.bai			  bam bai
+1085	MOG-G-CCM						/nfs/cancer_trk0073/00000282/1715800.bam			  bam
+1085	MOG-G-CCM						/nfs/cancer_trk0073/00000282/1715801.bam.bai			  bam bai
+1085	MOG-G-UVW						/nfs/cancer_trk0073/00000282/1715258.bam			  bam
+1085	MOG-G-UVW						/nfs/cancer_trk0073/00000282/1715288.bam.bai			  bam bai
+1085	MOLT-4							/nfs/cancer_trk0073/00000282/1715786.bam			  bam
+1085	MOLT-4							/nfs/cancer_trk0073/00000282/1715787.bam.bai			  bam bai
+1085	MRK-nu-1						/nfs/cancer_trk0070/00000271/1393057.bam			  bam
+1085	MRK-nu-1						/nfs/cancer_trk0070/00000271/1393058.bam.bai			  bam bai
+1085	MS-1							/nfs/cancer_trk0064/00000249/1110756.bam			  bam
+1085	MS-1							/nfs/cancer_trk0064/00000249/1110757.bam.bai			  bam bai
+1085	MS751							/nfs/cancer_trk0073/00000282/1715748.bam			  bam
+1085	MS751							/nfs/cancer_trk0073/00000282/1715749.bam.bai			  bam bai
+1085	MY-M12							/nfs/cancer_trk0073/00000282/1715762.bam			  bam
+1085	MY-M12							/nfs/cancer_trk0073/00000282/1715763.bam.bai			  bam bai
+1085	MZ1-PC							/nfs/cancer_trk0073/00000282/1715784.bam			  bam
+1085	MZ1-PC							/nfs/cancer_trk0073/00000282/1715785.bam.bai			  bam bai
+1085	MZ2-MEL							/nfs/cancer_trk0037/00000137/1440077.bam			  bam
+1085	MZ2-MEL							/nfs/cancer_trk0037/00000137/1440078.bam.bai			  bam bai
+1085	MZ7-mel							/nfs/cancer_trk0037/00000137/1440069.bam			  bam
+1085	MZ7-mel							/nfs/cancer_trk0037/00000137/1440070.bam.bai			  bam bai
+1085	Mo-T							/nfs/cancer_trk0073/00000282/1715318.bam			  bam
+1085	Mo-T							/nfs/cancer_trk0073/00000282/1715340.bam.bai			  bam bai
+1085	NB-TU-1-10						/nfs/cancer_trk0073/00000282/1715750.bam			  bam
+1085	NB-TU-1-10						/nfs/cancer_trk0073/00000282/1715751.bam.bai			  bam bai
+1085	NB10							/nfs/cancer_trk0073/00000283/1715832.bam			  bam
+1085	NB10							/nfs/cancer_trk0073/00000282/1715833.bam.bai			  bam bai
+1085	NB12							/nfs/cancer_trk0073/00000283/1715834.bam			  bam
+1085	NB12							/nfs/cancer_trk0073/00000282/1715835.bam.bai			  bam bai
+1085	NB13							/nfs/cancer_trk0073/00000283/1715842.bam			  bam
+1085	NB13							/nfs/cancer_trk0073/00000282/1715843.bam.bai			  bam bai
+1085	NB14							/nfs/cancer_trk0073/00000283/1715844.bam			  bam
+1085	NB14							/nfs/cancer_trk0073/00000282/1715845.bam.bai			  bam bai
+1085	NB17							/nfs/cancer_trk0073/00000282/1715355.bam			  bam
+1085	NB17							/nfs/cancer_trk0073/00000282/1715356.bam.bai			  bam bai
+1085	NB5							/nfs/cancer_trk0073/00000283/1715840.bam			  bam
+1085	NB5							/nfs/cancer_trk0073/00000282/1715841.bam.bai			  bam bai
+1085	NB6							/nfs/cancer_trk0073/00000283/1715836.bam			  bam
+1085	NB6							/nfs/cancer_trk0073/00000282/1715837.bam.bai			  bam bai
+1085	NB69							/nfs/cancer_trk0073/00000283/1715802.bam			  bam
+1085	NB69							/nfs/cancer_trk0073/00000282/1715803.bam.bai			  bam bai
+1085	NB7							/nfs/cancer_trk0073/00000283/1715838.bam			  bam
+1085	NB7							/nfs/cancer_trk0073/00000282/1715839.bam.bai			  bam bai
+1085	NBsusSR							/nfs/cancer_trk0074/00000286/1763698.bam			  bam
+1085	NBsusSR							/nfs/cancer_trk0074/00000286/1763699.bam.bai			  bam bai
+1085	NCC010							/nfs/cancer_trk0038/00000141/1463594.bam			  bam
+1085	NCC010							/nfs/cancer_trk0038/00000140/1463595.bam.bai			  bam bai
+1085	NCC021							/nfs/cancer_trk0038/00000138/1440691.bam			  bam
+1085	NCC021							/nfs/cancer_trk0038/00000138/1440692.bam.bai			  bam bai
+1085	NCCIT							/nfs/cancer_trk0073/00000283/1715804.bam			  bam
+1085	NCCIT							/nfs/cancer_trk0073/00000282/1715805.bam.bai			  bam bai
+1085	NCI-H128						/nfs/cancer_trk0064/00000249/1110789.bam			  bam
+1085	NCI-H128						/nfs/cancer_trk0064/00000249/1110790.bam.bai			  bam bai
+1085	NCI-H1304						/nfs/cancer_trk0064/00000249/1110690.bam			  bam
+1085	NCI-H1304						/nfs/cancer_trk0064/00000249/1110691.bam.bai			  bam bai
+1085	NCI-H1417						/nfs/cancer_trk0064/00000249/1110752.bam			  bam
+1085	NCI-H1417						/nfs/cancer_trk0064/00000249/1110753.bam.bai			  bam bai
+1085	NCI-H1688						/nfs/cancer_trk0066/00000254/1113452.bam			  bam
+1085	NCI-H1688						/nfs/cancer_trk0066/00000254/1113453.bam.bai			  bam bai
+1085	NCI-H1770						/nfs/cancer_trk0065/00000253/1104431.bam			  bam
+1085	NCI-H1770						/nfs/cancer_trk0065/00000253/1104432.bam.bai			  bam bai
+1085	NCI-H1836						/nfs/cancer_trk0064/00000249/1110748.bam			  bam
+1085	NCI-H1836						/nfs/cancer_trk0064/00000247/1110749.bam.bai			  bam bai
+1085	NCI-H187						/nfs/cancer_trk0065/00000253/1104320.bam			  bam
+1085	NCI-H187						/nfs/cancer_trk0065/00000252/1104321.bam.bai			  bam bai
+1085	NCI-H1993						/nfs/cancer_trk0065/00000253/1104302.bam			  bam
+1085	NCI-H1993						/nfs/cancer_trk0065/00000252/1104303.bam.bai			  bam bai
+1085	NCI-H2135						/nfs/cancer_trk0066/00000254/1113454.bam			  bam
+1085	NCI-H2135						/nfs/cancer_trk0066/00000254/1113455.bam.bai			  bam bai
+1085	NCI-H2141						/nfs/cancer_trk0066/00000254/1113466.bam			  bam
+1085	NCI-H2141						/nfs/cancer_trk0066/00000254/1113467.bam.bai			  bam bai
+1085	NCI-H250						/nfs/cancer_trk0066/00000254/1113478.bam			  bam
+1085	NCI-H250						/nfs/cancer_trk0066/00000254/1113479.bam.bai			  bam bai
+1085	NCI-H3122						/nfs/cancer_trk0066/00000254/1113450.bam			  bam
+1085	NCI-H3122						/nfs/cancer_trk0064/00000248/1113451.bam.bai			  bam bai
+1085	NCI-H345						/nfs/cancer_trk0066/00000254/1113468.bam			  bam
+1085	NCI-H345						/nfs/cancer_trk0066/00000254/1113469.bam.bai			  bam bai
+1085	NCI-H378						/nfs/cancer_trk0066/00000254/1113470.bam			  bam
+1085	NCI-H378						/nfs/cancer_trk0064/00000248/1113471.bam.bai			  bam bai
+1085	NCI-H510A						/nfs/cancer_trk0070/00000271/1393414.bam			  bam
+1085	NCI-H510A						/nfs/cancer_trk0070/00000271/1393415.bam.bai			  bam bai
+1085	NCI-H630						/nfs/cancer_trk0057/00000227/939480.bam				  bam
+1085	NCI-H630						/nfs/cancer_trk0057/00000227/939481.bam.bai			  bam bai
+1085	NCI-H64							/nfs/cancer_trk0070/00000271/1393613.bam			  bam
+1085	NCI-H64							/nfs/cancer_trk0070/00000271/1393614.bam.bai			  bam bai
+1085	NCI-H720						/nfs/cancer_trk0070/00000271/1393611.bam			  bam
+1085	NCI-H720						/nfs/cancer_trk0070/00000271/1393612.bam.bai			  bam bai
+1085	NCI-H740						/nfs/cancer_trk0025/00000090/1410238.bam			  bam
+1085	NCI-H740						/nfs/cancer_trk0025/00000090/1410240.bam.bai			  bam bai
+1085	NCI-H748						/nfs/cancer_trk0038/00000138/1440820.bam			  bam
+1085	NCI-H748						/nfs/cancer_trk0038/00000138/1440821.bam.bai			  bam bai
+1085	NCI-H820						/nfs/cancer_trk0037/00000137/1440493.bam			  bam
+1085	NCI-H820						/nfs/cancer_trk0037/00000137/1440494.bam.bai			  bam bai
+1085	NCI-H835						/nfs/cancer_trk0033/00000121/1412414.bam			  bam
+1085	NCI-H835						/nfs/cancer_trk0033/00000121/1412415.bam.bai			  bam bai
+1085	NCI-H847						/nfs/cancer_trk0033/00000121/1412410.bam			  bam
+1085	NCI-H847						/nfs/cancer_trk0033/00000121/1412411.bam.bai			  bam bai
+1085	NCI-SNU-1						/nfs/cancer_trk0073/00000282/1715343.bam			  bam
+1085	NCI-SNU-1						/nfs/cancer_trk0073/00000282/1715345.bam.bai			  bam bai
+1085	NCI-SNU-16						/nfs/cancer_trk0073/00000283/1715806.bam			  bam
+1085	NCI-SNU-16						/nfs/cancer_trk0073/00000282/1715807.bam.bai			  bam bai
+1085	NEC8							/nfs/cancer_trk0073/00000283/1715820.bam			  bam
+1085	NEC8							/nfs/cancer_trk0073/00000282/1715821.bam.bai			  bam bai
+1085	NH-12							/nfs/cancer_trk0073/00000283/1733152.bam			  bam
+1085	NH-12							/nfs/cancer_trk0073/00000283/1733153.bam.bai			  bam bai
+1085	NKM-1							/nfs/cancer_trk0073/00000283/1715808.bam			  bam
+1085	NKM-1							/nfs/cancer_trk0073/00000282/1715809.bam.bai			  bam bai
+1085	NOS-1							/nfs/cancer_trk0066/00000254/1113480.bam			  bam
+1085	NOS-1							/nfs/cancer_trk0066/00000254/1113480.bam			  bam
+1085	NOS-1							/nfs/cancer_trk0066/00000255/1113481.bam.bai			  bam bai
+1085	NOS-1							/nfs/cancer_trk0066/00000255/1113481.bam.bai			  bam bai
+1085	NTERA-2cl-D1						/nfs/cancer_trk0073/00000282/1734972.bam			  bam
+1085	NTERA-2cl-D1						/nfs/cancer_trk0073/00000283/1734973.bam.bai			  bam bai
+1085	NY							/nfs/cancer_trk0066/00000254/1113476.bam			  bam
+1085	NY							/nfs/cancer_trk0066/00000254/1113477.bam.bai			  bam bai
+1085	OACM5-1							/nfs/cancer_trk0073/00000282/1715776.bam			  bam
+1085	OACM5-1							/nfs/cancer_trk0073/00000282/1715777.bam.bai			  bam bai
+1085	OACp4C							/nfs/cancer_trk0073/00000282/1715774.bam			  bam
+1085	OACp4C							/nfs/cancer_trk0073/00000282/1715775.bam.bai			  bam bai
+1085	OCI-LY7							/nfs/cancer_trk0073/00000283/1716002.bam			  bam
+1085	OCI-LY7							/nfs/cancer_trk0073/00000283/1716003.bam.bai			  bam bai
+1085	OCUB-M							/nfs/cancer_trk0038/00000138/1440505.bam			  bam
+1085	OCUB-M							/nfs/cancer_trk0037/00000137/1440506.bam.bai			  bam bai
+1085	OHS							/nfs/cancer_trk0068/00000264/1234037.bam			  bam
+1085	OHS							/nfs/cancer_trk0068/00000264/1234038.bam.bai			  bam bai
+1085	OMC-1							/nfs/cancer_trk0073/00000283/1715828.bam			  bam
+1085	OMC-1							/nfs/cancer_trk0073/00000282/1715829.bam.bai			  bam bai
+1085	OSC-19							/nfs/cancer_trk0073/00000282/1715758.bam			  bam
+1085	OSC-19							/nfs/cancer_trk0073/00000282/1715759.bam.bai			  bam bai
+1085	OSC-20							/nfs/cancer_trk0073/00000282/1715752.bam			  bam
+1085	OSC-20							/nfs/cancer_trk0073/00000282/1715753.bam.bai			  bam bai
+1085	OST							/nfs/cancer_trk0066/00000254/1113458.bam			  bam
+1085	OST							/nfs/cancer_trk0066/00000254/1113459.bam.bai			  bam bai
+1085	OV-17R							/nfs/cancer_trk0073/00000282/1715768.bam			  bam
+1085	OV-17R							/nfs/cancer_trk0073/00000282/1715769.bam.bai			  bam bai
+1085	OVCA420							/nfs/cancer_trk0073/00000282/1715770.bam			  bam
+1085	OVCA420							/nfs/cancer_trk0073/00000282/1715771.bam.bai			  bam bai
+1085	OVCA433							/nfs/cancer_trk0073/00000282/1715772.bam			  bam
+1085	OVCA433							/nfs/cancer_trk0073/00000282/1715773.bam.bai			  bam bai
+1085	OVCAR-5							/nfs/cancer_trk0073/00000282/1715788.bam			  bam
+1085	OVCAR-5							/nfs/cancer_trk0073/00000282/1715789.bam.bai			  bam bai
+1085	OVKATE							/nfs/cancer_trk0073/00000282/1715754.bam			  bam
+1085	OVKATE							/nfs/cancer_trk0073/00000282/1715755.bam.bai			  bam bai
+1085	OVMIU							/nfs/cancer_trk0073/00000282/1715210.bam			  bam
+1085	OVMIU							/nfs/cancer_trk0073/00000282/1715212.bam.bai			  bam bai
+1085	P30-OHK							/nfs/cancer_trk0073/00000283/1715814.bam			  bam
+1085	P30-OHK							/nfs/cancer_trk0073/00000282/1715815.bam.bai			  bam bai
+1085	P32-ISH							/nfs/cancer_trk0073/00000282/1715764.bam			  bam
+1085	P32-ISH							/nfs/cancer_trk0073/00000283/1715765.bam.bai			  bam bai
+1085	PA-1							/nfs/cancer_trk0073/00000282/1715346.bam			  bam
+1085	PA-1							/nfs/cancer_trk0073/00000282/1715349.bam.bai			  bam bai
+1085	PC-3_JPC-3						/nfs/cancer_trk0037/00000137/1440489.bam			  bam
+1085	PC-3_JPC-3						/nfs/cancer_trk0037/00000137/1440490.bam.bai			  bam bai
+1085	PCI-15A							/nfs/cancer_trk0073/00000283/1733058.bam			  bam
+1085	PCI-15A							/nfs/cancer_trk0073/00000283/1733059.bam.bai			  bam bai
+1085	PCI-30							/nfs/cancer_trk0073/00000282/1715760.bam			  bam
+1085	PCI-30							/nfs/cancer_trk0073/00000282/1715761.bam.bai			  bam bai
+1085	PCI-38							/nfs/cancer_trk0074/00000286/1763591.bam			  bam
+1085	PCI-38							/nfs/cancer_trk0073/00000283/1763592.bam.bai			  bam bai
+1085	PCI-4B							/nfs/cancer_trk0074/00000287/1763764.bam			  bam
+1085	PCI-4B							/nfs/cancer_trk0074/00000286/1763765.bam.bai			  bam bai
+1085	PCI-6A							/nfs/cancer_trk0074/00000286/1763593.bam			  bam
+1085	PCI-6A							/nfs/cancer_trk0073/00000284/1763594.bam.bai			  bam bai
+1085	PEO1							/nfs/cancer_trk0074/00000287/1763777.bam			  bam
+1085	PEO1							/nfs/cancer_trk0074/00000286/1763778.bam.bai			  bam bai
+1085	PFSK-1							/nfs/cancer_trk0073/00000282/1715778.bam			  bam
+1085	PFSK-1							/nfs/cancer_trk0073/00000282/1715779.bam.bai			  bam bai
+1085	PL18							/nfs/cancer_trk0073/00000283/1733142.bam			  bam
+1085	PL18							/nfs/cancer_trk0073/00000283/1733143.bam.bai			  bam bai
+1085	PL4							/nfs/cancer_trk0073/00000283/1733144.bam			  bam
+1085	PL4							/nfs/cancer_trk0073/00000283/1733145.bam.bai			  bam bai
+1085	PWR-1E							/nfs/cancer_trk0073/00000282/1715766.bam			  bam
+1085	PWR-1E							/nfs/cancer_trk0073/00000282/1715767.bam.bai			  bam bai
+1085	QIMR-WIL						/nfs/cancer_trk0073/00000283/1733156.bam			  bam
+1085	QIMR-WIL						/nfs/cancer_trk0073/00000283/1733157.bam.bai			  bam bai
+1085	RC-K8							/nfs/cancer_trk0073/00000282/1734968.bam			  bam
+1085	RC-K8							/nfs/cancer_trk0073/00000283/1734969.bam.bai			  bam bai
+1085	RCC-AB							/nfs/cancer_trk0038/00000138/1440812.bam			  bam
+1085	RCC-AB							/nfs/cancer_trk0038/00000138/1440813.bam.bai			  bam bai
+1085	RCC-ER							/nfs/cancer_trk0073/00000283/1733148.bam			  bam
+1085	RCC-ER							/nfs/cancer_trk0073/00000283/1733149.bam.bai			  bam bai
+1085	RCC-FG2							/nfs/cancer_trk0074/00000287/1763860.bam			  bam
+1085	RCC-FG2							/nfs/cancer_trk0073/00000284/1763861.bam.bai			  bam bai
+1085	RCC-JF							/nfs/cancer_trk0025/00000090/1409906.bam			  bam
+1085	RCC-JF							/nfs/cancer_trk0025/00000090/1409907.bam.bai			  bam bai
+1085	RCC-JW							/nfs/cancer_trk0025/00000090/1410241.bam			  bam
+1085	RCC-JW							/nfs/cancer_trk0025/00000090/1410242.bam.bai			  bam bai
+1085	RCC-MF							/nfs/cancer_trk0025/00000090/1409908.bam			  bam
+1085	RCC-MF							/nfs/cancer_trk0025/00000090/1409909.bam.bai			  bam bai
+1085	RF-48							/nfs/cancer_trk0074/00000287/1763868.bam			  bam
+1085	RF-48							/nfs/cancer_trk0073/00000284/1763869.bam.bai			  bam bai
+1085	RH-1							/nfs/cancer_trk0074/00000286/1763622.bam			  bam
+1085	RH-1							/nfs/cancer_trk0073/00000285/1763623.bam.bai			  bam bai
+1085	RKO							/nfs/cancer_trk0060/00000218/877927.bam				  bam
+1085	RKO							/nfs/cancer_trk0054/00000208/877928.bam.bai			  bam bai
+1085	RKO							/nfs/cancer_trk0050/00000190/915892.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	RKO							/nfs/cancer_trk0036/00000131/915362.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	RO82-W-1						/nfs/cancer_trk0025/00000090/1410577.bam			  bam
+1085	RO82-W-1						/nfs/cancer_trk0035/00000126/1410578.bam.bai			  bam bai
+1085	ROS-50							/nfs/cancer_trk0074/00000287/1763766.bam			  bam
+1085	ROS-50							/nfs/cancer_trk0074/00000286/1763767.bam.bai			  bam bai
+1085	RPMI-2650						/nfs/cancer_trk0074/00000287/1763870.bam			  bam
+1085	RPMI-2650						/nfs/cancer_trk0073/00000284/1763871.bam.bai			  bam bai
+1085	RPMI-6666						/nfs/cancer_trk0074/00000287/1763872.bam			  bam
+1085	RPMI-6666						/nfs/cancer_trk0073/00000284/1763873.bam.bai			  bam bai
+1085	RPMI-8866						/nfs/cancer_trk0073/00000283/1733154.bam			  bam
+1085	RPMI-8866						/nfs/cancer_trk0073/00000283/1733155.bam.bai			  bam bai
+1085	RVH-421							/nfs/cancer_trk0038/00000140/1463592.bam			  bam
+1085	RVH-421							/nfs/cancer_trk0038/00000140/1463593.bam.bai			  bam bai
+1085	Ramos-2G6-4C10						/nfs/cancer_trk0074/00000286/1763612.bam			  bam
+1085	Ramos-2G6-4C10						/nfs/cancer_trk0073/00000284/1763614.bam.bai			  bam bai
+1085	SAS							/nfs/cancer_trk0073/00000282/1715351.bam			  bam
+1085	SAS							/nfs/cancer_trk0073/00000282/1715352.bam.bai			  bam bai
+1085	SAT							/nfs/cancer_trk0074/00000287/1763852.bam			  bam
+1085	SAT							/nfs/cancer_trk0073/00000283/1763853.bam.bai			  bam bai
+1085	SBC-1							/nfs/cancer_trk0038/00000138/1440814.bam			  bam
+1085	SBC-1							/nfs/cancer_trk0038/00000138/1440815.bam.bai			  bam bai
+1085	SBC-3							/nfs/cancer_trk0037/00000137/1439955.bam			  bam
+1085	SBC-3							/nfs/cancer_trk0037/00000137/1439956.bam.bai			  bam bai
+1085	SC-1							/nfs/cancer_trk0073/00000282/1734970.bam			  bam
+1085	SC-1							/nfs/cancer_trk0073/00000283/1734971.bam.bai			  bam bai
+1085	SCC-3							/nfs/cancer_trk0074/00000286/1763617.bam			  bam
+1085	SCC-3							/nfs/cancer_trk0073/00000284/1763618.bam.bai			  bam bai
+1085	SCC90							/nfs/cancer_trk0073/00000283/1733146.bam			  bam
+1085	SCC90							/nfs/cancer_trk0073/00000283/1733147.bam.bai			  bam bai
+1085	SCH							/nfs/cancer_trk0074/00000287/1763874.bam			  bam
+1085	SCH							/nfs/cancer_trk0073/00000284/1763875.bam.bai			  bam bai
+1085	SISO							/nfs/cancer_trk0073/00000282/1715756.bam			  bam
+1085	SISO							/nfs/cancer_trk0073/00000282/1715757.bam.bai			  bam bai
+1085	SJRH30							/nfs/cancer_trk0073/00000282/1715353.bam			  bam
+1085	SJRH30							/nfs/cancer_trk0073/00000282/1715354.bam.bai			  bam bai
+1085	SK-GT-2							/nfs/cancer_trk0073/00000283/1715998.bam			  bam
+1085	SK-GT-2							/nfs/cancer_trk0073/00000282/1715999.bam.bai			  bam bai
+1085	SK-GT-4							/nfs/cancer_trk0073/00000283/1716000.bam			  bam
+1085	SK-GT-4							/nfs/cancer_trk0073/00000282/1716001.bam.bai			  bam bai
+1085	SK-MEL-2						/nfs/cancer_trk0037/00000137/1440499.bam			  bam
+1085	SK-MEL-2						/nfs/cancer_trk0037/00000137/1440500.bam.bai			  bam bai
+1085	SK-MG-1							/nfs/cancer_trk0073/00000283/1715816.bam			  bam
+1085	SK-MG-1							/nfs/cancer_trk0073/00000282/1715817.bam.bai			  bam bai
+1085	SK-N-SH							/nfs/cancer_trk0038/00000138/1769274.bam			  bam
+1085	SK-N-SH							/nfs/cancer_trk0038/00000138/1769275.bam.bai			  bam bai
+1085	SK-NEP-1						/nfs/cancer_trk0074/00000287/1763786.bam			  bam
+1085	SK-NEP-1						/nfs/cancer_trk0074/00000286/1763787.bam.bai			  bam bai
+1085	SK-PN-DW						/nfs/cancer_trk0038/00000138/1440697.bam			  bam
+1085	SK-PN-DW						/nfs/cancer_trk0038/00000138/1440698.bam.bai			  bam bai
+1085	SKG-IIIa						/nfs/cancer_trk0073/00000283/1715824.bam			  bam
+1085	SKG-IIIa						/nfs/cancer_trk0073/00000282/1715825.bam.bai			  bam bai
+1085	SKN							/nfs/cancer_trk0074/00000286/1763595.bam			  bam
+1085	SKN							/nfs/cancer_trk0073/00000284/1763596.bam.bai			  bam bai
+1085	SKN-3							/nfs/cancer_trk0074/00000286/1763689.bam			  bam
+1085	SKN-3							/nfs/cancer_trk0073/00000284/1763690.bam.bai			  bam bai
+1085	SLVL							/nfs/cancer_trk0038/00000138/1769337.bam			  bam
+1085	SLVL							/nfs/cancer_trk0038/00000138/1769338.bam.bai			  bam bai
+1085	SN12C							/nfs/cancer_trk0037/00000137/1440071.bam			  bam
+1085	SN12C							/nfs/cancer_trk0037/00000137/1440072.bam.bai			  bam bai
+1085	SNU-175							/nfs/cancer_trk0060/00000218/877917.bam				  bam
+1085	SNU-175							/nfs/cancer_trk0033/00000118/877918.bam.bai			  bam bai
+1085	SNU-175							/nfs/cancer_trk0034/00000123/914802.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	SNU-175							/nfs/cancer_trk0036/00000130/915318.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	SNU-283							/nfs/cancer_trk0060/00000218/877919.bam				  bam
+1085	SNU-283							/nfs/cancer_trk0033/00000118/877920.bam.bai			  bam bai
+1085	SNU-283							/nfs/cancer_trk0034/00000123/914780.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	SNU-283							/nfs/cancer_trk0036/00000130/915303.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	SNU-407							/nfs/cancer_trk0052/00000200/877661.bam				  bam
+1085	SNU-407							/nfs/cancer_trk0052/00000200/877662.bam.bai			  bam bai
+1085	SNU-407							/nfs/cancer_trk0050/00000190/916027.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	SNU-407							/nfs/cancer_trk0036/00000131/916820.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	SNU-C1							/nfs/cancer_trk0060/00000218/877929.bam				  bam
+1085	SNU-C1							/nfs/cancer_trk0033/00000118/877930.bam.bai			  bam bai
+1085	SNU-C1							/nfs/cancer_trk0034/00000123/914355.v1.pindel.annot.vcf.gz	  pindel vcf
+1085	SNU-C1							/nfs/cancer_trk0050/00000190/916053.v1.caveman_c.annot.vcf.gz	  caveman_c vcf
+1085	SNU-C2B							/nfs/cancer_trk0057/00000227/939482.bam				  bam
+1085	SNU-C2B							/nfs/cancer_trk0057/00000227/939483.bam.bai			  bam bai
+1085	SR							/nfs/cancer_trk0074/00000287/1763779.bam			  bam
+1085	SR							/nfs/cancer_trk0074/00000286/1763780.bam.bai			  bam bai
+1085	STS-0421						/nfs/cancer_trk0074/00000287/1763854.bam			  bam
+1085	STS-0421						/nfs/cancer_trk0073/00000283/1763855.bam.bai			  bam bai
+1085	SU-DHL-16						/nfs/cancer_trk0074/00000287/1763768.bam			  bam
+1085	SU-DHL-16						/nfs/cancer_trk0074/00000286/1763770.bam.bai			  bam bai
+1085	SUP-B8							/nfs/cancer_trk0074/00000286/1763694.bam			  bam
+1085	SUP-B8							/nfs/cancer_trk0073/00000285/1763696.bam.bai			  bam bai
+1085	SUP-HD1							/nfs/cancer_trk0037/00000136/1786742.bam			  bam
+1085	SUP-HD1							/nfs/cancer_trk0037/00000135/1786743.bam.bai			  bam bai
+1085	SW13							/nfs/cancer_trk0037/00000137/1440227.bam			  bam
+1085	SW13							/nfs/cancer_trk0037/00000137/1440228.bam.bai			  bam bai
+1085	SW156							/nfs/cancer_trk0074/00000286/1763597.bam			  bam
+1085	SW156							/nfs/cancer_trk0073/00000283/1763598.bam.bai			  bam bai
+1085	SW48							/nfs/cancer_trk0057/00000227/939484.bam				  bam
+1085	SW48							/nfs/cancer_trk0057/00000227/939485.bam.bai			  bam bai
+1085	SW620							/nfs/cancer_trk0057/00000227/939472.bam				  bam
+1085	SW620							/nfs/cancer_trk0057/00000227/939473.bam.bai			  bam bai
+1085	SW684							/nfs/cancer_trk0074/00000286/1763599.bam			  bam
+1085	SW684							/nfs/cancer_trk0073/00000284/1763600.bam.bai			  bam bai
+1085	SW756							/nfs/cancer_trk0074/00000287/1763864.bam			  bam
+1085	SW756							/nfs/cancer_trk0073/00000284/1763865.bam.bai			  bam bai
+1085	SW872							/nfs/cancer_trk0074/00000287/1763876.bam			  bam
+1085	SW872							/nfs/cancer_trk0073/00000284/1763877.bam.bai			  bam bai
+1085	SW948							/nfs/cancer_trk0057/00000227/939486.bam				  bam
+1085	SW948							/nfs/cancer_trk0057/00000227/939487.bam.bai			  bam bai
+1085	SW954							/nfs/cancer_trk0074/00000287/1763880.bam			  bam
+1085	SW954							/nfs/cancer_trk0073/00000284/1763881.bam.bai			  bam bai
+1085	SW962							/nfs/cancer_trk0074/00000286/1763601.bam			  bam
+1085	SW962							/nfs/cancer_trk0073/00000284/1763602.bam.bai			  bam bai
+1085	SW982							/nfs/cancer_trk0074/00000286/1763603.bam			  bam
+1085	SW982							/nfs/cancer_trk0073/00000284/1763604.bam.bai			  bam bai
+1085	Sarc9371						/nfs/cancer_trk0070/00000272/1579144.bam			  bam
+1085	Sarc9371						/nfs/cancer_trk0070/00000272/1579152.bam.bai			  bam bai
+1085	Set2							/nfs/cancer_trk0074/00000287/1763862.bam			  bam
+1085	Set2							/nfs/cancer_trk0073/00000284/1763863.bam.bai			  bam bai
+1085	SiHa							/nfs/cancer_trk0074/00000287/1763882.bam			  bam
+1085	SiHa							/nfs/cancer_trk0073/00000284/1763883.bam.bai			  bam bai
+1085	TASK1							/nfs/cancer_trk0074/00000286/1763691.bam			  bam
+1085	TASK1							/nfs/cancer_trk0073/00000285/1763692.bam.bai			  bam bai
+1085	TC-YIK							/nfs/cancer_trk0074/00000287/1763886.bam			  bam
+1085	TC-YIK							/nfs/cancer_trk0073/00000284/1763887.bam.bai			  bam bai
+1085	TE-12							/nfs/cancer_trk0074/00000287/1763884.bam			  bam
+1085	TE-12							/nfs/cancer_trk0073/00000284/1763885.bam.bai			  bam bai
+1085	TGBC1TKB						/nfs/cancer_trk0074/00000287/1763788.bam			  bam
+1085	TGBC1TKB						/nfs/cancer_trk0074/00000286/1763789.bam.bai			  bam bai
+1085	TGBC24TKB						/nfs/cancer_trk0074/00000286/1763615.bam			  bam
+1085	TGBC24TKB						/nfs/cancer_trk0073/00000284/1763616.bam.bai			  bam bai
+1085	TGW							/nfs/cancer_trk0074/00000287/1763878.bam			  bam
+1085	TGW							/nfs/cancer_trk0073/00000284/1763879.bam.bai			  bam bai
+1085	TK							/nfs/cancer_trk0074/00000287/1763772.bam			  bam
+1085	TK							/nfs/cancer_trk0073/00000283/1763774.bam.bai			  bam bai
+1085	TK10							/nfs/cancer_trk0038/00000138/1440501.bam			  bam
+1085	TK10							/nfs/cancer_trk0037/00000137/1440502.bam.bai			  bam bai
+1085	TMK-1							/nfs/cancer_trk0074/00000287/1763856.bam			  bam
+1085	TMK-1							/nfs/cancer_trk0073/00000283/1763857.bam.bai			  bam bai
+1085	TUR							/nfs/cancer_trk0074/00000286/1763605.bam			  bam
+1085	TUR							/nfs/cancer_trk0073/00000284/1763606.bam.bai			  bam bai
+1085	U-698-M							/nfs/cancer_trk0074/00000286/1763607.bam			  bam
+1085	U-698-M							/nfs/cancer_trk0073/00000284/1763608.bam.bai			  bam bai
+1085	U-CH2							/nfs/cancer_trk0038/00000138/1440689.bam			  bam
+1085	U-CH2							/nfs/cancer_trk0038/00000138/1440690.bam.bai			  bam bai
+1085	U031							/nfs/cancer_trk0037/00000137/1440223.bam			  bam
+1085	U031							/nfs/cancer_trk0037/00000137/1440224.bam.bai			  bam bai
+1085	U251							/nfs/cancer_trk0074/00000287/1763781.bam			  bam
+1085	U251							/nfs/cancer_trk0074/00000286/1763783.bam.bai			  bam bai
+1085	UDSCC2							/nfs/cancer_trk0074/00000287/1763858.bam			  bam
+1085	UDSCC2							/nfs/cancer_trk0073/00000283/1763859.bam.bai			  bam bai
+1085	UMC-11							/nfs/cancer_trk0037/00000137/1440230.bam			  bam
+1085	UMC-11							/nfs/cancer_trk0037/00000137/1440231.bam.bai			  bam bai
+1085	UWB1-289						/nfs/cancer_trk0038/00000138/1767160.bam			  bam
+1085	UWB1-289						/nfs/cancer_trk0037/00000136/1767161.bam.bai			  bam bai
+1085	VA-ES-BJ						/nfs/cancer_trk0037/00000137/1766873.bam			  bam
+1085	VA-ES-BJ						/nfs/cancer_trk0037/00000136/1766874.bam.bai			  bam bai
+1085	VAL							/nfs/cancer_trk0037/00000137/1766854.bam			  bam
+1085	VAL							/nfs/cancer_trk0037/00000136/1766855.bam.bai			  bam bai
+1085	VMRC-LCD						/nfs/cancer_trk0037/00000137/1440495.bam			  bam
+1085	VMRC-LCD						/nfs/cancer_trk0037/00000137/1440496.bam.bai			  bam bai
+1085	VMRC-MELG						/nfs/cancer_trk0037/00000137/1766875.bam			  bam
+1085	VMRC-MELG						/nfs/cancer_trk0037/00000136/1766876.bam.bai			  bam bai
+1085	WIL2-NS							/nfs/cancer_trk0074/00000287/1763775.bam			  bam
+1085	WIL2-NS							/nfs/cancer_trk0074/00000286/1763776.bam.bai			  bam bai
+1085	WM1552C							/nfs/cancer_trk0038/00000138/1440810.bam			  bam
+1085	WM1552C							/nfs/cancer_trk0038/00000138/1440811.bam.bai			  bam bai
+1085	WM278							/nfs/cancer_trk0038/00000138/1440687.bam			  bam
+1085	WM278							/nfs/cancer_trk0038/00000138/1440688.bam.bai			  bam bai
+1085	WM35							/nfs/cancer_trk0037/00000137/1440063.bam			  bam
+1085	WM35							/nfs/cancer_trk0037/00000137/1440064.bam.bai			  bam bai
+1085	WM793B							/nfs/cancer_trk0037/00000137/1439861.bam			  bam
+1085	WM793B							/nfs/cancer_trk0037/00000137/1439862.bam.bai			  bam bai
+1085	WSU-NHL							/nfs/cancer_trk0074/00000286/1763609.bam			  bam
+1085	WSU-NHL							/nfs/cancer_trk0073/00000284/1763610.bam.bai			  bam bai
+1085	YT							/nfs/cancer_trk0074/00000286/1763619.bam			  bam
+1085	YT							/nfs/cancer_trk0073/00000284/1763620.bam.bai			  bam bai
+1085	ZR-75-30						/nfs/cancer_trk0061/00000225/929023.bam				  bam
+1085	ZR-75-30						/nfs/cancer_trk0061/00000225/929024.bam.bai			  bam bai
+1085	no-10							/nfs/cancer_trk0073/00000283/1715812.bam			  bam
+1085	no-10							/nfs/cancer_trk0073/00000282/1715813.bam.bai			  bam bai
+1085	no-11							/nfs/cancer_trk0073/00000283/1715810.bam			  bam
+1085	no-11							/nfs/cancer_trk0073/00000282/1715811.bam.bai			  bam bai
+1088	22Rv1_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270609.bam			  bam
+1088	22Rv1_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270610.bam.bai			  bam bai
+1088	23132-87_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241324.bam			  bam
+1088	23132-87_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241325.bam.bai			  bam bai
+1088	42-MG-BA_RNA_TCGA					/nfs/cancer_trk0038/00000138/1441748.bam			  bam
+1088	42-MG-BA_RNA_TCGA					/nfs/cancer_trk0038/00000138/1441749.bam.bai			  bam bai
+1088	5637_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270611.bam			  bam
+1088	5637_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270612.bam.bai			  bam bai
+1088	639-V_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441430.bam			  bam
+1088	639-V_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441431.bam.bai			  bam bai
+1088	647-V_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459506.bam			  bam
+1088	647-V_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459507.bam.bai			  bam bai
+1088	697_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441863.bam			  bam
+1088	697_RNA_TCGA						/nfs/cancer_trk0037/00000137/1441864.bam.bai			  bam bai
+1088	769-P_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459479.bam			  bam
+1088	769-P_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459480.bam.bai			  bam bai
+1088	786-0_RNA_TCGA						/nfs/cancer_trk0068/00000265/1241326.bam			  bam
+1088	786-0_RNA_TCGA						/nfs/cancer_trk0068/00000265/1241327.bam.bai			  bam bai
+1088	8-MG-BA_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241328.bam			  bam
+1088	8-MG-BA_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241329.bam.bai			  bam bai
+1088	8305C_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472981.bam			  bam
+1088	8305C_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473001.bam.bai			  bam bai
+1088	8505C_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472194.bam			  bam
+1088	8505C_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472195.bam.bai			  bam bai
+1088	A101D_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473020.bam			  bam
+1088	A101D_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473038.bam.bai			  bam bai
+1088	A172_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472793.bam			  bam
+1088	A172_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472795.bam.bai			  bam bai
+1088	A2780_RNA_TCGA						/nfs/cancer_trk0056/00000215/1244922.bam			  bam
+1088	A2780_RNA_TCGA						/nfs/cancer_trk0054/00000206/1244923.bam.bai			  bam bai
+1088	A375_RNA_TCGA						/nfs/cancer_trk0069/00000267/1322636.bam			  bam
+1088	A375_RNA_TCGA						/nfs/cancer_trk0069/00000267/1322637.bam.bai			  bam bai
+1088	A549_RNA_TCGA						/nfs/cancer_trk0068/00000264/1212157.bam			  bam
+1088	A549_RNA_TCGA						/nfs/cancer_trk0068/00000264/1212161.bam.bai			  bam bai
+1088	ABC-1_RNA_TCGA						/nfs/cancer_trk0068/00000264/1211842.bam			  bam
+1088	ABC-1_RNA_TCGA						/nfs/cancer_trk0068/00000264/1211843.bam.bai			  bam bai
+1088	AGS_RNA_TCGA						/nfs/cancer_trk0069/00000268/1360661.bam			  bam
+1088	AGS_RNA_TCGA						/nfs/cancer_trk0069/00000268/1360662.bam.bai			  bam bai
+1088	BL-70_RNA_TCGA						/nfs/cancer_trk0073/00000285/1740680.bam			  bam
+1088	BL-70_RNA_TCGA						/nfs/cancer_trk0073/00000283/1740681.bam.bai			  bam bai
+1088	BV-173_RNA_TCGA						/nfs/cancer_trk0064/00000249/1104086.bam			  bam
+1088	BV-173_RNA_TCGA						/nfs/cancer_trk0065/00000251/1104087.bam.bai			  bam bai
+1088	C2BBe1_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140834.bam			  bam
+1088	C2BBe1_RNA_TCGA						/nfs/cancer_trk0055/00000211/1140835.bam.bai			  bam bai
+1088	CAL-27_RNA_TCGA						/nfs/cancer_trk0069/00000269/1376925.bam			  bam
+1088	CAL-27_RNA_TCGA						/nfs/cancer_trk0069/00000269/1376926.bam.bai			  bam bai
+1088	CAL-62_RNA_TCGA						/nfs/cancer_trk0069/00000268/1359118.bam			  bam
+1088	CAL-62_RNA_TCGA						/nfs/cancer_trk0069/00000268/1359119.bam.bai			  bam bai
+1088	CCK-81_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140836.bam			  bam
+1088	CCK-81_RNA_TCGA						/nfs/cancer_trk0055/00000211/1140837.bam.bai			  bam bai
+1088	CHP-212_RNA_TCGA					/nfs/cancer_trk0069/00000268/1359120.bam			  bam
+1088	CHP-212_RNA_TCGA					/nfs/cancer_trk0069/00000268/1359121.bam.bai			  bam bai
+1088	CL-11_RNA_TCGA						/nfs/cancer_trk0066/00000255/1143738.bam			  bam
+1088	CL-11_RNA_TCGA						/nfs/cancer_trk0060/00000219/1143739.bam.bai			  bam bai
+1088	CL-34_RNA_TCGA						/nfs/cancer_trk0067/00000259/1142221.bam			  bam
+1088	CL-34_RNA_TCGA						/nfs/cancer_trk0066/00000256/1142222.bam.bai			  bam bai
+1088	CL-40_RNA_TCGA						/nfs/cancer_trk0066/00000255/1143740.bam			  bam
+1088	CL-40_RNA_TCGA						/nfs/cancer_trk0060/00000219/1143741.bam.bai			  bam bai
+1088	CML-T1_RNA_TCGA						/nfs/cancer_trk0064/00000249/1104117.bam			  bam
+1088	CML-T1_RNA_TCGA						/nfs/cancer_trk0065/00000252/1104118.bam.bai			  bam bai
+1088	COLO-320-HSR_RNA_TCGA					/nfs/cancer_trk0067/00000258/1154582.bam			  bam
+1088	COLO-320-HSR_RNA_TCGA					/nfs/cancer_trk0065/00000251/1154583.bam.bai			  bam bai
+1088	COLO-668_RNA_TCGA					/nfs/cancer_trk0068/00000264/1211975.bam			  bam
+1088	COLO-668_RNA_TCGA					/nfs/cancer_trk0068/00000264/1211977.bam.bai			  bam bai
+1088	COLO-678_RNA_TCGA					/nfs/cancer_trk0067/00000258/1154584.bam			  bam
+1088	COLO-678_RNA_TCGA					/nfs/cancer_trk0065/00000251/1154585.bam.bai			  bam bai
+1088	COLO-679_RNA_TCGA					/nfs/cancer_trk0064/00000249/1104094.bam			  bam
+1088	COLO-679_RNA_TCGA					/nfs/cancer_trk0065/00000251/1104095.bam.bai			  bam bai
+1088	COLO-680N_RNA_TCGA					/nfs/cancer_trk0069/00000269/1374039.bam			  bam
+1088	COLO-680N_RNA_TCGA					/nfs/cancer_trk0069/00000269/1374040.bam.bai			  bam bai
+1088	COR-L23_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219703.bam			  bam
+1088	COR-L23_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219704.bam.bai			  bam bai
+1088	COR-L279_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219214.bam			  bam
+1088	COR-L279_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219215.bam.bai			  bam bai
+1088	COR-L311_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219216.bam			  bam
+1088	COR-L311_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219217.bam.bai			  bam bai
+1088	COR-L88_RNA_TCGA					/nfs/cancer_trk0068/00000264/1235245.bam			  bam
+1088	COR-L88_RNA_TCGA					/nfs/cancer_trk0068/00000264/1235247.bam.bai			  bam bai
+1088	CW-2_RNA_TCGA						/nfs/cancer_trk0067/00000258/1154586.bam			  bam
+1088	CW-2_RNA_TCGA						/nfs/cancer_trk0065/00000251/1154587.bam.bai			  bam bai
+1088	Caki-1_RNA_TCGA						/nfs/cancer_trk0069/00000268/1358757.bam			  bam
+1088	Caki-1_RNA_TCGA						/nfs/cancer_trk0069/00000268/1358758.bam.bai			  bam bai
+1088	DAN-G_RNA_TCGA						/nfs/cancer_trk0069/00000269/1373838.bam			  bam
+1088	DAN-G_RNA_TCGA						/nfs/cancer_trk0069/00000269/1373839.bam.bai			  bam bai
+1088	DB_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377005.bam			  bam
+1088	DB_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377006.bam.bai			  bam bai
+1088	DMS-114_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219218.bam			  bam
+1088	DMS-114_RNA_TCGA					/nfs/cancer_trk0068/00000263/1219219.bam.bai			  bam bai
+1088	DMS-273_RNA_TCGA					/nfs/cancer_trk0037/00000135/1241224.bam			  bam
+1088	DMS-273_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241225.bam.bai			  bam bai
+1088	DMS-53_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235094.bam			  bam
+1088	DMS-53_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235095.bam.bai			  bam bai
+1088	DMS-79_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235321.bam			  bam
+1088	DMS-79_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235323.bam.bai			  bam bai
+1088	DND-41_RNA_TCGA						/nfs/cancer_trk0069/00000268/1373470.bam			  bam
+1088	DND-41_RNA_TCGA						/nfs/cancer_trk0069/00000268/1373471.bam.bai			  bam bai
+1088	DU-145_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459416.bam			  bam
+1088	DU-145_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459417.bam.bai			  bam bai
+1088	DU-4475_RNA_TCGA					/nfs/cancer_trk0056/00000216/1244924.bam			  bam
+1088	DU-4475_RNA_TCGA					/nfs/cancer_trk0054/00000207/1244925.bam.bai			  bam bai
+1088	Daoy_RNA_TCGA						/nfs/cancer_trk0069/00000269/1373840.bam			  bam
+1088	Daoy_RNA_TCGA						/nfs/cancer_trk0069/00000269/1373841.bam.bai			  bam bai
+1088	EFO-27_RNA_TCGA						/nfs/cancer_trk0069/00000269/1376937.bam			  bam
+1088	EFO-27_RNA_TCGA						/nfs/cancer_trk0069/00000269/1376938.bam.bai			  bam bai
+1088	EM-2_RNA_TCGA						/nfs/cancer_trk0064/00000249/1104109.bam			  bam
+1088	EM-2_RNA_TCGA						/nfs/cancer_trk0065/00000251/1104111.bam.bai			  bam bai
+1088	EN_RNA_TCGA						/nfs/cancer_trk0074/00000286/1740839.bam			  bam
+1088	EN_RNA_TCGA						/nfs/cancer_trk0073/00000285/1740840.bam.bai			  bam bai
+1088	ESS-1_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377018.bam			  bam
+1088	ESS-1_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377019.bam.bai			  bam bai
+1088	FU97_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387442.bam			  bam
+1088	FU97_RNA_TCGA						/nfs/cancer_trk0045/00000169/1387443.bam.bai			  bam bai
+1088	FaDu_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387377.bam			  bam
+1088	FaDu_RNA_TCGA						/nfs/cancer_trk0045/00000169/1387378.bam.bai			  bam bai
+1088	G-292_clone_A141B1_RNA_TCGA				/nfs/cancer_trk0067/00000258/1154588.bam			  bam
+1088	G-292_clone_A141B1_RNA_TCGA				/nfs/cancer_trk0065/00000251/1154589.bam.bai			  bam bai
+1088	G-361_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387409.bam			  bam
+1088	G-361_RNA_TCGA						/nfs/cancer_trk0045/00000169/1387410.bam.bai			  bam bai
+1088	G-401_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387379.bam			  bam
+1088	G-401_RNA_TCGA						/nfs/cancer_trk0068/00000263/1387380.bam.bai			  bam bai
+1088	GCIY_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387427.bam			  bam
+1088	GCIY_RNA_TCGA						/nfs/cancer_trk0068/00000263/1387428.bam.bai			  bam bai
+1088	HARA_RNA_TCGA						/nfs/cancer_trk0065/00000252/1241226.bam			  bam
+1088	HARA_RNA_TCGA						/nfs/cancer_trk0068/00000265/1241227.bam.bai			  bam bai
+1088	HCC-15_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235394.bam			  bam
+1088	HCC-15_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235396.bam.bai			  bam bai
+1088	HCC-33_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235173.bam			  bam
+1088	HCC-33_RNA_TCGA						/nfs/cancer_trk0068/00000264/1235174.bam.bai			  bam bai
+1088	HCC-44_RNA_TCGA						/nfs/cancer_trk0065/00000252/1241228.bam			  bam
+1088	HCC-44_RNA_TCGA						/nfs/cancer_trk0068/00000265/1241229.bam.bai			  bam bai
+1088	HCC-56_RNA_TCGA						/nfs/cancer_trk0067/00000259/1142225.bam			  bam
+1088	HCC-56_RNA_TCGA						/nfs/cancer_trk0066/00000256/1142226.bam.bai			  bam bai
+1088	HCC1143_RNA_TCGA					/nfs/cancer_trk0056/00000216/1244926.bam			  bam
+1088	HCC1143_RNA_TCGA					/nfs/cancer_trk0054/00000207/1244927.bam.bai			  bam bai
+1088	HCC1187_RNA_TCGA					/nfs/cancer_trk0059/00000235/1101540.bam			  bam
+1088	HCC1187_RNA_TCGA					/nfs/cancer_trk0054/00000207/1101541.bam.bai			  bam bai
+1088	HCC1419_RNA_TCGA					/nfs/cancer_trk0056/00000216/1244928.bam			  bam
+1088	HCC1419_RNA_TCGA					/nfs/cancer_trk0054/00000207/1244929.bam.bai			  bam bai
+1088	HCC1806_RNA_TCGA					/nfs/cancer_trk0064/00000249/1104105.bam			  bam
+1088	HCC1806_RNA_TCGA					/nfs/cancer_trk0065/00000251/1104106.bam.bai			  bam bai
+1088	HCC1954_RNA_TCGA					/nfs/cancer_trk0053/00000205/1272330.bam			  bam
+1088	HCC1954_RNA_TCGA					/nfs/cancer_trk0053/00000205/1272331.bam.bai			  bam bai
+1088	HCC2218_RNA_TCGA					/nfs/cancer_trk0056/00000216/1244930.bam			  bam
+1088	HCC2218_RNA_TCGA					/nfs/cancer_trk0054/00000207/1244931.bam.bai			  bam bai
+1088	HCC38_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473055.bam			  bam
+1088	HCC38_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473067.bam.bai			  bam bai
+1088	HCC70_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473079.bam			  bam
+1088	HCC70_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473081.bam.bai			  bam bai
+1088	HCT-116_RNA_TCGA					/nfs/cancer_trk0066/00000257/1140838.bam			  bam
+1088	HCT-116_RNA_TCGA					/nfs/cancer_trk0055/00000211/1140839.bam.bai			  bam bai
+1088	HCT-15_RNA_TCGA						/nfs/cancer_trk0066/00000256/1130598.bam			  bam
+1088	HCT-15_RNA_TCGA						/nfs/cancer_trk0066/00000256/1130599.bam.bai			  bam bai
+1088	HD-MY-Z_RNA_TCGA					/nfs/cancer_trk0070/00000270/1387444.bam			  bam
+1088	HD-MY-Z_RNA_TCGA					/nfs/cancer_trk0068/00000263/1387445.bam.bai			  bam bai
+1088	HDQ-P1_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472797.bam			  bam
+1088	HDQ-P1_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472799.bam.bai			  bam bai
+1088	HEL_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472801.bam			  bam
+1088	HEL_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472802.bam.bai			  bam bai
+1088	HGC-27_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387429.bam			  bam
+1088	HGC-27_RNA_TCGA						/nfs/cancer_trk0068/00000263/1387430.bam.bai			  bam bai
+1088	HH_RNA_TCGA						/nfs/cancer_trk0040/00000146/1475027.bam			  bam
+1088	HH_RNA_TCGA						/nfs/cancer_trk0039/00000143/1475028.bam.bai			  bam bai
+1088	HL-60_RNA_TCGA						/nfs/cancer_trk0040/00000146/1474981.bam			  bam
+1088	HL-60_RNA_TCGA						/nfs/cancer_trk0039/00000143/1474982.bam.bai			  bam bai
+1088	HOS_RNA_TCGA						/nfs/cancer_trk0066/00000256/1130819.bam			  bam
+1088	HOS_RNA_TCGA						/nfs/cancer_trk0066/00000256/1130822.bam.bai			  bam bai
+1088	HPAC_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488345.bam			  bam
+1088	HPAC_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488346.bam.bai			  bam bai
+1088	HPAF-II_RNA_TCGA					/nfs/cancer_trk0026/00000151/1489084.bam			  bam
+1088	HPAF-II_RNA_TCGA					/nfs/cancer_trk0042/00000158/1489085.bam.bai			  bam bai
+1088	HSC-2_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488514.bam			  bam
+1088	HSC-2_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488515.bam.bai			  bam bai
+1088	HSC-3_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387354.bam			  bam
+1088	HSC-3_RNA_TCGA						/nfs/cancer_trk0045/00000169/1387355.bam.bai			  bam bai
+1088	HSC-4_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488817.bam			  bam
+1088	HSC-4_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488818.bam.bai			  bam bai
+1088	HT-1080_RNA_TCGA					/nfs/cancer_trk0042/00000158/1489086.bam			  bam
+1088	HT-1080_RNA_TCGA					/nfs/cancer_trk0042/00000158/1489087.bam.bai			  bam bai
+1088	HT-115_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140924.bam			  bam
+1088	HT-115_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140925.bam.bai			  bam bai
+1088	HT-1197_RNA_TCGA					/nfs/cancer_trk0042/00000158/1488516.bam			  bam
+1088	HT-1197_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488517.bam.bai			  bam bai
+1088	HT-1376_RNA_TCGA					/nfs/cancer_trk0042/00000159/1497708.bam			  bam
+1088	HT-1376_RNA_TCGA					/nfs/cancer_trk0042/00000159/1497709.bam.bai			  bam bai
+1088	HT-144_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595086.bam			  bam
+1088	HT-144_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595087.bam.bai			  bam bai
+1088	HT-29_RNA_TCGA						/nfs/cancer_trk0066/00000256/1129379.bam			  bam
+1088	HT-29_RNA_TCGA						/nfs/cancer_trk0066/00000254/1129380.bam.bai			  bam bai
+1088	HT55_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140821.bam			  bam
+1088	HT55_RNA_TCGA						/nfs/cancer_trk0055/00000211/1140822.bam.bai			  bam bai
+1088	HT_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595146.bam			  bam
+1088	HT_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595147.bam.bai			  bam bai
+1088	HUP-T3_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595148.bam			  bam
+1088	HUP-T3_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595149.bam.bai			  bam bai
+1088	HUP-T4_RNA_TCGA						/nfs/cancer_trk0025/00000089/1402761.bam			  bam
+1088	HUP-T4_RNA_TCGA						/nfs/cancer_trk0025/00000089/1402762.bam.bai			  bam bai
+1088	Hep_3B2_1-7_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595084.bam			  bam
+1088	Hep_3B2_1-7_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595085.bam.bai			  bam bai
+1088	Hs-578-T_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595121.bam			  bam
+1088	Hs-578-T_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595122.bam.bai			  bam bai
+1088	Hs683_RNA_TCGA						/nfs/cancer_trk0071/00000274/1595209.bam			  bam
+1088	Hs683_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595210.bam.bai			  bam bai
+1088	Hs746T_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387446.bam			  bam
+1088	Hs746T_RNA_TCGA						/nfs/cancer_trk0068/00000263/1387447.bam.bai			  bam bai
+1088	Hs766T_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594934.bam			  bam
+1088	Hs766T_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594935.bam.bai			  bam bai
+1088	Hs939-T_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595123.bam			  bam
+1088	Hs939-T_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595125.bam.bai			  bam bai
+1088	Hs940-T_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595126.bam			  bam
+1088	Hs940-T_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595127.bam.bai			  bam bai
+1088	HuCCT1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595128.bam			  bam
+1088	HuCCT1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595129.bam.bai			  bam bai
+1088	HuH-7_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595088.bam			  bam
+1088	HuH-7_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595089.bam.bai			  bam bai
+1088	HuTu-80_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716006.bam			  bam
+1088	HuTu-80_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716007.bam.bai			  bam bai
+1088	IA-LM_RNA_TCGA						/nfs/cancer_trk0068/00000264/1241230.bam			  bam
+1088	IA-LM_RNA_TCGA						/nfs/cancer_trk0068/00000265/1241231.bam.bai			  bam bai
+1088	IGR-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595090.bam			  bam
+1088	IGR-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595091.bam.bai			  bam bai
+1088	IGR-37_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377029.bam			  bam
+1088	IGR-37_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377030.bam.bai			  bam bai
+1088	IGROV-1_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595166.bam			  bam
+1088	IGROV-1_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595167.bam.bai			  bam bai
+1088	IM-95_RNA_TCGA						/nfs/cancer_trk0069/00000268/1357756.bam			  bam
+1088	IM-95_RNA_TCGA						/nfs/cancer_trk0069/00000268/1357764.bam.bai			  bam bai
+1088	IPC-298_RNA_TCGA					/nfs/cancer_trk0069/00000268/1358759.bam			  bam
+1088	IPC-298_RNA_TCGA					/nfs/cancer_trk0069/00000268/1358760.bam.bai			  bam bai
+1088	IST-MES1_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241330.bam			  bam
+1088	IST-MES1_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241331.bam.bai			  bam bai
+1088	Ishikawa_Heraklio_02ER_RNA_TCGA				/nfs/cancer_trk0072/00000281/1671962.bam			  bam
+1088	Ishikawa_Heraklio_02ER_RNA_TCGA				/nfs/cancer_trk0072/00000281/1671963.bam.bai			  bam bai
+1088	J82_RNA_TCGA						/nfs/cancer_trk0071/00000274/1595201.bam			  bam
+1088	J82_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595202.bam.bai			  bam bai
+1088	JHH-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595016.bam			  bam
+1088	JHH-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595017.bam.bai			  bam bai
+1088	JHH-2_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595018.bam			  bam
+1088	JHH-2_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595019.bam.bai			  bam bai
+1088	JHH-6_RNA_TCGA						/nfs/cancer_trk0069/00000268/1359695.bam			  bam
+1088	JHH-6_RNA_TCGA						/nfs/cancer_trk0069/00000268/1359696.bam.bai			  bam bai
+1088	JHOS-2_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377034.bam			  bam
+1088	JHOS-2_RNA_TCGA						/nfs/cancer_trk0069/00000269/1377035.bam.bai			  bam bai
+1088	JeKo-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595132.bam			  bam
+1088	JeKo-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595133.bam.bai			  bam bai
+1088	K-562_RNA_TCGA						/nfs/cancer_trk0059/00000235/1090843.bam			  bam
+1088	K-562_RNA_TCGA						/nfs/cancer_trk0059/00000235/1090844.bam.bai			  bam bai
+1088	KARPAS-299_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090841.bam			  bam
+1088	KARPAS-299_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090842.bam.bai			  bam bai
+1088	KARPAS-422_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090839.bam			  bam
+1088	KARPAS-422_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090840.bam.bai			  bam bai
+1088	KATOIII_RNA_TCGA					/nfs/cancer_trk0069/00000268/1359122.bam			  bam
+1088	KATOIII_RNA_TCGA					/nfs/cancer_trk0069/00000268/1359123.bam.bai			  bam bai
+1088	KM12_RNA_TCGA						/nfs/cancer_trk0059/00000235/1091268.bam			  bam
+1088	KM12_RNA_TCGA						/nfs/cancer_trk0059/00000235/1091269.bam.bai			  bam bai
+1088	KMS-11_RNA_TCGA						/nfs/cancer_trk0069/00000268/1359697.bam			  bam
+1088	KMS-11_RNA_TCGA						/nfs/cancer_trk0069/00000268/1359698.bam.bai			  bam bai
+1088	KNS-62_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270613.bam			  bam
+1088	KNS-62_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270614.bam.bai			  bam bai
+1088	KP-3_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594936.bam			  bam
+1088	KP-3_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594937.bam.bai			  bam bai
+1088	KP-4_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595134.bam			  bam
+1088	KP-4_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595135.bam.bai			  bam bai
+1088	KP-N-RT-BM-1_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594967.bam			  bam
+1088	KP-N-RT-BM-1_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594968.bam.bai			  bam bai
+1088	KP-N-YN_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594969.bam			  bam
+1088	KP-N-YN_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594970.bam.bai			  bam bai
+1088	KS-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594909.bam			  bam
+1088	KS-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594910.bam.bai			  bam bai
+1088	KU-19-19_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594971.bam			  bam
+1088	KU-19-19_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594972.bam.bai			  bam bai
+1088	KU812_RNA_TCGA						/nfs/cancer_trk0059/00000235/1090837.bam			  bam
+1088	KU812_RNA_TCGA						/nfs/cancer_trk0059/00000235/1090838.bam.bai			  bam bai
+1088	KURAMOCHI_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595020.bam			  bam
+1088	KURAMOCHI_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595021.bam.bai			  bam bai
+1088	KYM-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595092.bam			  bam
+1088	KYM-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595093.bam.bai			  bam bai
+1088	KYSE-140_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595041.bam			  bam
+1088	KYSE-140_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595042.bam.bai			  bam bai
+1088	KYSE-150_RNA_TCGA					/nfs/cancer_trk0069/00000269/1373842.bam			  bam
+1088	KYSE-150_RNA_TCGA					/nfs/cancer_trk0069/00000269/1373843.bam.bai			  bam bai
+1088	KYSE-180_RNA_TCGA					/nfs/cancer_trk0069/00000269/1377020.bam			  bam
+1088	KYSE-180_RNA_TCGA					/nfs/cancer_trk0069/00000269/1377021.bam.bai			  bam bai
+1088	KYSE-270_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595022.bam			  bam
+1088	KYSE-270_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595023.bam.bai			  bam bai
+1088	KYSE-30_RNA_TCGA					/nfs/cancer_trk0069/00000269/1373844.bam			  bam
+1088	KYSE-30_RNA_TCGA					/nfs/cancer_trk0069/00000269/1373845.bam.bai			  bam bai
+1088	KYSE-410_RNA_TCGA					/nfs/cancer_trk0069/00000269/1373846.bam			  bam
+1088	KYSE-410_RNA_TCGA					/nfs/cancer_trk0069/00000269/1373847.bam.bai			  bam bai
+1088	KYSE-450_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595136.bam			  bam
+1088	KYSE-450_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595137.bam.bai			  bam bai
+1088	KYSE-510_RNA_TCGA					/nfs/cancer_trk0069/00000269/1376966.bam			  bam
+1088	KYSE-510_RNA_TCGA					/nfs/cancer_trk0069/00000269/1376967.bam.bai			  bam bai
+1088	KYSE-520_RNA_TCGA					/nfs/cancer_trk0071/00000274/1595178.bam			  bam
+1088	KYSE-520_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595179.bam.bai			  bam bai
+1088	KYSE-70_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595155.bam			  bam
+1088	KYSE-70_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595156.bam.bai			  bam bai
+1088	L-1236_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595043.bam			  bam
+1088	L-1236_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595044.bam.bai			  bam bai
+1088	L-363_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595191.bam			  bam
+1088	L-363_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595192.bam.bai			  bam bai
+1088	L-428_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595045.bam			  bam
+1088	L-428_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595046.bam.bai			  bam bai
+1088	L-540_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594974.bam			  bam
+1088	L-540_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594975.bam.bai			  bam bai
+1088	LAMA-84_RNA_TCGA					/nfs/cancer_trk0064/00000249/1104107.bam			  bam
+1088	LAMA-84_RNA_TCGA					/nfs/cancer_trk0065/00000251/1104108.bam.bai			  bam bai
+1088	LN-18_RNA_TCGA						/nfs/cancer_trk0071/00000274/1595193.bam			  bam
+1088	LN-18_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595194.bam.bai			  bam bai
+1088	LN-229_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595047.bam			  bam
+1088	LN-229_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595048.bam.bai			  bam bai
+1088	LNCaP-Clone-FGC_RNA_TCGA				/nfs/cancer_trk0073/00000285/1740676.bam			  bam
+1088	LNCaP-Clone-FGC_RNA_TCGA				/nfs/cancer_trk0073/00000283/1740677.bam.bai			  bam bai
+1088	LOUCY_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594890.bam			  bam
+1088	LOUCY_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594891.bam.bai			  bam bai
+1088	LOXIMVI_RNA_TCGA					/nfs/cancer_trk0069/00000269/1377007.bam			  bam
+1088	LOXIMVI_RNA_TCGA					/nfs/cancer_trk0069/00000269/1377008.bam.bai			  bam bai
+1088	LP-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595024.bam			  bam
+1088	LP-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595025.bam.bai			  bam bai
+1088	LS-1034_RNA_TCGA					/nfs/cancer_trk0066/00000256/1145772.bam			  bam
+1088	LS-1034_RNA_TCGA					/nfs/cancer_trk0066/00000256/1145773.bam.bai			  bam bai
+1088	LS-123_RNA_TCGA						/nfs/cancer_trk0066/00000256/1145780.bam			  bam
+1088	LS-123_RNA_TCGA						/nfs/cancer_trk0066/00000256/1145781.bam.bai			  bam bai
+1088	LS-180_RNA_TCGA						/nfs/cancer_trk0059/00000235/1140807.bam			  bam
+1088	LS-180_RNA_TCGA						/nfs/cancer_trk0055/00000211/1140808.bam.bai			  bam bai
+1088	LS-411N_RNA_TCGA					/nfs/cancer_trk0067/00000260/1149903.bam			  bam
+1088	LS-411N_RNA_TCGA					/nfs/cancer_trk0067/00000260/1149904.bam.bai			  bam bai
+1088	LS-513_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140841.bam			  bam
+1088	LS-513_RNA_TCGA						/nfs/cancer_trk0055/00000211/1140842.bam.bai			  bam bai
+1088	LoVo_RNA_TCGA						/nfs/cancer_trk0066/00000256/1144157.bam			  bam
+1088	LoVo_RNA_TCGA						/nfs/cancer_trk0060/00000219/1144158.bam.bai			  bam bai
+1088	MC116_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594976.bam			  bam
+1088	MC116_RNA_TCGA						/nfs/cancer_trk0070/00000273/1594977.bam.bai			  bam bai
+1088	MCAS_RNA_TCGA						/nfs/cancer_trk0069/00000269/1376927.bam			  bam
+1088	MCAS_RNA_TCGA						/nfs/cancer_trk0069/00000269/1376928.bam.bai			  bam bai
+1088	MCF7_RNA_TCGA						/nfs/cancer_trk0056/00000216/1244932.bam			  bam
+1088	MCF7_RNA_TCGA						/nfs/cancer_trk0054/00000207/1244933.bam.bai			  bam bai
+1088	MDA-MB-157_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595026.bam			  bam
+1088	MDA-MB-157_RNA_TCGA					/nfs/cancer_trk0070/00000273/1595027.bam.bai			  bam bai
+1088	MDA-MB-175-VII_RNA_TCGA					/nfs/cancer_trk0073/00000285/1740678.bam			  bam
+1088	MDA-MB-175-VII_RNA_TCGA					/nfs/cancer_trk0073/00000283/1740679.bam.bai			  bam bai
+1088	MDA-MB-361_RNA_TCGA					/nfs/cancer_trk0056/00000216/1244934.bam			  bam
+1088	MDA-MB-361_RNA_TCGA					/nfs/cancer_trk0054/00000206/1244935.bam.bai			  bam bai
+1088	MDA-MB-453_RNA_TCGA					/nfs/cancer_trk0056/00000216/1245092.bam			  bam
+1088	MDA-MB-453_RNA_TCGA					/nfs/cancer_trk0054/00000208/1245093.bam.bai			  bam bai
+1088	MDST8_RNA_TCGA						/nfs/cancer_trk0067/00000260/1150419.bam			  bam
+1088	MDST8_RNA_TCGA						/nfs/cancer_trk0067/00000260/1150420.bam.bai			  bam bai
+1088	MEG-01_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387356.bam			  bam
+1088	MEG-01_RNA_TCGA						/nfs/cancer_trk0068/00000263/1387357.bam.bai			  bam bai
+1088	MG-63_RNA_TCGA						/nfs/cancer_trk0066/00000255/1143736.bam			  bam
+1088	MG-63_RNA_TCGA						/nfs/cancer_trk0060/00000219/1143737.bam.bai			  bam bai
+1088	MHH-ES-1_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091624.bam			  bam
+1088	MHH-ES-1_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091625.bam.bai			  bam bai
+1088	MOLM-13_RNA_TCGA					/nfs/cancer_trk0070/00000270/1387345.bam			  bam
+1088	MOLM-13_RNA_TCGA					/nfs/cancer_trk0045/00000169/1387346.bam.bai			  bam bai
+1088	MV-4-11_RNA_TCGA					/nfs/cancer_trk0070/00000270/1387448.bam			  bam
+1088	MV-4-11_RNA_TCGA					/nfs/cancer_trk0068/00000263/1387449.bam.bai			  bam bai
+1088	NB1_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387411.bam			  bam
+1088	NB1_RNA_TCGA						/nfs/cancer_trk0068/00000263/1387412.bam.bai			  bam bai
+1088	NCI-H1341_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241332.bam			  bam
+1088	NCI-H1341_RNA_TCGA					/nfs/cancer_trk0068/00000265/1241333.bam.bai			  bam bai
+1088	NCI-H1435_RNA_TCGA					/nfs/cancer_trk0056/00000216/1245094.bam			  bam
+1088	NCI-H1435_RNA_TCGA					/nfs/cancer_trk0054/00000208/1245095.bam.bai			  bam bai
+1088	NCI-H1568_RNA_TCGA					/nfs/cancer_trk0056/00000216/1245096.bam			  bam
+1088	NCI-H1568_RNA_TCGA					/nfs/cancer_trk0054/00000208/1245097.bam.bai			  bam bai
+1088	NCI-H1581_RNA_TCGA					/nfs/cancer_trk0060/00000218/1245098.bam			  bam
+1088	NCI-H1581_RNA_TCGA					/nfs/cancer_trk0054/00000208/1245099.bam.bai			  bam bai
+1088	NCI-H1623_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091362.bam			  bam
+1088	NCI-H1623_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091363.bam.bai			  bam bai
+1088	NCI-H2009_RNA_TCGA					/nfs/cancer_trk0056/00000215/1254672.bam			  bam
+1088	NCI-H2009_RNA_TCGA					/nfs/cancer_trk0056/00000215/1254673.bam.bai			  bam bai
+1088	NCI-H2122_RNA_TCGA					/nfs/cancer_trk0056/00000215/1254674.bam			  bam
+1088	NCI-H2122_RNA_TCGA					/nfs/cancer_trk0056/00000215/1254675.bam.bai			  bam bai
+1088	NCI-H2228_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091750.bam			  bam
+1088	NCI-H2228_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091751.bam.bai			  bam bai
+1088	NCI-H226_RNA_TCGA					/nfs/cancer_trk0056/00000215/1254676.bam			  bam
+1088	NCI-H226_RNA_TCGA					/nfs/cancer_trk0056/00000215/1254677.bam.bai			  bam bai
+1088	NCI-H2342_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270615.bam			  bam
+1088	NCI-H2342_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270616.bam.bai			  bam bai
+1088	NCI-H446_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270617.bam			  bam
+1088	NCI-H446_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270618.bam.bai			  bam bai
+1088	NCI-H460_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270619.bam			  bam
+1088	NCI-H460_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270620.bam.bai			  bam bai
+1088	NCI-H508_RNA_TCGA					/nfs/cancer_trk0067/00000259/1155723.bam			  bam
+1088	NCI-H508_RNA_TCGA					/nfs/cancer_trk0065/00000251/1155724.bam.bai			  bam bai
+1088	NCI-H526_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090993.bam			  bam
+1088	NCI-H526_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090994.bam.bai			  bam bai
+1088	NCI-H716_RNA_TCGA					/nfs/cancer_trk0067/00000259/1155725.bam			  bam
+1088	NCI-H716_RNA_TCGA					/nfs/cancer_trk0065/00000251/1155726.bam.bai			  bam bai
+1088	NCI-H747_RNA_TCGA					/nfs/cancer_trk0067/00000259/1155703.bam			  bam
+1088	NCI-H747_RNA_TCGA					/nfs/cancer_trk0065/00000251/1155704.bam.bai			  bam bai
+1088	NCI-H810_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091270.bam			  bam
+1088	NCI-H810_RNA_TCGA					/nfs/cancer_trk0059/00000235/1091271.bam.bai			  bam bai
+1088	NCI-H838_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672521.bam			  bam
+1088	NCI-H838_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672522.bam.bai			  bam bai
+1088	NCI-H841_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270621.bam			  bam
+1088	NCI-H841_RNA_TCGA					/nfs/cancer_trk0067/00000260/1270622.bam.bai			  bam bai
+1088	NCI-H929_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672303.bam			  bam
+1088	NCI-H929_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672304.bam.bai			  bam bai
+1088	NCI-N87_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672595.bam			  bam
+1088	NCI-N87_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672596.bam.bai			  bam bai
+1088	NCI-SNU-5_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672305.bam			  bam
+1088	NCI-SNU-5_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672306.bam.bai			  bam bai
+1088	NMC-G1_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387387.bam			  bam
+1088	NMC-G1_RNA_TCGA						/nfs/cancer_trk0068/00000263/1387389.bam.bai			  bam bai
+1088	NOMO-1_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672082.bam			  bam
+1088	NOMO-1_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672083.bam.bai			  bam bai
+1088	NU-DUL-1_RNA_TCGA					/nfs/cancer_trk0070/00000270/1387381.bam			  bam
+1088	NU-DUL-1_RNA_TCGA					/nfs/cancer_trk0068/00000263/1387382.bam.bai			  bam bai
+1088	NUGC-3_RNA_TCGA						/nfs/cancer_trk0072/00000281/1671866.bam			  bam
+1088	NUGC-3_RNA_TCGA						/nfs/cancer_trk0072/00000281/1671867.bam.bai			  bam bai
+1088	NUGC-4_RNA_TCGA						/nfs/cancer_trk0070/00000270/1387335.bam			  bam
+1088	NUGC-4_RNA_TCGA						/nfs/cancer_trk0045/00000169/1387336.bam.bai			  bam bai
+1088	OAW-28_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672392.bam			  bam
+1088	OAW-28_RNA_TCGA						/nfs/cancer_trk0072/00000279/1672393.bam.bai			  bam bai
+1088	OAW-42_RNA_TCGA						/nfs/cancer_trk0072/00000281/1671868.bam			  bam
+1088	OAW-42_RNA_TCGA						/nfs/cancer_trk0072/00000280/1671869.bam.bai			  bam bai
+1088	OC-314_RNA_TCGA						/nfs/cancer_trk0025/00000089/1402704.bam			  bam
+1088	OC-314_RNA_TCGA						/nfs/cancer_trk0025/00000089/1402705.bam.bai			  bam bai
+1088	OCI-AML2_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671871.bam			  bam
+1088	OCI-AML2_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671872.bam.bai			  bam bai
+1088	OCI-AML3_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671873.bam			  bam
+1088	OCI-AML3_RNA_TCGA					/nfs/cancer_trk0072/00000280/1671874.bam.bai			  bam bai
+1088	OCI-AML5_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671875.bam			  bam
+1088	OCI-AML5_RNA_TCGA					/nfs/cancer_trk0072/00000280/1671876.bam.bai			  bam bai
+1088	OCI-LY-19_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672523.bam			  bam
+1088	OCI-LY-19_RNA_TCGA					/nfs/cancer_trk0072/00000279/1672524.bam.bai			  bam bai
+1088	OCI-M1_RNA_TCGA						/nfs/cancer_trk0025/00000089/1402402.bam			  bam
+1088	OCI-M1_RNA_TCGA						/nfs/cancer_trk0025/00000089/1402403.bam.bai			  bam bai
+1088	OCUM-1_RNA_TCGA						/nfs/cancer_trk0072/00000281/1671877.bam			  bam
+1088	OCUM-1_RNA_TCGA						/nfs/cancer_trk0072/00000280/1671878.bam.bai			  bam bai
+1088	OE19_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672394.bam			  bam
+1088	OE19_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672396.bam.bai			  bam bai
+1088	OE21_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672525.bam			  bam
+1088	OE21_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672526.bam.bai			  bam bai
+1088	OE33_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672476.bam			  bam
+1088	OE33_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672477.bam.bai			  bam bai
+1088	ONS-76_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672084.bam			  bam
+1088	ONS-76_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672085.bam.bai			  bam bai
+1088	OPM-2_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672307.bam			  bam
+1088	OPM-2_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672308.bam.bai			  bam bai
+1088	OS-RC-2_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672478.bam			  bam
+1088	OS-RC-2_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672479.bam.bai			  bam bai
+1088	OUMS-23_RNA_TCGA					/nfs/cancer_trk0066/00000257/1140869.bam			  bam
+1088	OUMS-23_RNA_TCGA					/nfs/cancer_trk0059/00000235/1140870.bam.bai			  bam bai
+1088	OV-56_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672527.bam			  bam
+1088	OV-56_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672528.bam.bai			  bam bai
+1088	OV-7_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672236.bam			  bam
+1088	OV-7_RNA_TCGA						/nfs/cancer_trk0055/00000210/1672237.bam.bai			  bam bai
+1088	OV-90_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672309.bam			  bam
+1088	OV-90_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672310.bam.bai			  bam bai
+1088	OVCAR-3_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672397.bam			  bam
+1088	OVCAR-3_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672398.bam.bai			  bam bai
+1088	OVCAR-4_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672311.bam			  bam
+1088	OVCAR-4_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672312.bam.bai			  bam bai
+1088	OVCAR-8_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672480.bam			  bam
+1088	OVCAR-8_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672481.bam.bai			  bam bai
+1088	OVISE_RNA_TCGA						/nfs/cancer_trk0037/00000134/1415113.bam			  bam
+1088	OVISE_RNA_TCGA						/nfs/cancer_trk0035/00000126/1415117.bam.bai			  bam bai
+1088	PA-TU-8902_RNA_TCGA					/nfs/cancer_trk0037/00000134/1414392.bam			  bam
+1088	PA-TU-8902_RNA_TCGA					/nfs/cancer_trk0035/00000126/1414393.bam.bai			  bam bai
+1088	PSN1_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270623.bam			  bam
+1088	PSN1_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270624.bam.bai			  bam bai
+1088	QGP-1_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270625.bam			  bam
+1088	QGP-1_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270626.bam.bai			  bam bai
+1088	RCM-1_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155737.bam			  bam
+1088	RCM-1_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155738.bam.bai			  bam bai
+1088	RKO_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140926.bam			  bam
+1088	RKO_RNA_TCGA						/nfs/cancer_trk0059/00000235/1140927.bam.bai			  bam bai
+1088	RL_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270627.bam			  bam
+1088	RL_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270628.bam.bai			  bam bai
+1088	RPMI-7951_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716008.bam			  bam
+1088	RPMI-7951_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716009.bam.bai			  bam bai
+1088	RPMI-8226_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716010.bam			  bam
+1088	RPMI-8226_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716011.bam.bai			  bam bai
+1088	RPMI-8402_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716012.bam			  bam
+1088	RPMI-8402_RNA_TCGA					/nfs/cancer_trk0073/00000282/1716013.bam.bai			  bam bai
+1088	RS4-11_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270629.bam			  bam
+1088	RS4-11_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270630.bam.bai			  bam bai
+1088	RT-112_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716014.bam			  bam
+1088	RT-112_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716015.bam.bai			  bam bai
+1088	RT4_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270631.bam			  bam
+1088	RT4_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270632.bam.bai			  bam bai
+1088	S-117_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716016.bam			  bam
+1088	S-117_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716017.bam.bai			  bam bai
+1088	SBC-5_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716018.bam			  bam
+1088	SBC-5_RNA_TCGA						/nfs/cancer_trk0073/00000282/1716019.bam.bai			  bam bai
+1088	SCC-15_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716022.bam			  bam
+1088	SCC-15_RNA_TCGA						/nfs/cancer_trk0073/00000282/1716023.bam.bai			  bam bai
+1088	SCC-25_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716024.bam			  bam
+1088	SCC-25_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716025.bam.bai			  bam bai
+1088	SCC-4_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716026.bam			  bam
+1088	SCC-4_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716027.bam.bai			  bam bai
+1088	SCC-9_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716028.bam			  bam
+1088	SCC-9_RNA_TCGA						/nfs/cancer_trk0073/00000282/1716029.bam.bai			  bam bai
+1088	SCaBER_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716020.bam			  bam
+1088	SCaBER_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716021.bam.bai			  bam bai
+1088	SF126_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716030.bam			  bam
+1088	SF126_RNA_TCGA						/nfs/cancer_trk0073/00000282/1716031.bam.bai			  bam bai
+1088	SF268_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716032.bam			  bam
+1088	SF268_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716033.bam.bai			  bam bai
+1088	SF295_RNA_TCGA						/nfs/cancer_trk0069/00000266/1275774.bam			  bam
+1088	SF295_RNA_TCGA						/nfs/cancer_trk0068/00000265/1275775.bam.bai			  bam bai
+1088	SF539_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716034.bam			  bam
+1088	SF539_RNA_TCGA						/nfs/cancer_trk0073/00000282/1716035.bam.bai			  bam bai
+1088	SH-4_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716036.bam			  bam
+1088	SH-4_RNA_TCGA						/nfs/cancer_trk0073/00000282/1716037.bam.bai			  bam bai
+1088	SHP-77_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716038.bam			  bam
+1088	SHP-77_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716039.bam.bai			  bam bai
+1088	SIG-M5_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716040.bam			  bam
+1088	SIG-M5_RNA_TCGA						/nfs/cancer_trk0073/00000282/1716041.bam.bai			  bam bai
+1088	SIMA_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716577.bam			  bam
+1088	SIMA_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716578.bam.bai			  bam bai
+1088	SJSA-1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716042.bam			  bam
+1088	SJSA-1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716043.bam.bai			  bam bai
+1088	SK-CO-1_RNA_TCGA					/nfs/cancer_trk0066/00000257/1155859.bam			  bam
+1088	SK-CO-1_RNA_TCGA					/nfs/cancer_trk0067/00000260/1155860.bam.bai			  bam bai
+1088	SK-ES-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716044.bam			  bam
+1088	SK-ES-1_RNA_TCGA					/nfs/cancer_trk0073/00000282/1716045.bam.bai			  bam bai
+1088	SK-HEP-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716046.bam			  bam
+1088	SK-HEP-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716047.bam.bai			  bam bai
+1088	SK-LMS-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716048.bam			  bam
+1088	SK-LMS-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716049.bam.bai			  bam bai
+1088	SK-MEL-5_RNA_TCGA					/nfs/cancer_trk0069/00000267/1315849.bam			  bam
+1088	SK-MEL-5_RNA_TCGA					/nfs/cancer_trk0069/00000266/1315850.bam.bai			  bam bai
+1088	SK-N-AS_RNA_TCGA					/nfs/cancer_trk0069/00000267/1316240.bam			  bam
+1088	SK-N-AS_RNA_TCGA					/nfs/cancer_trk0069/00000267/1316243.bam.bai			  bam bai
+1088	SNU-1040_RNA_TCGA					/nfs/cancer_trk0067/00000259/1155751.bam			  bam
+1088	SNU-1040_RNA_TCGA					/nfs/cancer_trk0066/00000257/1155752.bam.bai			  bam bai
+1088	SNU-175_RNA_TCGA					/nfs/cancer_trk0066/00000257/1140942.bam			  bam
+1088	SNU-175_RNA_TCGA					/nfs/cancer_trk0066/00000257/1140943.bam.bai			  bam bai
+1088	SNU-407_RNA_TCGA					/nfs/cancer_trk0066/00000254/1113482.bam			  bam
+1088	SNU-407_RNA_TCGA					/nfs/cancer_trk0066/00000254/1113483.bam.bai			  bam bai
+1088	SNU-61_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155746.bam			  bam
+1088	SNU-61_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155747.bam.bai			  bam bai
+1088	SNU-81_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155529.bam			  bam
+1088	SNU-81_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155530.bam.bai			  bam bai
+1088	SNU-C1_RNA_TCGA						/nfs/cancer_trk0066/00000257/1140940.bam			  bam
+1088	SNU-C1_RNA_TCGA						/nfs/cancer_trk0059/00000235/1140941.bam.bai			  bam bai
+1088	SNU-C5_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155593.bam			  bam
+1088	SNU-C5_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155594.bam.bai			  bam bai
+1088	SU-DHL-10_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716050.bam			  bam
+1088	SU-DHL-10_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716051.bam.bai			  bam bai
+1088	SU-DHL-4_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716052.bam			  bam
+1088	SU-DHL-4_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716053.bam.bai			  bam bai
+1088	SU-DHL-5_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716054.bam			  bam
+1088	SU-DHL-5_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716055.bam.bai			  bam bai
+1088	SU-DHL-6_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716056.bam			  bam
+1088	SU-DHL-6_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716057.bam.bai			  bam bai
+1088	SU-DHL-8_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716058.bam			  bam
+1088	SU-DHL-8_RNA_TCGA					/nfs/cancer_trk0073/00000282/1716059.bam.bai			  bam bai
+1088	SU8686_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716060.bam			  bam
+1088	SU8686_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716061.bam.bai			  bam bai
+1088	SUIT-2_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716062.bam			  bam
+1088	SUIT-2_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716063.bam.bai			  bam bai
+1088	SUP-B15_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716064.bam			  bam
+1088	SUP-B15_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716065.bam.bai			  bam bai
+1088	SUP-M2_RNA_TCGA						/nfs/cancer_trk0069/00000267/1315694.bam			  bam
+1088	SUP-M2_RNA_TCGA						/nfs/cancer_trk0069/00000266/1315695.bam.bai			  bam bai
+1088	SUP-T1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716066.bam			  bam
+1088	SUP-T1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716067.bam.bai			  bam bai
+1088	SW1088_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716068.bam			  bam
+1088	SW1088_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716069.bam.bai			  bam bai
+1088	SW1116_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155657.bam			  bam
+1088	SW1116_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155658.bam.bai			  bam bai
+1088	SW1271_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716070.bam			  bam
+1088	SW1271_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716071.bam.bai			  bam bai
+1088	SW1417_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155705.bam			  bam
+1088	SW1417_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155706.bam.bai			  bam bai
+1088	SW1463_RNA_TCGA						/nfs/cancer_trk0067/00000258/1155448.bam			  bam
+1088	SW1463_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155449.bam.bai			  bam bai
+1088	SW1573_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716072.bam			  bam
+1088	SW1573_RNA_TCGA						/nfs/cancer_trk0073/00000283/1716073.bam.bai			  bam bai
+1088	SW1710_RNA_TCGA						/nfs/cancer_trk0073/00000282/1743332.bam			  bam
+1088	SW1710_RNA_TCGA						/nfs/cancer_trk0073/00000282/1743333.bam.bai			  bam bai
+1088	SW1783_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717185.bam			  bam
+1088	SW1783_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717186.bam.bai			  bam bai
+1088	SW1990_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717187.bam			  bam
+1088	SW1990_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717188.bam.bai			  bam bai
+1088	SW403_RNA_TCGA						/nfs/cancer_trk0059/00000235/1140792.bam			  bam
+1088	SW403_RNA_TCGA						/nfs/cancer_trk0055/00000211/1140793.bam.bai			  bam bai
+1088	SW48_RNA_TCGA						/nfs/cancer_trk0066/00000256/1142127.bam			  bam
+1088	SW48_RNA_TCGA						/nfs/cancer_trk0066/00000256/1142128.bam.bai			  bam bai
+1088	SW620_RNA_TCGA						/nfs/cancer_trk0066/00000255/1141570.bam			  bam
+1088	SW620_RNA_TCGA						/nfs/cancer_trk0054/00000209/1141571.bam.bai			  bam bai
+1088	SW780_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757854.bam			  bam
+1088	SW780_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757855.bam.bai			  bam bai
+1088	SW837_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155450.bam			  bam
+1088	SW837_RNA_TCGA						/nfs/cancer_trk0065/00000251/1155452.bam.bai			  bam bai
+1088	SW900_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757856.bam			  bam
+1088	SW900_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757857.bam.bai			  bam bai
+1088	SW948_RNA_TCGA						/nfs/cancer_trk0065/00000253/1141535.bam			  bam
+1088	SW948_RNA_TCGA						/nfs/cancer_trk0054/00000209/1141536.bam.bai			  bam bai
+1088	Saos-2_RNA_TCGA						/nfs/cancer_trk0066/00000256/1143988.bam			  bam
+1088	Saos-2_RNA_TCGA						/nfs/cancer_trk0060/00000219/1143989.bam.bai			  bam bai
+1088	T-24_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717713.bam			  bam
+1088	T-24_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717714.bam.bai			  bam bai
+1088	T-T_RNA_TCGA						/nfs/cancer_trk0069/00000267/1315696.bam			  bam
+1088	T-T_RNA_TCGA						/nfs/cancer_trk0068/00000264/1315697.bam.bai			  bam bai
+1088	T47D_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270633.bam			  bam
+1088	T47D_RNA_TCGA						/nfs/cancer_trk0067/00000260/1270634.bam.bai			  bam bai
+1088	T84_RNA_TCGA						/nfs/cancer_trk0067/00000259/1155761.bam			  bam
+1088	T84_RNA_TCGA						/nfs/cancer_trk0066/00000257/1155762.bam.bai			  bam bai
+1088	T98G_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757858.bam			  bam
+1088	T98G_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757859.bam.bai			  bam bai
+1088	TALL-1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757860.bam			  bam
+1088	TALL-1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1757861.bam.bai			  bam bai
+1088	TC-71_RNA_TCGA						/nfs/cancer_trk0073/00000284/1762033.bam			  bam
+1088	TC-71_RNA_TCGA						/nfs/cancer_trk0073/00000284/1762034.bam.bai			  bam bai
+1088	TCCSUP_RNA_TCGA						/nfs/cancer_trk0073/00000284/1761878.bam			  bam
+1088	TCCSUP_RNA_TCGA						/nfs/cancer_trk0073/00000284/1761879.bam.bai			  bam bai
+1088	TE-10_RNA_TCGA						/nfs/cancer_trk0073/00000284/1760756.bam			  bam
+1088	TE-10_RNA_TCGA						/nfs/cancer_trk0073/00000283/1760757.bam.bai			  bam bai
+1088	TE-11_RNA_TCGA						/nfs/cancer_trk0073/00000283/1758235.bam			  bam
+1088	TE-11_RNA_TCGA						/nfs/cancer_trk0073/00000283/1758236.bam.bai			  bam bai
+1088	TE-1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1758233.bam			  bam
+1088	TE-1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1758234.bam.bai			  bam bai
+1088	TE-5_RNA_TCGA						/nfs/cancer_trk0069/00000266/1317588.bam			  bam
+1088	TE-5_RNA_TCGA						/nfs/cancer_trk0069/00000266/1317589.bam.bai			  bam bai
+1088	U-118-MG_RNA_TCGA					/nfs/cancer_trk0059/00000236/1102178.bam			  bam
+1088	U-118-MG_RNA_TCGA					/nfs/cancer_trk0054/00000207/1102179.bam.bai			  bam bai
+1088	U-2-OS_RNA_TCGA						/nfs/cancer_trk0067/00000259/1142154.bam			  bam
+1088	U-2-OS_RNA_TCGA						/nfs/cancer_trk0066/00000257/1142155.bam.bai			  bam bai
+1088	VCaP_RNA_TCGA						/nfs/cancer_trk0069/00000267/1320258.bam			  bam
+1088	VCaP_RNA_TCGA						/nfs/cancer_trk0069/00000267/1320259.bam.bai			  bam bai
+1088	VM-CUB-1_RNA_TCGA					/nfs/cancer_trk0069/00000269/1376822.bam			  bam
+1088	VM-CUB-1_RNA_TCGA					/nfs/cancer_trk0069/00000269/1376823.bam.bai			  bam bai
+1088	YKG-1_RNA_TCGA						/nfs/cancer_trk0055/00000212/1022965.bam			  bam
+1088	YKG-1_RNA_TCGA						/nfs/cancer_trk0051/00000195/1022966.bam.bai			  bam bai
+1088	ZR-75-30_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090991.bam			  bam
+1088	ZR-75-30_RNA_TCGA					/nfs/cancer_trk0059/00000235/1090992.bam.bai			  bam bai
+1088	huH-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595130.bam			  bam
+1088	huH-1_RNA_TCGA						/nfs/cancer_trk0070/00000273/1595131.bam.bai			  bam bai
+1156	A204_RNA_TCGA						/nfs/cancer_trk0037/00000136/1425401.bam			  bam
+1156	A204_RNA_TCGA						/nfs/cancer_trk0037/00000135/1425402.bam.bai			  bam bai
+1156	A2058_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441865.bam			  bam
+1156	A2058_RNA_TCGA						/nfs/cancer_trk0037/00000137/1441866.bam.bai			  bam bai
+1156	A253_RNA_TCGA						/nfs/cancer_trk0037/00000136/1425411.bam			  bam
+1156	A253_RNA_TCGA						/nfs/cancer_trk0037/00000135/1425412.bam.bai			  bam bai
+1156	A3-KAW_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441750.bam			  bam
+1156	A3-KAW_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441751.bam.bai			  bam bai
+1156	A4-Fuk_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441351.bam			  bam
+1156	A4-Fuk_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441352.bam.bai			  bam bai
+1156	A498_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441936.bam			  bam
+1156	A498_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441937.bam.bai			  bam bai
+1156	A673_RNA_TCGA						/nfs/cancer_trk0038/00000138/1442113.bam			  bam
+1156	A673_RNA_TCGA						/nfs/cancer_trk0037/00000137/1442115.bam.bai			  bam bai
+1156	A704_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441938.bam			  bam
+1156	A704_RNA_TCGA						/nfs/cancer_trk0038/00000138/1441939.bam.bai			  bam bai
+1156	ACHN_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459498.bam			  bam
+1156	ACHN_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459499.bam.bai			  bam bai
+1156	ALL-SIL_RNA_TCGA					/nfs/cancer_trk0038/00000141/1459481.bam			  bam
+1156	ALL-SIL_RNA_TCGA					/nfs/cancer_trk0038/00000141/1459482.bam.bai			  bam bai
+1156	AM-38_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459529.bam			  bam
+1156	AM-38_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459530.bam.bai			  bam bai
+1156	AMO-1_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459508.bam			  bam
+1156	AMO-1_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459509.bam.bai			  bam bai
+1156	AN3-CA_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459523.bam			  bam
+1156	AN3-CA_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459524.bam.bai			  bam bai
+1156	AU565_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459531.bam			  bam
+1156	AU565_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459532.bam.bai			  bam bai
+1156	AsPC-1_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459500.bam			  bam
+1156	AsPC-1_RNA_TCGA						/nfs/cancer_trk0038/00000141/1459501.bam.bai			  bam bai
+1156	BCPAP_RNA_TCGA						/nfs/cancer_trk0073/00000285/1740682.bam			  bam
+1156	BCPAP_RNA_TCGA						/nfs/cancer_trk0073/00000283/1740683.bam.bai			  bam bai
+1156	BEN_RNA_TCGA						/nfs/cancer_trk0074/00000286/1741193.bam			  bam
+1156	BEN_RNA_TCGA						/nfs/cancer_trk0074/00000286/1741195.bam.bai			  bam bai
+1156	BFTC-905_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487662.bam			  bam
+1156	BFTC-905_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487663.bam.bai			  bam bai
+1156	BFTC-909_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487664.bam			  bam
+1156	BFTC-909_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487665.bam.bai			  bam bai
+1156	BHT-101_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487666.bam			  bam
+1156	BHT-101_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487667.bam.bai			  bam bai
+1156	BHY_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488172.bam			  bam
+1156	BHY_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488173.bam.bai			  bam bai
+1156	BICR22_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488174.bam			  bam
+1156	BICR22_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488175.bam.bai			  bam bai
+1156	BICR31_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488176.bam			  bam
+1156	BICR31_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488177.bam.bai			  bam bai
+1156	BL-41_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488178.bam			  bam
+1156	BL-41_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488179.bam.bai			  bam bai
+1156	BT-20_RNA_TCGA						/nfs/cancer_trk0038/00000140/1463586.bam			  bam
+1156	BT-20_RNA_TCGA						/nfs/cancer_trk0038/00000140/1463587.bam.bai			  bam bai
+1156	BT-474_RNA_TCGA						/nfs/cancer_trk0038/00000140/1463578.bam			  bam
+1156	BT-474_RNA_TCGA						/nfs/cancer_trk0038/00000140/1463579.bam.bai			  bam bai
+1156	BT-483_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488180.bam			  bam
+1156	BT-483_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488181.bam.bai			  bam bai
+1156	BT-549_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467619.bam			  bam
+1156	BT-549_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467620.bam.bai			  bam bai
+1156	BxPC-3_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467566.bam			  bam
+1156	BxPC-3_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467567.bam.bai			  bam bai
+1156	C32_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467568.bam			  bam
+1156	C32_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467569.bam.bai			  bam bai
+1156	CA46_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488182.bam			  bam
+1156	CA46_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488183.bam.bai			  bam bai
+1156	CADO-ES1_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488184.bam			  bam
+1156	CADO-ES1_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488185.bam.bai			  bam bai
+1156	CAL-120_RNA_TCGA					/nfs/cancer_trk0038/00000141/1467586.bam			  bam
+1156	CAL-120_RNA_TCGA					/nfs/cancer_trk0038/00000141/1467587.bam.bai			  bam bai
+1156	CAL-12T_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488349.bam			  bam
+1156	CAL-12T_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488350.bam.bai			  bam bai
+1156	CAL-148_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488186.bam			  bam
+1156	CAL-148_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488187.bam.bai			  bam bai
+1156	CAL-29_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488188.bam			  bam
+1156	CAL-29_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488189.bam.bai			  bam bai
+1156	CAL-33_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488190.bam			  bam
+1156	CAL-33_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488191.bam.bai			  bam bai
+1156	CAL-51_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467632.bam			  bam
+1156	CAL-51_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467633.bam.bai			  bam bai
+1156	CAL-54_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488192.bam			  bam
+1156	CAL-54_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488193.bam.bai			  bam bai
+1156	CAL-78_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467505.bam			  bam
+1156	CAL-78_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467506.bam.bai			  bam bai
+1156	CAL-85-1_RNA_TCGA					/nfs/cancer_trk0042/00000158/1488361.bam			  bam
+1156	CAL-85-1_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488362.bam.bai			  bam bai
+1156	CAMA-1_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488363.bam			  bam
+1156	CAMA-1_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488364.bam.bai			  bam bai
+1156	CAS-1_RNA_TCGA						/nfs/cancer_trk0040/00000148/1480315.bam			  bam
+1156	CAS-1_RNA_TCGA						/nfs/cancer_trk0040/00000148/1480316.bam.bai			  bam bai
+1156	CCF-STTG1_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487672.bam			  bam
+1156	CCF-STTG1_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487673.bam.bai			  bam bai
+1156	CFPAC-1_RNA_TCGA					/nfs/cancer_trk0040/00000148/1480317.bam			  bam
+1156	CFPAC-1_RNA_TCGA					/nfs/cancer_trk0040/00000148/1480318.bam.bai			  bam bai
+1156	CHP-126_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487674.bam			  bam
+1156	CHP-126_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487675.bam.bai			  bam bai
+1156	CMK_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487676.bam			  bam
+1156	CMK_RNA_TCGA						/nfs/cancer_trk0026/00000150/1487677.bam.bai			  bam bai
+1156	COLO-684_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487678.bam			  bam
+1156	COLO-684_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487679.bam.bai			  bam bai
+1156	COLO-783_RNA_TCGA					/nfs/cancer_trk0040/00000148/1480319.bam			  bam
+1156	COLO-783_RNA_TCGA					/nfs/cancer_trk0040/00000148/1480320.bam.bai			  bam bai
+1156	COLO-792_RNA_TCGA					/nfs/cancer_trk0073/00000285/1740686.bam			  bam
+1156	COLO-792_RNA_TCGA					/nfs/cancer_trk0073/00000283/1740687.bam.bai			  bam bai
+1156	COLO-800_RNA_TCGA					/nfs/cancer_trk0073/00000285/1740688.bam			  bam
+1156	COLO-800_RNA_TCGA					/nfs/cancer_trk0073/00000283/1740689.bam.bai			  bam bai
+1156	COLO-829_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487680.bam			  bam
+1156	COLO-829_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487681.bam.bai			  bam bai
+1156	COR-L105_RNA_TCGA					/nfs/cancer_trk0073/00000285/1740684.bam			  bam
+1156	COR-L105_RNA_TCGA					/nfs/cancer_trk0073/00000283/1740685.bam.bai			  bam bai
+1156	COR-L95_RNA_TCGA					/nfs/cancer_trk0042/00000158/1488355.bam			  bam
+1156	COR-L95_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488356.bam.bai			  bam bai
+1156	Calu-3_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488351.bam			  bam
+1156	Calu-3_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488352.bam.bai			  bam bai
+1156	Calu-6_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488353.bam			  bam
+1156	Calu-6_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488354.bam.bai			  bam bai
+1156	Caov-3_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467552.bam			  bam
+1156	Caov-3_RNA_TCGA						/nfs/cancer_trk0038/00000141/1467553.bam.bai			  bam bai
+1156	Caov-4_RNA_TCGA						/nfs/cancer_trk0040/00000146/1475029.bam			  bam
+1156	Caov-4_RNA_TCGA						/nfs/cancer_trk0039/00000143/1475030.bam.bai			  bam bai
+1156	Capan-1_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487668.bam			  bam
+1156	Capan-1_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487669.bam.bai			  bam bai
+1156	Capan-2_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487670.bam			  bam
+1156	Capan-2_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487671.bam.bai			  bam bai
+1156	ChaGo-K-1_RNA_TCGA					/nfs/cancer_trk0042/00000158/1488520.bam			  bam
+1156	ChaGo-K-1_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488521.bam.bai			  bam bai
+1156	D-283Med_RNA_TCGA					/nfs/cancer_trk0042/00000158/1488518.bam			  bam
+1156	D-283Med_RNA_TCGA					/nfs/cancer_trk0026/00000151/1488519.bam.bai			  bam bai
+1156	DBTRG-05MG_RNA_TCGA					/nfs/cancer_trk0070/00000271/1524704.bam			  bam
+1156	DBTRG-05MG_RNA_TCGA					/nfs/cancer_trk0070/00000271/1524705.bam.bai			  bam bai
+1156	DEL_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488347.bam			  bam
+1156	DEL_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488348.bam.bai			  bam bai
+1156	DK-MG_RNA_TCGA						/nfs/cancer_trk0042/00000158/1496652.bam			  bam
+1156	DK-MG_RNA_TCGA						/nfs/cancer_trk0042/00000158/1496653.bam.bai			  bam bai
+1156	DOHH-2_RNA_TCGA						/nfs/cancer_trk0042/00000159/1497161.bam			  bam
+1156	DOHH-2_RNA_TCGA						/nfs/cancer_trk0042/00000159/1497162.bam.bai			  bam bai
+1156	Daudi_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488819.bam			  bam
+1156	Daudi_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488820.bam.bai			  bam bai
+1156	Detroit562_RNA_TCGA					/nfs/cancer_trk0042/00000158/1496650.bam			  bam
+1156	Detroit562_RNA_TCGA					/nfs/cancer_trk0042/00000158/1496651.bam.bai			  bam bai
+1156	EBC-1_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488357.bam			  bam
+1156	EBC-1_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488358.bam.bai			  bam bai
+1156	EC-GI-10_RNA_TCGA					/nfs/cancer_trk0073/00000285/1740690.bam			  bam
+1156	EC-GI-10_RNA_TCGA					/nfs/cancer_trk0073/00000283/1740691.bam.bai			  bam bai
+1156	ECC10_RNA_TCGA						/nfs/cancer_trk0073/00000285/1740692.bam			  bam
+1156	ECC10_RNA_TCGA						/nfs/cancer_trk0073/00000285/1740693.bam.bai			  bam bai
+1156	ECC12_RNA_TCGA						/nfs/cancer_trk0073/00000285/1740694.bam			  bam
+1156	ECC12_RNA_TCGA						/nfs/cancer_trk0073/00000285/1740695.bam.bai			  bam bai
+1156	EFM-192A_RNA_TCGA					/nfs/cancer_trk0073/00000285/1740696.bam			  bam
+1156	EFM-192A_RNA_TCGA					/nfs/cancer_trk0073/00000285/1740697.bam.bai			  bam bai
+1156	EFM-19_RNA_TCGA						/nfs/cancer_trk0042/00000159/1497710.bam			  bam
+1156	EFM-19_RNA_TCGA						/nfs/cancer_trk0042/00000159/1497711.bam.bai			  bam bai
+1156	EFO-21_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473298.bam			  bam
+1156	EFO-21_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473299.bam.bai			  bam bai
+1156	EHEB_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487682.bam			  bam
+1156	EHEB_RNA_TCGA						/nfs/cancer_trk0026/00000150/1487683.bam.bai			  bam bai
+1156	EJM_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472803.bam			  bam
+1156	EJM_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472804.bam.bai			  bam bai
+1156	EKVX_RNA_TCGA						/nfs/cancer_trk0042/00000158/1488359.bam			  bam
+1156	EKVX_RNA_TCGA						/nfs/cancer_trk0026/00000151/1488360.bam.bai			  bam bai
+1156	EPLC-272H_RNA_TCGA					/nfs/cancer_trk0070/00000271/1391970.bam			  bam
+1156	EPLC-272H_RNA_TCGA					/nfs/cancer_trk0070/00000271/1391971.bam.bai			  bam bai
+1156	ES-2_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487684.bam			  bam
+1156	ES-2_RNA_TCGA						/nfs/cancer_trk0026/00000150/1487685.bam.bai			  bam bai
+1156	FTC-133_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487686.bam			  bam
+1156	FTC-133_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487687.bam.bai			  bam bai
+1156	FU-OV-1_RNA_TCGA					/nfs/cancer_trk0039/00000142/1472805.bam			  bam
+1156	FU-OV-1_RNA_TCGA					/nfs/cancer_trk0039/00000142/1472807.bam.bai			  bam bai
+1156	G-402_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487688.bam			  bam
+1156	G-402_RNA_TCGA						/nfs/cancer_trk0026/00000150/1487689.bam.bai			  bam bai
+1156	GA-10_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487690.bam			  bam
+1156	GA-10_RNA_TCGA						/nfs/cancer_trk0026/00000150/1487691.bam.bai			  bam bai
+1156	GAMG_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487692.bam			  bam
+1156	GAMG_RNA_TCGA						/nfs/cancer_trk0026/00000150/1487693.bam.bai			  bam bai
+1156	GB-1_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472196.bam			  bam
+1156	GB-1_RNA_TCGA						/nfs/cancer_trk0039/00000142/1472197.bam.bai			  bam bai
+1156	GCT_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487694.bam			  bam
+1156	GCT_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487695.bam.bai			  bam bai
+1156	GDM-1_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487696.bam			  bam
+1156	GDM-1_RNA_TCGA						/nfs/cancer_trk0026/00000150/1487697.bam.bai			  bam bai
+1156	GI-1_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487698.bam			  bam
+1156	GI-1_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487699.bam.bai			  bam bai
+1156	GMS-10_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473083.bam			  bam
+1156	GMS-10_RNA_TCGA						/nfs/cancer_trk0039/00000142/1473086.bam.bai			  bam bai
+1156	GRANTA-519_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487700.bam			  bam
+1156	GRANTA-519_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487701.bam.bai			  bam bai
+1156	H3255_RNA_TCGA						/nfs/cancer_trk0070/00000271/1391762.bam			  bam
+1156	H3255_RNA_TCGA						/nfs/cancer_trk0070/00000271/1391763.bam.bai			  bam bai
+1156	H4_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487702.bam			  bam
+1156	H4_RNA_TCGA						/nfs/cancer_trk0026/00000151/1487703.bam.bai			  bam bai
+1156	HCC-366_RNA_TCGA					/nfs/cancer_trk0070/00000271/1391764.bam			  bam
+1156	HCC-366_RNA_TCGA					/nfs/cancer_trk0070/00000271/1391765.bam.bai			  bam bai
+1156	HCC-78_RNA_TCGA						/nfs/cancer_trk0070/00000270/1389917.bam			  bam
+1156	HCC-78_RNA_TCGA						/nfs/cancer_trk0070/00000271/1389918.bam.bai			  bam bai
+1156	HCC-827_RNA_TCGA					/nfs/cancer_trk0070/00000270/1389745.bam			  bam
+1156	HCC-827_RNA_TCGA					/nfs/cancer_trk0070/00000271/1389746.bam.bai			  bam bai
+1156	HCC1395_RNA_TCGA					/nfs/cancer_trk0039/00000142/1472499.bam			  bam
+1156	HCC1395_RNA_TCGA					/nfs/cancer_trk0039/00000142/1472500.bam.bai			  bam bai
+1156	HCC1428_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487704.bam			  bam
+1156	HCC1428_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487705.bam.bai			  bam bai
+1156	HCC1500_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487706.bam			  bam
+1156	HCC1500_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487707.bam.bai			  bam bai
+1156	HCC1569_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487708.bam			  bam
+1156	HCC1569_RNA_TCGA					/nfs/cancer_trk0026/00000150/1487709.bam.bai			  bam bai
+1156	HCC1599_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487710.bam			  bam
+1156	HCC1599_RNA_TCGA					/nfs/cancer_trk0026/00000151/1487711.bam.bai			  bam bai
+1156	HCC1937_RNA_TCGA					/nfs/cancer_trk0039/00000142/1473090.bam			  bam
+1156	HCC1937_RNA_TCGA					/nfs/cancer_trk0039/00000142/1473092.bam.bai			  bam bai
+1156	HCC202_RNA_TCGA						/nfs/cancer_trk0040/00000146/1474983.bam			  bam
+1156	HCC202_RNA_TCGA						/nfs/cancer_trk0039/00000143/1474984.bam.bai			  bam bai
+1156	HCC2157_RNA_TCGA					/nfs/cancer_trk0040/00000146/1475008.bam			  bam
+1156	HCC2157_RNA_TCGA					/nfs/cancer_trk0039/00000143/1475009.bam.bai			  bam bai
+1156	HOP-62_RNA_TCGA						/nfs/cancer_trk0025/00000088/1395784.bam			  bam
+1156	HOP-62_RNA_TCGA						/nfs/cancer_trk0025/00000089/1395785.bam.bai			  bam bai
+1156	HOP-92_RNA_TCGA						/nfs/cancer_trk0025/00000088/1395786.bam			  bam
+1156	HOP-92_RNA_TCGA						/nfs/cancer_trk0025/00000089/1395787.bam.bai			  bam bai
+1156	JHH-4_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554105.bam			  bam
+1156	JHH-4_RNA_TCGA						/nfs/cancer_trk0070/00000271/1554106.bam.bai			  bam bai
+1156	JHH-7_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554107.bam			  bam
+1156	JHH-7_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554108.bam.bai			  bam bai
+1156	JHOS-4_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554351.bam			  bam
+1156	JHOS-4_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554352.bam.bai			  bam bai
+1156	JIMT-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554109.bam			  bam
+1156	JIMT-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554110.bam.bai			  bam bai
+1156	JJN-3_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554667.bam			  bam
+1156	JJN-3_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554668.bam.bai			  bam bai
+1156	JM1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1555106.bam			  bam
+1156	JM1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1555107.bam.bai			  bam bai
+1156	JURKAT_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554111.bam			  bam
+1156	JURKAT_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554112.bam.bai			  bam bai
+1156	JURL-MK1_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554114.bam			  bam
+1156	JURL-MK1_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554115.bam.bai			  bam bai
+1156	JVM-2_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554116.bam			  bam
+1156	JVM-2_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554117.bam.bai			  bam bai
+1156	JVM-3_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554118.bam			  bam
+1156	JVM-3_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554119.bam.bai			  bam bai
+1156	KALS-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554353.bam			  bam
+1156	KALS-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554354.bam.bai			  bam bai
+1156	KARPAS-620_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554120.bam			  bam
+1156	KARPAS-620_RNA_TCGA					/nfs/cancer_trk0070/00000271/1554121.bam.bai			  bam bai
+1156	KASUMI-1_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554355.bam			  bam
+1156	KASUMI-1_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554356.bam.bai			  bam bai
+1156	KCL-22_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554357.bam			  bam
+1156	KCL-22_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554358.bam.bai			  bam bai
+1156	KE-37_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554359.bam			  bam
+1156	KE-37_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554360.bam.bai			  bam bai
+1156	KELLY_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554361.bam			  bam
+1156	KELLY_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554363.bam.bai			  bam bai
+1156	KG-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554364.bam			  bam
+1156	KG-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554365.bam.bai			  bam bai
+1156	KLE_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554366.bam			  bam
+1156	KLE_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554368.bam.bai			  bam bai
+1156	KM-H2_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554369.bam			  bam
+1156	KM-H2_RNA_TCGA						/nfs/cancer_trk0070/00000271/1554370.bam.bai			  bam bai
+1156	KMRC-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554371.bam			  bam
+1156	KMRC-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554372.bam.bai			  bam bai
+1156	KMRC-20_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554373.bam			  bam
+1156	KMRC-20_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554374.bam.bai			  bam bai
+1156	KMS-12-BM_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554532.bam			  bam
+1156	KMS-12-BM_RNA_TCGA					/nfs/cancer_trk0070/00000271/1554533.bam.bai			  bam bai
+1156	KNS-42_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554375.bam			  bam
+1156	KNS-42_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554376.bam.bai			  bam bai
+1156	KOPN-8_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554377.bam			  bam
+1156	KOPN-8_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554379.bam.bai			  bam bai
+1156	KP-2_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554380.bam			  bam
+1156	KP-2_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554381.bam.bai			  bam bai
+1156	Kasumi6_RNA_TCGA					/nfs/cancer_trk0038/00000138/1767188.bam			  bam
+1156	Kasumi6_RNA_TCGA					/nfs/cancer_trk0037/00000136/1767189.bam.bai			  bam bai
+1156	LCLC-103H_RNA_TCGA					/nfs/cancer_trk0025/00000089/1401965.bam			  bam
+1156	LCLC-103H_RNA_TCGA					/nfs/cancer_trk0025/00000089/1401966.bam.bai			  bam bai
+1156	LCLC-97TM1_RNA_TCGA					/nfs/cancer_trk0025/00000089/1402404.bam			  bam
+1156	LCLC-97TM1_RNA_TCGA					/nfs/cancer_trk0025/00000089/1402405.bam.bai			  bam bai
+1156	LK-2_RNA_TCGA						/nfs/cancer_trk0025/00000089/1401967.bam			  bam
+1156	LK-2_RNA_TCGA						/nfs/cancer_trk0025/00000089/1401968.bam.bai			  bam bai
+1156	LOU-NH91_RNA_TCGA					/nfs/cancer_trk0025/00000089/1402406.bam			  bam
+1156	LOU-NH91_RNA_TCGA					/nfs/cancer_trk0025/00000089/1402407.bam.bai			  bam bai
+1156	LU-65_RNA_TCGA						/nfs/cancer_trk0035/00000126/1413706.bam			  bam
+1156	LU-65_RNA_TCGA						/nfs/cancer_trk0025/00000090/1413707.bam.bai			  bam bai
+1156	LU-99A_RNA_TCGA						/nfs/cancer_trk0035/00000126/1414271.bam			  bam
+1156	LU-99A_RNA_TCGA						/nfs/cancer_trk0035/00000126/1414272.bam.bai			  bam bai
+1156	LXF-289_RNA_TCGA					/nfs/cancer_trk0035/00000126/1414075.bam			  bam
+1156	LXF-289_RNA_TCGA					/nfs/cancer_trk0035/00000126/1414077.bam.bai			  bam bai
+1156	MDA-MB-231_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554535.bam			  bam
+1156	MDA-MB-231_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554536.bam.bai			  bam bai
+1156	MDA-MB-415_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554537.bam			  bam
+1156	MDA-MB-415_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554538.bam.bai			  bam bai
+1156	MDA-MB-436_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554669.bam			  bam
+1156	MDA-MB-436_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554670.bam.bai			  bam bai
+1156	MDA-MB-468_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554382.bam			  bam
+1156	MDA-MB-468_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554383.bam.bai			  bam bai
+1156	ME-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554385.bam			  bam
+1156	ME-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554386.bam.bai			  bam bai
+1156	MEL-HO_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554387.bam			  bam
+1156	MEL-HO_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554388.bam.bai			  bam bai
+1156	MEL-JUSO_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554389.bam			  bam
+1156	MEL-JUSO_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554390.bam.bai			  bam bai
+1156	MES-SA_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554391.bam			  bam
+1156	MES-SA_RNA_TCGA						/nfs/cancer_trk0070/00000272/1554392.bam.bai			  bam bai
+1156	MFE-280_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554393.bam			  bam
+1156	MFE-280_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554394.bam.bai			  bam bai
+1156	MFE-296_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554395.bam			  bam
+1156	MFE-296_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554397.bam.bai			  bam bai
+1156	MFE-319_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554400.bam			  bam
+1156	MFE-319_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554402.bam.bai			  bam bai
+1156	MHH-CALL-2_RNA_TCGA					/nfs/cancer_trk0070/00000272/1555017.bam			  bam
+1156	MHH-CALL-2_RNA_TCGA					/nfs/cancer_trk0070/00000272/1555018.bam.bai			  bam bai
+1156	MHH-CALL-4_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554404.bam			  bam
+1156	MHH-CALL-4_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554408.bam.bai			  bam bai
+1156	MHH-NB-11_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554412.bam			  bam
+1156	MHH-NB-11_RNA_TCGA					/nfs/cancer_trk0070/00000272/1554418.bam.bai			  bam bai
+1156	MIA-PaCa-2_RNA_TCGA					/nfs/cancer_trk0070/00000272/1572877.bam			  bam
+1156	MIA-PaCa-2_RNA_TCGA					/nfs/cancer_trk0070/00000272/1572878.bam.bai			  bam bai
+1156	MKN1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574232.bam			  bam
+1156	MKN1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574233.bam.bai			  bam bai
+1156	MKN45_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574339.bam			  bam
+1156	MKN45_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574340.bam.bai			  bam bai
+1156	MKN7_RNA_TCGA						/nfs/cancer_trk0070/00000272/1572641.bam			  bam
+1156	MKN7_RNA_TCGA						/nfs/cancer_trk0070/00000272/1572642.bam.bai			  bam bai
+1156	ML-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574633.bam			  bam
+1156	ML-1_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574634.bam.bai			  bam bai
+1156	MM1S_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574341.bam			  bam
+1156	MM1S_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574342.bam.bai			  bam bai
+1156	MOLM-16_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574635.bam			  bam
+1156	MOLM-16_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574636.bam.bai			  bam bai
+1156	MOLP-8_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574788.bam			  bam
+1156	MOLP-8_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574789.bam.bai			  bam bai
+1156	MOLT-13_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574343.bam			  bam
+1156	MOLT-13_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574344.bam.bai			  bam bai
+1156	MOLT-16_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574345.bam			  bam
+1156	MOLT-16_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574346.bam.bai			  bam bai
+1156	MONO-MAC-6_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574347.bam			  bam
+1156	MONO-MAC-6_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574348.bam.bai			  bam bai
+1156	MPP-89_RNA_TCGA						/nfs/cancer_trk0037/00000134/1415120.bam			  bam
+1156	MPP-89_RNA_TCGA						/nfs/cancer_trk0037/00000134/1415123.bam.bai			  bam bai
+1156	MSTO-211H_RNA_TCGA					/nfs/cancer_trk0033/00000121/1412816.bam			  bam
+1156	MSTO-211H_RNA_TCGA					/nfs/cancer_trk0033/00000121/1412817.bam.bai			  bam bai
+1156	MeWo_RNA_TCGA						/nfs/cancer_trk0070/00000272/1573941.bam			  bam
+1156	MeWo_RNA_TCGA						/nfs/cancer_trk0070/00000272/1573942.bam.bai			  bam bai
+1156	NALM-6_RNA_TCGA						/nfs/cancer_trk0070/00000272/1573703.bam			  bam
+1156	NALM-6_RNA_TCGA						/nfs/cancer_trk0070/00000272/1573710.bam.bai			  bam bai
+1156	NAMALWA_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574349.bam			  bam
+1156	NAMALWA_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574350.bam.bai			  bam bai
+1156	NB-4_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574121.bam			  bam
+1156	NB-4_RNA_TCGA						/nfs/cancer_trk0070/00000272/1574122.bam.bai			  bam bai
+1156	NCI-H1048_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574351.bam			  bam
+1156	NCI-H1048_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574352.bam.bai			  bam bai
+1156	NCI-H1092_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574492.bam			  bam
+1156	NCI-H1092_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574493.bam.bai			  bam bai
+1156	NCI-H1105_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574028.bam			  bam
+1156	NCI-H1105_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574029.bam.bai			  bam bai
+1156	NCI-H1155_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574637.bam			  bam
+1156	NCI-H1155_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574638.bam.bai			  bam bai
+1156	NCI-H1299_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573464.bam			  bam
+1156	NCI-H1299_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573488.bam.bai			  bam bai
+1156	NCI-H1355_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574639.bam			  bam
+1156	NCI-H1355_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574640.bam.bai			  bam bai
+1156	NCI-H1395_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574353.bam			  bam
+1156	NCI-H1395_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574354.bam.bai			  bam bai
+1156	NCI-H1436_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573712.bam			  bam
+1156	NCI-H1436_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573714.bam.bai			  bam bai
+1156	NCI-H1437_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573715.bam			  bam
+1156	NCI-H1437_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573716.bam.bai			  bam bai
+1156	NCI-H146_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573852.bam			  bam
+1156	NCI-H146_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573853.bam.bai			  bam bai
+1156	NCI-H1563_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574790.bam			  bam
+1156	NCI-H1563_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574791.bam.bai			  bam bai
+1156	NCI-H1573_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574355.bam			  bam
+1156	NCI-H1573_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574356.bam.bai			  bam bai
+1156	NCI-H1648_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574641.bam			  bam
+1156	NCI-H1648_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574642.bam.bai			  bam bai
+1156	NCI-H1650_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574643.bam			  bam
+1156	NCI-H1650_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574644.bam.bai			  bam bai
+1156	NCI-H1651_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573269.bam			  bam
+1156	NCI-H1651_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573270.bam.bai			  bam bai
+1156	NCI-H1666_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573719.bam			  bam
+1156	NCI-H1666_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573720.bam.bai			  bam bai
+1156	NCI-H1693_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574645.bam			  bam
+1156	NCI-H1693_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574646.bam.bai			  bam bai
+1156	NCI-H1694_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573854.bam			  bam
+1156	NCI-H1694_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573855.bam.bai			  bam bai
+1156	NCI-H1703_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574647.bam			  bam
+1156	NCI-H1703_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574648.bam.bai			  bam bai
+1156	NCI-H1734_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574649.bam			  bam
+1156	NCI-H1734_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574650.bam.bai			  bam bai
+1156	NCI-H1755_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574123.bam			  bam
+1156	NCI-H1755_RNA_TCGA					/nfs/cancer_trk0070/00000272/1574124.bam.bai			  bam bai
+1156	NCI-H1781_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573856.bam			  bam
+1156	NCI-H1781_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573857.bam.bai			  bam bai
+1156	NCI-H1792_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573069.bam			  bam
+1156	NCI-H1792_RNA_TCGA					/nfs/cancer_trk0070/00000272/1573070.bam.bai			  bam bai
+1156	NCI-H1793_RNA_TCGA					/nfs/cancer_trk0070/00000273/1585007.bam			  bam
+1156	NCI-H1793_RNA_TCGA					/nfs/cancer_trk0070/00000272/1585009.bam.bai			  bam bai
+1156	NCI-H1838_RNA_TCGA					/nfs/cancer_trk0070/00000272/1584800.bam			  bam
+1156	NCI-H1838_RNA_TCGA					/nfs/cancer_trk0070/00000272/1584809.bam.bai			  bam bai
+1156	NCI-H1869_RNA_TCGA					/nfs/cancer_trk0070/00000273/1585180.bam			  bam
+1156	NCI-H1869_RNA_TCGA					/nfs/cancer_trk0070/00000272/1585189.bam.bai			  bam bai
+1156	NCI-H1876_RNA_TCGA					/nfs/cancer_trk0070/00000272/1584817.bam			  bam
+1156	NCI-H1876_RNA_TCGA					/nfs/cancer_trk0070/00000272/1584820.bam.bai			  bam bai
+1156	NCI-H1915_RNA_TCGA					/nfs/cancer_trk0070/00000272/1584881.bam			  bam
+1156	NCI-H1915_RNA_TCGA					/nfs/cancer_trk0070/00000272/1584882.bam.bai			  bam bai
+1156	NCI-H1944_RNA_TCGA					/nfs/cancer_trk0070/00000273/1585203.bam			  bam
+1156	NCI-H1944_RNA_TCGA					/nfs/cancer_trk0070/00000272/1585204.bam.bai			  bam bai
+1156	NCI-H1963_RNA_TCGA					/nfs/cancer_trk0070/00000273/1584937.bam			  bam
+1156	NCI-H1963_RNA_TCGA					/nfs/cancer_trk0070/00000272/1584938.bam.bai			  bam bai
+1156	NCI-H196_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594778.bam			  bam
+1156	NCI-H196_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594779.bam.bai			  bam bai
+1156	NCI-H1975_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594786.bam			  bam
+1156	NCI-H1975_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594787.bam.bai			  bam bai
+1156	NCI-H2023_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594792.bam			  bam
+1156	NCI-H2023_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594793.bam.bai			  bam bai
+1156	NCI-H2029_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594794.bam			  bam
+1156	NCI-H2029_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594795.bam.bai			  bam bai
+1156	NCI-H2030_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594796.bam			  bam
+1156	NCI-H2030_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594797.bam.bai			  bam bai
+1156	NCI-H2052_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594784.bam			  bam
+1156	NCI-H2052_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594785.bam.bai			  bam bai
+1156	NCI-H2066_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594780.bam			  bam
+1156	NCI-H2066_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594781.bam.bai			  bam bai
+1156	NCI-H2081_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594790.bam			  bam
+1156	NCI-H2081_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594791.bam.bai			  bam bai
+1156	NCI-H2085_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594808.bam			  bam
+1156	NCI-H2085_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594809.bam.bai			  bam bai
+1156	NCI-H2087_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594803.bam			  bam
+1156	NCI-H2087_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594804.bam.bai			  bam bai
+1156	NCI-H209_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594798.bam			  bam
+1156	NCI-H209_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594799.bam.bai			  bam bai
+1156	NCI-H2110_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594800.bam			  bam
+1156	NCI-H2110_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594801.bam.bai			  bam bai
+1156	NCI-H211_RNA_TCGA					/nfs/cancer_trk0070/00000273/1585010.bam			  bam
+1156	NCI-H211_RNA_TCGA					/nfs/cancer_trk0070/00000272/1585012.bam.bai			  bam bai
+1156	NCI-H2126_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594805.bam			  bam
+1156	NCI-H2126_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594806.bam.bai			  bam bai
+1156	NCI-H2170_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594788.bam			  bam
+1156	NCI-H2170_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594789.bam.bai			  bam bai
+1156	NCI-H2171_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594782.bam			  bam
+1156	NCI-H2171_RNA_TCGA					/nfs/cancer_trk0070/00000273/1594783.bam.bai			  bam bai
+1156	NCI-H2172_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672786.bam			  bam
+1156	NCI-H2172_RNA_TCGA					/nfs/cancer_trk0072/00000279/1672787.bam.bai			  bam bai
+1156	NCI-H2196_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672315.bam			  bam
+1156	NCI-H2196_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672316.bam.bai			  bam bai
+1156	NCI-H2227_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672086.bam			  bam
+1156	NCI-H2227_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672087.bam.bai			  bam bai
+1156	NCI-H2291_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671964.bam			  bam
+1156	NCI-H2291_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671965.bam.bai			  bam bai
+1156	NCI-H2347_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672238.bam			  bam
+1156	NCI-H2347_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672239.bam.bai			  bam bai
+1156	NCI-H23_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672886.bam			  bam
+1156	NCI-H23_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672887.bam.bai			  bam bai
+1156	NCI-H2405_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672088.bam			  bam
+1156	NCI-H2405_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672089.bam.bai			  bam bai
+1156	NCI-H2444_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672888.bam			  bam
+1156	NCI-H2444_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672889.bam.bai			  bam bai
+1156	NCI-H2452_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672529.bam			  bam
+1156	NCI-H2452_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672530.bam.bai			  bam bai
+1156	NCI-H28_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672317.bam			  bam
+1156	NCI-H28_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672318.bam.bai			  bam bai
+1156	NCI-H292_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672319.bam			  bam
+1156	NCI-H292_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672320.bam.bai			  bam bai
+1156	NCI-H322M_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672090.bam			  bam
+1156	NCI-H322M_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672091.bam.bai			  bam bai
+1156	NCI-H358_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672890.bam			  bam
+1156	NCI-H358_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672891.bam.bai			  bam bai
+1156	NCI-H441_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672892.bam			  bam
+1156	NCI-H441_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672893.bam.bai			  bam bai
+1156	NCI-H520_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672894.bam			  bam
+1156	NCI-H520_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672895.bam.bai			  bam bai
+1156	NCI-H522_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672092.bam			  bam
+1156	NCI-H522_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672093.bam.bai			  bam bai
+1156	NCI-H524_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671966.bam			  bam
+1156	NCI-H524_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671967.bam.bai			  bam bai
+1156	NCI-H596_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672532.bam			  bam
+1156	NCI-H596_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672533.bam.bai			  bam bai
+1156	NCI-H647_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672896.bam			  bam
+1156	NCI-H647_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672897.bam.bai			  bam bai
+1156	NCI-H650_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671879.bam			  bam
+1156	NCI-H650_RNA_TCGA					/nfs/cancer_trk0072/00000280/1671880.bam.bai			  bam bai
+1156	NCI-H660_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671968.bam			  bam
+1156	NCI-H660_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671969.bam.bai			  bam bai
+1156	NCI-H661_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671881.bam			  bam
+1156	NCI-H661_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671882.bam.bai			  bam bai
+1156	NCI-H69_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672321.bam			  bam
+1156	NCI-H69_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672322.bam.bai			  bam bai
+1156	NCI-H727_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672898.bam			  bam
+1156	NCI-H727_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672899.bam.bai			  bam bai
+1156	NCI-H82_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671970.bam			  bam
+1156	NCI-H82_RNA_TCGA					/nfs/cancer_trk0072/00000281/1671972.bam.bai			  bam bai
+1156	OVK-18_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672900.bam			  bam
+1156	OVK-18_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672901.bam.bai			  bam bai
+1156	OVTOKO_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672094.bam			  bam
+1156	OVTOKO_RNA_TCGA						/nfs/cancer_trk0072/00000280/1672095.bam.bai			  bam bai
+1156	P12-ICHIKAWA_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672902.bam			  bam
+1156	P12-ICHIKAWA_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672903.bam.bai			  bam bai
+1156	P31-FUJ_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672652.bam			  bam
+1156	P31-FUJ_RNA_TCGA					/nfs/cancer_trk0072/00000279/1672653.bam.bai			  bam bai
+1156	PA-TU-8988T_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672598.bam			  bam
+1156	PA-TU-8988T_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672599.bam.bai			  bam bai
+1156	PANC-03-27_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672096.bam			  bam
+1156	PANC-03-27_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672097.bam.bai			  bam bai
+1156	PC-14_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672482.bam			  bam
+1156	PC-14_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672483.bam.bai			  bam bai
+1156	PC-3_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672240.bam			  bam
+1156	PC-3_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672241.bam.bai			  bam bai
+1156	PE-CA-PJ15_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716822.bam			  bam
+1156	PE-CA-PJ15_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716823.bam.bai			  bam bai
+1156	PF-382_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672242.bam			  bam
+1156	PF-382_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672243.bam.bai			  bam bai
+1156	PL-21_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672601.bam			  bam
+1156	PL-21_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672602.bam.bai			  bam bai
+1156	Panc-02-03_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672904.bam			  bam
+1156	Panc-02-03_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672905.bam.bai			  bam bai
+1156	Panc-04-03_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672098.bam			  bam
+1156	Panc-04-03_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672099.bam.bai			  bam bai
+1156	Panc-08-13_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672100.bam			  bam
+1156	Panc-08-13_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672101.bam.bai			  bam bai
+1156	Panc-10-05_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672102.bam			  bam
+1156	Panc-10-05_RNA_TCGA					/nfs/cancer_trk0072/00000280/1672103.bam.bai			  bam bai
+1156	RCC10RGB_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672970.bam			  bam
+1156	RCC10RGB_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672971.bam.bai			  bam bai
+1156	RCH-ACV_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672944.bam			  bam
+1156	RCH-ACV_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672945.bam.bai			  bam bai
+1156	RD_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672604.bam			  bam
+1156	RD_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672605.bam.bai			  bam bai
+1156	RERF-GC-1B_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672247.bam			  bam
+1156	RERF-GC-1B_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672248.bam.bai			  bam bai
+1156	RERF-LC-KJ_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672908.bam			  bam
+1156	RERF-LC-KJ_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672909.bam.bai			  bam bai
+1156	RERF-LC-MS_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672249.bam			  bam
+1156	RERF-LC-MS_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672250.bam.bai			  bam bai
+1156	RERF-LC-Sq1_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672323.bam			  bam
+1156	RERF-LC-Sq1_RNA_TCGA					/nfs/cancer_trk0072/00000281/1672324.bam.bai			  bam bai
+1156	RH-18_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672534.bam			  bam
+1156	RH-18_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672535.bam.bai			  bam bai
+1156	RH-41_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672414.bam			  bam
+1156	RH-41_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672415.bam.bai			  bam bai
+1156	RKN_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672484.bam			  bam
+1156	RKN_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672485.bam.bai			  bam bai
+1156	RL95-2_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672325.bam			  bam
+1156	RL95-2_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672326.bam.bai			  bam bai
+1156	RMG-I_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672327.bam			  bam
+1156	RMG-I_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672328.bam.bai			  bam bai
+1156	Raji_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672906.bam			  bam
+1156	Raji_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672907.bam.bai			  bam bai
+1156	Reh_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672245.bam			  bam
+1156	Reh_RNA_TCGA						/nfs/cancer_trk0072/00000281/1672246.bam.bai			  bam bai
+1156	SK-LU-1_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759759.bam			  bam
+1156	SK-LU-1_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759760.bam.bai			  bam bai
+1156	SK-MEL-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717719.bam			  bam
+1156	SK-MEL-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717720.bam.bai			  bam bai
+1156	SK-MEL-24_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718619.bam			  bam
+1156	SK-MEL-24_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718623.bam.bai			  bam bai
+1156	SK-MEL-28_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759761.bam			  bam
+1156	SK-MEL-28_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759762.bam.bai			  bam bai
+1156	SK-MEL-30_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717195.bam			  bam
+1156	SK-MEL-30_RNA_TCGA					/nfs/cancer_trk0073/00000282/1717196.bam.bai			  bam bai
+1156	SK-MEL-31_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759763.bam			  bam
+1156	SK-MEL-31_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759764.bam.bai			  bam bai
+1156	SK-MEL-3_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717721.bam			  bam
+1156	SK-MEL-3_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717722.bam.bai			  bam bai
+1156	SK-MES-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717725.bam			  bam
+1156	SK-MES-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717727.bam.bai			  bam bai
+1156	SK-MM-2_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759765.bam			  bam
+1156	SK-MM-2_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759766.bam.bai			  bam bai
+1156	SK-N-DZ_RNA_TCGA					/nfs/cancer_trk0073/00000283/1719009.bam			  bam
+1156	SK-N-DZ_RNA_TCGA					/nfs/cancer_trk0073/00000283/1719014.bam.bai			  bam bai
+1156	SK-N-FI_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718627.bam			  bam
+1156	SK-N-FI_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718631.bam.bai			  bam bai
+1156	SK-OV-3_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717197.bam			  bam
+1156	SK-OV-3_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717198.bam.bai			  bam bai
+1156	SK-UT-1_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759767.bam			  bam
+1156	SK-UT-1_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759768.bam.bai			  bam bai
+1156	SKM-1_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759769.bam			  bam
+1156	SKM-1_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759770.bam.bai			  bam bai
+1156	SNB75_RNA_TCGA						/nfs/cancer_trk0073/00000283/1719018.bam			  bam
+1156	SNB75_RNA_TCGA						/nfs/cancer_trk0073/00000283/1719022.bam.bai			  bam bai
+1156	SNG-M_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759771.bam			  bam
+1156	SNG-M_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759772.bam.bai			  bam bai
+1156	SNU-182_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759773.bam			  bam
+1156	SNU-182_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759774.bam.bai			  bam bai
+1156	SNU-387_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759775.bam			  bam
+1156	SNU-387_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759776.bam.bai			  bam bai
+1156	SNU-398_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759777.bam			  bam
+1156	SNU-398_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759778.bam.bai			  bam bai
+1156	SNU-423_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759779.bam			  bam
+1156	SNU-423_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759780.bam.bai			  bam bai
+1156	SNU-449_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759781.bam			  bam
+1156	SNU-449_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759782.bam.bai			  bam bai
+1156	SNU-475_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759783.bam			  bam
+1156	SNU-475_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759784.bam.bai			  bam bai
+1156	SNU-626_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759797.bam			  bam
+1156	SNU-626_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759798.bam.bai			  bam bai
+1156	ST486_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717745.bam			  bam
+1156	ST486_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717748.bam.bai			  bam bai
+1156	SU-DHL-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718652.bam			  bam
+1156	SU-DHL-1_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718656.bam.bai			  bam bai
+1156	TE-15_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759785.bam			  bam
+1156	TE-15_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759786.bam.bai			  bam bai
+1156	TE-441-T_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716824.bam			  bam
+1156	TE-441-T_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716825.bam.bai			  bam bai
+1156	TE-4_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717750.bam			  bam
+1156	TE-4_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717752.bam.bai			  bam bai
+1156	TE-6_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717207.bam			  bam
+1156	TE-6_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717208.bam.bai			  bam bai
+1156	TE-8_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717209.bam			  bam
+1156	TE-8_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717210.bam.bai			  bam bai
+1156	TE-9_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759787.bam			  bam
+1156	TE-9_RNA_TCGA						/nfs/cancer_trk0073/00000284/1759788.bam.bai			  bam bai
+1156	TGBC11TKB_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717211.bam			  bam
+1156	TGBC11TKB_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717212.bam.bai			  bam bai
+1156	THP-1_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717213.bam			  bam
+1156	THP-1_RNA_TCGA						/nfs/cancer_trk0073/00000282/1717214.bam.bai			  bam bai
+1156	TOV-112D_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759789.bam			  bam
+1156	TOV-112D_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759790.bam.bai			  bam bai
+1156	TOV-21G_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717215.bam			  bam
+1156	TOV-21G_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717216.bam.bai			  bam bai
+1156	TT2609-C02_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716826.bam			  bam
+1156	TT2609-C02_RNA_TCGA					/nfs/cancer_trk0073/00000283/1716827.bam.bai			  bam bai
+1156	TT_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717217.bam			  bam
+1156	TT_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717218.bam.bai			  bam bai
+1156	TYK-nu_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717219.bam			  bam
+1156	TYK-nu_RNA_TCGA						/nfs/cancer_trk0073/00000282/1717220.bam.bai			  bam bai
+1156	U-266_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717221.bam			  bam
+1156	U-266_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717222.bam.bai			  bam bai
+1156	U-87-MG_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718171.bam			  bam
+1156	U-87-MG_RNA_TCGA					/nfs/cancer_trk0073/00000283/1718175.bam.bai			  bam bai
+1156	UACC-257_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717223.bam			  bam
+1156	UACC-257_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717224.bam.bai			  bam bai
+1156	UACC-62_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759791.bam			  bam
+1156	UACC-62_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759792.bam.bai			  bam bai
+1156	UACC-812_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759793.bam			  bam
+1156	UACC-812_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759794.bam.bai			  bam bai
+1156	UACC-893_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759795.bam			  bam
+1156	UACC-893_RNA_TCGA					/nfs/cancer_trk0073/00000284/1759796.bam.bai			  bam bai
+1156	UM-UC-3_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717758.bam			  bam
+1156	UM-UC-3_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717759.bam.bai			  bam bai
+1156	VMRC-RCW_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717760.bam			  bam
+1156	VMRC-RCW_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717761.bam.bai			  bam bai
+1156	VMRC-RCZ_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717764.bam			  bam
+1156	VMRC-RCZ_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717765.bam.bai			  bam bai
+1156	WM-115_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717766.bam			  bam
+1156	WM-115_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717767.bam.bai			  bam bai
+1156	WSU-DLCL2_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717768.bam			  bam
+1156	WSU-DLCL2_RNA_TCGA					/nfs/cancer_trk0073/00000283/1717769.bam.bai			  bam bai
+1156	YAPC_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717770.bam			  bam
+1156	YAPC_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717771.bam.bai			  bam bai
+1156	YH-13_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717772.bam			  bam
+1156	YH-13_RNA_TCGA						/nfs/cancer_trk0073/00000283/1717773.bam.bai			  bam bai

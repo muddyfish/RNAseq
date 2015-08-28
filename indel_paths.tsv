@@ -1,0 +1,2181 @@
+PROJECT	SAMPLE	PATH	TYPE
+758	697	/nfs/cancer_trk0007/00000024/87735.bam	bam
+758	697	/nfs/cancer_trk0007/00000023/87736.bam.bai	bam bai
+758	23132-87						/nfs/cancer_trk0005/00000018/98448.bam	bam
+758	23132-87						/nfs/cancer_trk0001/00000005/98449.bam.bai	bam bai
+758	42-MG-BA						/nfs/cancer_trk0073/00000282/1714757.bam	bam
+758	42-MG-BA						/nfs/cancer_trk0073/00000282/1714758.bam.bai	bam bai
+758	8-MG-BA							/nfs/cancer_trk0013/00000045/99861.bam		bam
+758	8-MG-BA							/nfs/cancer_trk0006/00000021/99862.bam.bai	bam bai
+758	A101D							/nfs/cancer_trk0005/00000019/69665.bam		bam
+758	A101D							/nfs/cancer_trk0001/00000005/69666.bam.bai	bam bai
+758	A172							/nfs/cancer_trk0006/00000022/86735.bam		bam
+758	A172							/nfs/cancer_trk0006/00000022/86736.bam.bai	bam bai
+758	A204							/nfs/cancer_trk0006/00000022/86743.bam		bam
+758	A204							/nfs/cancer_trk0006/00000022/86744.bam.bai	bam bai
+758	A2058							/nfs/cancer_trk0005/00000019/69647.bam		bam
+758	A2058							/nfs/cancer_trk0001/00000005/69648.bam.bai	bam bai
+758	A253							/nfs/cancer_trk0006/00000022/86737.bam		bam
+758	A253							/nfs/cancer_trk0006/00000022/86738.bam.bai	bam bai
+758	A2780							/nfs/cancer_trk0006/00000022/86721.bam		bam
+758	A2780							/nfs/cancer_trk0006/00000022/86722.bam.bai	bam bai
+758	A375							/nfs/cancer_trk0005/00000019/69581.bam		bam
+758	A375							/nfs/cancer_trk0001/00000005/69582.bam.bai	bam bai
+758	A388							/nfs/cancer_trk0006/00000022/86741.bam		bam
+758	A388							/nfs/cancer_trk0006/00000022/86742.bam.bai	bam bai
+758	A3-KAW							/nfs/cancer_trk0010/00000031/104061.bam		bam
+758	A3-KAW							/nfs/cancer_trk0009/00000030/104062.bam.bai	bam bai
+758	A431							/nfs/cancer_trk0006/00000022/86725.bam		bam
+758	A431							/nfs/cancer_trk0006/00000022/86726.bam.bai	bam bai
+758	A498							/nfs/cancer_trk0007/00000023/87591.bam		bam
+758	A498							/nfs/cancer_trk0007/00000023/87592.bam.bai	bam bai
+758	A4-Fuk							/nfs/cancer_trk0005/00000019/69619.bam		bam
+758	A4-Fuk							/nfs/cancer_trk0001/00000005/69620.bam.bai	bam bai
+758	A549							/nfs/cancer_trk0005/00000019/80037.bam		bam
+758	A549							/nfs/cancer_trk0005/00000019/80038.bam.bai	bam bai
+758	A673							/nfs/cancer_trk0006/00000022/86733.bam		bam
+758	A673							/nfs/cancer_trk0006/00000022/86734.bam.bai	bam bai
+758	A704							/nfs/cancer_trk0007/00000023/87593.bam		bam
+758	A704							/nfs/cancer_trk0007/00000023/87594.bam.bai	bam bai
+758	AGS							/nfs/cancer_trk0005/00000019/68108.bam		bam
+758	AGS							/nfs/cancer_trk0004/00000012/68109.bam.bai	bam bai
+758	ALL-PO							/nfs/cancer_trk0010/00000031/104013.bam		bam
+758	ALL-PO							/nfs/cancer_trk0007/00000024/104014.bam.bai	bam bai
+758	AM-38							/nfs/cancer_trk0009/00000027/99867.bam		bam
+758	AM-38							/nfs/cancer_trk0007/00000024/99868.bam.bai	bam bai
+758	ARH-77							/nfs/cancer_trk0010/00000031/103975.bam		bam
+758	ARH-77							/nfs/cancer_trk0009/00000029/103976.bam.bai	bam bai
+758	AsPC-1							/nfs/cancer_trk0005/00000019/68160.bam		bam
+758	AsPC-1							/nfs/cancer_trk0004/00000012/68161.bam.bai	bam bai
+758	ATN-1							/nfs/cancer_trk0010/00000031/104003.bam		bam
+758	ATN-1							/nfs/cancer_trk0009/00000029/104004.bam.bai	bam bai
+758	AU565							/nfs/cancer_trk0002/00000007/73249.bam		bam
+758	AU565							/nfs/cancer_trk0001/00000003/73250.bam.bai	bam bai
+758	BALL-1							/nfs/cancer_trk0010/00000031/103981.bam		bam
+758	BALL-1							/nfs/cancer_trk0009/00000029/103982.bam.bai	bam bai
+758	BB30-HNC						/nfs/cancer_trk0006/00000022/86763.bam		bam
+758	BB30-HNC						/nfs/cancer_trk0006/00000022/86764.bam.bai	bam bai
+758	BC-1							/nfs/cancer_trk0010/00000031/104011.bam		bam
+758	BC-1							/nfs/cancer_trk0007/00000024/104012.bam.bai	bam bai
+758	BC-3							/nfs/cancer_trk0010/00000033/104049.bam		bam
+758	BC-3							/nfs/cancer_trk0009/00000029/104050.bam.bai	bam bai
+758	BE-13							/nfs/cancer_trk0010/00000031/104017.bam		bam
+758	BE-13							/nfs/cancer_trk0007/00000024/104018.bam.bai	bam bai
+758	Becker							/nfs/cancer_trk0009/00000027/99865.bam		bam
+758	Becker							/nfs/cancer_trk0007/00000023/99866.bam.bai	bam bai
+758	BEN							/nfs/cancer_trk0007/00000024/87683.bam		bam
+758	BEN							/nfs/cancer_trk0006/00000022/87684.bam.bai	bam bai
+758	BICR22							/nfs/cancer_trk0007/00000023/87603.bam		bam
+758	BICR22							/nfs/cancer_trk0007/00000023/87604.bam.bai	bam bai
+758	BICR78							/nfs/cancer_trk0007/00000023/87605.bam		bam
+758	BICR78							/nfs/cancer_trk0007/00000023/87606.bam.bai	bam bai
+758	BONNA-12						/nfs/cancer_trk0010/00000031/103973.bam		bam
+758	BONNA-12						/nfs/cancer_trk0010/00000031/103974.bam.bai	bam bai
+758	BT-20							/nfs/cancer_trk0004/00000012/98444.bam		bam
+758	BT-20							/nfs/cancer_trk0001/00000005/98445.bam.bai	bam bai
+758	BT-474							/nfs/cancer_trk0013/00000045/99869.bam		bam
+758	BT-474							/nfs/cancer_trk0007/00000023/99870.bam.bai	bam bai
+758	BT-483							/nfs/cancer_trk0007/00000023/89561.bam		bam
+758	BT-483							/nfs/cancer_trk0007/00000023/89562.bam.bai	bam bai
+758	BT-549							/nfs/cancer_trk0005/00000019/75081.bam		bam
+758	BT-549							/nfs/cancer_trk0001/00000005/75082.bam.bai	bam bai
+758	BV-173							/nfs/cancer_trk0010/00000031/104009.bam		bam
+758	BV-173							/nfs/cancer_trk0007/00000024/104010.bam.bai	bam bai
+758	C32							/nfs/cancer_trk0005/00000019/75085.bam		bam
+758	C32							/nfs/cancer_trk0001/00000005/75086.bam.bai	bam bai
+758	C-33-A							/nfs/cancer_trk0007/00000024/87743.bam		bam
+758	C-33-A							/nfs/cancer_trk0007/00000023/87744.bam.bai	bam bai
+758	C3A							/nfs/cancer_trk0005/00000019/68162.bam		bam
+758	C3A							/nfs/cancer_trk0004/00000012/68163.bam.bai	bam bai
+758	C8166							/nfs/cancer_trk0010/00000031/103989.bam		bam
+758	C8166							/nfs/cancer_trk0007/00000024/103990.bam.bai	bam bai
+758	CA46							/nfs/cancer_trk0010/00000031/104007.bam		bam
+758	CA46							/nfs/cancer_trk0009/00000029/104008.bam.bai	bam bai
+758	CAL-120							/nfs/cancer_trk0004/00000012/98446.bam		bam
+758	CAL-120							/nfs/cancer_trk0002/00000006/98447.bam.bai	bam bai
+758	CAL-12T							/nfs/cancer_trk0007/00000023/87715.bam		bam
+758	CAL-12T							/nfs/cancer_trk0007/00000023/87716.bam.bai	bam bai
+758	CAL-148							/nfs/cancer_trk0009/00000030/103827.bam		bam
+758	CAL-148							/nfs/cancer_trk0007/00000024/103828.bam.bai	bam bai
+758	CAL-29							/nfs/cancer_trk0007/00000023/87645.bam		bam
+758	CAL-29							/nfs/cancer_trk0007/00000023/87646.bam.bai	bam bai
+758	CAL-39							/nfs/cancer_trk0007/00000024/87745.bam		bam
+758	CAL-39							/nfs/cancer_trk0007/00000023/87746.bam.bai	bam bai
+758	CAL-51							/nfs/cancer_trk0009/00000030/103825.bam		bam
+758	CAL-51							/nfs/cancer_trk0009/00000030/103826.bam.bai	bam bai
+758	CAL-72							/nfs/cancer_trk0010/00000031/103648.bam		bam
+758	CAL-72							/nfs/cancer_trk0002/00000008/103649.bam.bai	bam bai
+758	CAL-78							/nfs/cancer_trk0007/00000023/88455.bam		bam
+758	CAL-78							/nfs/cancer_trk0007/00000023/88456.bam.bai	bam bai
+758	CAL-85-1						/nfs/cancer_trk0009/00000030/103819.bam		bam
+758	CAL-85-1						/nfs/cancer_trk0002/00000008/103820.bam.bai	bam bai
+758	Calu-6							/nfs/cancer_trk0005/00000019/80033.bam		bam
+758	Calu-6							/nfs/cancer_trk0005/00000019/80034.bam.bai	bam bai
+758	CAMA-1							/nfs/cancer_trk0005/00000019/69623.bam		bam
+758	CAMA-1							/nfs/cancer_trk0001/00000003/69624.bam.bai	bam bai
+758	CAPAN-1							/nfs/cancer_trk0005/00000019/68094.bam		bam
+758	CAPAN-1							/nfs/cancer_trk0004/00000012/68095.bam.bai	bam bai
+758	Capan-2							/nfs/cancer_trk0005/00000019/68166.bam		bam
+758	Capan-2							/nfs/cancer_trk0004/00000012/68167.bam.bai	bam bai
+758	CAS-1							/nfs/cancer_trk0009/00000030/103654.bam		bam
+758	CAS-1							/nfs/cancer_trk0002/00000008/103655.bam.bai	bam bai
+758	Ca-Ski							/nfs/cancer_trk0007/00000024/87737.bam		bam
+758	Ca-Ski							/nfs/cancer_trk0007/00000023/87738.bam.bai	bam bai
+758	CCK-81							/nfs/cancer_trk0007/00000023/86655.bam		bam
+758	CCK-81							/nfs/cancer_trk0006/00000022/86656.bam.bai	bam bai
+758	CCRF-CEM						/nfs/cancer_trk0010/00000031/103987.bam		bam
+758	CCRF-CEM						/nfs/cancer_trk0007/00000024/103988.bam.bai	bam bai
+758	CESS							/nfs/cancer_trk0010/00000031/104005.bam		bam
+758	CESS							/nfs/cancer_trk0007/00000024/104006.bam.bai	bam bai
+758	CGTH-W-1						/nfs/cancer_trk0005/00000019/68158.bam		bam
+758	CGTH-W-1						/nfs/cancer_trk0004/00000012/68159.bam.bai	bam bai
+758	ChaGo-K-1						/nfs/cancer_trk0005/00000019/77821.bam		bam
+758	ChaGo-K-1						/nfs/cancer_trk0005/00000019/77822.bam.bai	bam bai
+758	CHL-1							/nfs/cancer_trk0005/00000019/69615.bam		bam
+758	CHL-1							/nfs/cancer_trk0001/00000004/69616.bam.bai	bam bai
+758	CHP-212							/nfs/cancer_trk0010/00000031/103957.bam		bam
+758	CHP-212							/nfs/cancer_trk0007/00000024/103958.bam.bai	bam bai
+758	COLO-205						/nfs/cancer_trk0005/00000019/69567.bam		bam
+758	COLO-205						/nfs/cancer_trk0001/00000003/69568.bam.bai	bam bai
+758	COLO-320-HSR						/nfs/cancer_trk0005/00000019/69661.bam		bam
+758	COLO-320-HSR						/nfs/cancer_trk0001/00000003/69662.bam.bai	bam bai
+758	COLO-668						/nfs/cancer_trk0007/00000023/87663.bam		bam
+758	COLO-668						/nfs/cancer_trk0007/00000023/87664.bam.bai	bam bai
+758	COLO-678						/nfs/cancer_trk0005/00000019/69663.bam		bam
+758	COLO-678						/nfs/cancer_trk0002/00000006/69664.bam.bai	bam bai
+758	COLO-679						/nfs/cancer_trk0005/00000019/69585.bam		bam
+758	COLO-679						/nfs/cancer_trk0001/00000003/69586.bam.bai	bam bai
+758	COLO-680N						/nfs/cancer_trk0010/00000031/103640.bam		bam
+758	COLO-680N						/nfs/cancer_trk0002/00000008/103641.bam.bai	bam bai
+758	COLO-741						/nfs/cancer_trk0005/00000019/68081.bam		bam
+758	COLO-741						/nfs/cancer_trk0004/00000012/68082.bam.bai	bam bai
+758	COLO-792						/nfs/cancer_trk0005/00000019/68110.bam		bam
+758	COLO-792						/nfs/cancer_trk0004/00000012/68111.bam.bai	bam bai
+758	COLO-800						/nfs/cancer_trk0005/00000019/69583.bam		bam
+758	COLO-800						/nfs/cancer_trk0001/00000003/69584.bam.bai	bam bai
+758	COLO-824						/nfs/cancer_trk0009/00000030/103821.bam		bam
+758	COLO-824						/nfs/cancer_trk0009/00000030/103822.bam.bai	bam bai
+758	COLO-829						/nfs/cancer_trk0005/00000018/75079.bam		bam
+758	COLO-829						/nfs/cancer_trk0001/00000005/75080.bam.bai	bam bai
+758	COR-L105						/nfs/cancer_trk0007/00000024/87661.bam		bam
+758	COR-L105						/nfs/cancer_trk0007/00000023/87662.bam.bai	bam bai
+758	COR-L23							/nfs/cancer_trk0007/00000024/87693.bam		bam
+758	COR-L23							/nfs/cancer_trk0006/00000022/87694.bam.bai	bam bai
+758	COR-L88							/nfs/cancer_trk0007/00000023/89525.bam		bam
+758	COR-L88							/nfs/cancer_trk0007/00000023/89526.bam.bai	bam bai
+758	CP50-MEL-B						/nfs/cancer_trk0011/00000037/111511.bam		bam
+758	CP50-MEL-B						/nfs/cancer_trk0001/00000005/111512.bam.bai	bam bai
+758	CP66-MEL						/nfs/cancer_trk0010/00000031/103634.bam		bam
+758	CP66-MEL						/nfs/cancer_trk0002/00000008/103635.bam.bai	bam bai
+758	CP67-MEL						/nfs/cancer_trk0010/00000031/103644.bam		bam
+758	CP67-MEL						/nfs/cancer_trk0009/00000029/103645.bam.bai	bam bai
+758	CPC-N							/nfs/cancer_trk0007/00000024/87651.bam		bam
+758	CPC-N							/nfs/cancer_trk0007/00000023/87652.bam.bai	bam bai
+758	CRO-AP2							/nfs/cancer_trk0010/00000033/104039.bam		bam
+758	CRO-AP2							/nfs/cancer_trk0010/00000031/104040.bam.bai	bam bai
+758	CTB-1							/nfs/cancer_trk0010/00000031/103985.bam		bam
+758	CTB-1							/nfs/cancer_trk0007/00000024/103986.bam.bai	bam bai
+758	CTV-1							/nfs/cancer_trk0010/00000031/103971.bam		bam
+758	CTV-1							/nfs/cancer_trk0007/00000024/103972.bam.bai	bam bai
+758	D-247MG							/nfs/cancer_trk0010/00000031/103656.bam		bam
+758	D-247MG							/nfs/cancer_trk0002/00000008/103657.bam.bai	bam bai
+758	D-263MG							/nfs/cancer_trk0010/00000031/103658.bam		bam
+758	D-263MG							/nfs/cancer_trk0002/00000008/103659.bam.bai	bam bai
+758	D-283MED						/nfs/cancer_trk0005/00000019/68083.bam		bam
+758	D-283MED						/nfs/cancer_trk0004/00000012/68084.bam.bai	bam bai
+758	D-336MG							/nfs/cancer_trk0010/00000031/103660.bam		bam
+758	D-336MG							/nfs/cancer_trk0002/00000008/103661.bam.bai	bam bai
+758	D-392MG							/nfs/cancer_trk0009/00000030/103662.bam		bam
+758	D-392MG							/nfs/cancer_trk0002/00000008/103663.bam.bai	bam bai
+758	D-502MG							/nfs/cancer_trk0009/00000030/103664.bam		bam
+758	D-502MG							/nfs/cancer_trk0005/00000017/103665.bam.bai	bam bai
+758	D-542MG							/nfs/cancer_trk0010/00000031/103646.bam		bam
+758	D-542MG							/nfs/cancer_trk0002/00000008/103647.bam.bai	bam bai
+758	DAN-G							/nfs/cancer_trk0007/00000023/88559.bam		bam
+758	DAN-G							/nfs/cancer_trk0006/00000022/88560.bam.bai	bam bai
+758	Daoy							/nfs/cancer_trk0005/00000019/69649.bam		bam
+758	Daoy							/nfs/cancer_trk0002/00000007/69650.bam.bai	bam bai
+758	Daudi							/nfs/cancer_trk0010/00000031/104041.bam		bam
+758	Daudi							/nfs/cancer_trk0009/00000027/104042.bam.bai	bam bai
+758	DBTRG-05MG						/nfs/cancer_trk0010/00000031/103959.bam		bam
+758	DBTRG-05MG						/nfs/cancer_trk0007/00000024/103960.bam.bai	bam bai
+758	DEL							/nfs/cancer_trk0010/00000031/104019.bam		bam
+758	DEL							/nfs/cancer_trk0007/00000024/104020.bam.bai	bam bai
+758	DG-75							/nfs/cancer_trk0010/00000031/103977.bam		bam
+758	DG-75							/nfs/cancer_trk0007/00000024/103978.bam.bai	bam bai
+758	DJM-1							/nfs/cancer_trk0010/00000031/103642.bam		bam
+758	DJM-1							/nfs/cancer_trk0002/00000008/103643.bam.bai	bam bai
+758	DK-MG							/nfs/cancer_trk0007/00000024/103714.bam		bam
+758	DK-MG							/nfs/cancer_trk0007/00000024/103715.bam.bai	bam bai
+758	DMS-53							/nfs/cancer_trk0005/00000019/69641.bam		bam
+758	DMS-53							/nfs/cancer_trk0002/00000007/69642.bam.bai	bam bai
+758	DOHH-2							/nfs/cancer_trk0010/00000033/104021.bam		bam
+758	DOHH-2							/nfs/cancer_trk0007/00000024/104022.bam.bai	bam bai
+758	DoTc2-4510						/nfs/cancer_trk0007/00000024/87755.bam		bam
+758	DoTc2-4510						/nfs/cancer_trk0007/00000023/87756.bam.bai	bam bai
+758	DU-4475							/nfs/cancer_trk0009/00000030/103813.bam		bam
+758	DU-4475							/nfs/cancer_trk0007/00000024/103814.bam.bai	bam bai
+758	EB2							/nfs/cancer_trk0010/00000031/103991.bam		bam
+758	EB2							/nfs/cancer_trk0009/00000029/103992.bam.bai	bam bai
+758	EB-3							/nfs/cancer_trk0010/00000031/103993.bam		bam
+758	EB-3							/nfs/cancer_trk0007/00000024/103994.bam.bai	bam bai
+758	ECC10							/nfs/cancer_trk0007/00000024/103716.bam		bam
+758	ECC10							/nfs/cancer_trk0007/00000024/103717.bam.bai	bam bai
+758	ECC12							/nfs/cancer_trk0007/00000024/103718.bam		bam
+758	ECC12							/nfs/cancer_trk0007/00000024/103719.bam.bai	bam bai
+758	EC-GI-10						/nfs/cancer_trk0010/00000031/103636.bam		bam
+758	EC-GI-10						/nfs/cancer_trk0005/00000017/103637.bam.bai	bam bai
+758	EFM-19							/nfs/cancer_trk0009/00000030/103823.bam		bam
+758	EFM-19							/nfs/cancer_trk0009/00000030/103824.bam.bai	bam bai
+758	EFM-192A						/nfs/cancer_trk0007/00000023/89553.bam		bam
+758	EFM-192A						/nfs/cancer_trk0006/00000022/89554.bam.bai	bam bai
+758	EGI-1							/nfs/cancer_trk0010/00000031/104063.bam		bam
+758	EGI-1							/nfs/cancer_trk0009/00000030/104064.bam.bai	bam bai
+758	EHEB							/nfs/cancer_trk0010/00000031/103979.bam		bam
+758	EHEB							/nfs/cancer_trk0009/00000029/103980.bam.bai	bam bai
+758	EKVX							/nfs/cancer_trk0007/00000023/87657.bam		bam
+758	EKVX							/nfs/cancer_trk0007/00000023/87658.bam.bai	bam bai
+758	EM-2							/nfs/cancer_trk0010/00000033/104043.bam		bam
+758	EM-2							/nfs/cancer_trk0007/00000024/104044.bam.bai	bam bai
+758	EN							/nfs/cancer_trk0007/00000023/87649.bam		bam
+758	EN							/nfs/cancer_trk0006/00000022/87650.bam.bai	bam bai
+758	EPLC-272H						/nfs/cancer_trk0007/00000024/89533.bam		bam
+758	EPLC-272H						/nfs/cancer_trk0006/00000022/89534.bam.bai	bam bai
+758	ES1							/nfs/cancer_trk0006/00000022/86697.bam		bam
+758	ES1							/nfs/cancer_trk0006/00000022/86698.bam.bai	bam bai
+758	ES-2							/nfs/cancer_trk0007/00000023/87595.bam		bam
+758	ES-2							/nfs/cancer_trk0007/00000023/87596.bam.bai	bam bai
+758	ES3							/nfs/cancer_trk0006/00000022/86705.bam		bam
+758	ES3							/nfs/cancer_trk0006/00000022/86706.bam.bai	bam bai
+758	ES4							/nfs/cancer_trk0007/00000024/86667.bam		bam
+758	ES4							/nfs/cancer_trk0006/00000022/86668.bam.bai	bam bai
+758	ES5							/nfs/cancer_trk0006/00000022/86659.bam		bam
+758	ES5							/nfs/cancer_trk0006/00000022/86660.bam.bai	bam bai
+758	ES7							/nfs/cancer_trk0006/00000022/86661.bam		bam
+758	ES7							/nfs/cancer_trk0006/00000022/86662.bam.bai	bam bai
+758	ES8							/nfs/cancer_trk0006/00000022/86665.bam		bam
+758	ES8							/nfs/cancer_trk0006/00000022/86666.bam.bai	bam bai
+758	EVSA-T							/nfs/cancer_trk0009/00000030/103815.bam		bam
+758	EVSA-T							/nfs/cancer_trk0007/00000024/103816.bam.bai	bam bai
+758	EW-1							/nfs/cancer_trk0006/00000022/86671.bam		bam
+758	EW-1							/nfs/cancer_trk0006/00000022/86672.bam.bai	bam bai
+758	EW-11							/nfs/cancer_trk0006/00000022/86663.bam		bam
+758	EW-11							/nfs/cancer_trk0006/00000022/86664.bam.bai	bam bai
+758	EW-12							/nfs/cancer_trk0007/00000023/86669.bam		bam
+758	EW-12							/nfs/cancer_trk0006/00000022/86670.bam.bai	bam bai
+758	EW-13							/nfs/cancer_trk0006/00000022/86649.bam		bam
+758	EW-13							/nfs/cancer_trk0006/00000022/86650.bam.bai	bam bai
+758	EW-16							/nfs/cancer_trk0006/00000022/86647.bam		bam
+758	EW-16							/nfs/cancer_trk0006/00000022/86648.bam.bai	bam bai
+758	EW-18							/nfs/cancer_trk0006/00000022/86645.bam		bam
+758	EW-18							/nfs/cancer_trk0006/00000022/86646.bam.bai	bam bai
+758	EW-22							/nfs/cancer_trk0006/00000022/86651.bam		bam
+758	EW-22							/nfs/cancer_trk0006/00000022/86652.bam.bai	bam bai
+758	EW-24							/nfs/cancer_trk0006/00000022/86653.bam		bam
+758	EW-24							/nfs/cancer_trk0006/00000022/86654.bam.bai	bam bai
+758	EW-3							/nfs/cancer_trk0006/00000022/86699.bam		bam
+758	EW-3							/nfs/cancer_trk0006/00000022/86700.bam.bai	bam bai
+758	EW-7							/nfs/cancer_trk0006/00000022/86643.bam		bam
+758	EW-7							/nfs/cancer_trk0006/00000022/86644.bam.bai	bam bai
+758	FU97							/nfs/cancer_trk0006/00000022/86715.bam		bam
+758	FU97							/nfs/cancer_trk0006/00000022/86716.bam.bai	bam bai
+758	FU-OV-1							/nfs/cancer_trk0007/00000023/87589.bam		bam
+758	FU-OV-1							/nfs/cancer_trk0007/00000023/87590.bam.bai	bam bai
+758	G-361							/nfs/cancer_trk0005/00000019/75087.bam		bam
+758	G-361							/nfs/cancer_trk0001/00000005/75088.bam.bai	bam bai
+758	GA-10							/nfs/cancer_trk0014/00000048/104037.bam		bam
+758	GA-10							/nfs/cancer_trk0007/00000024/104038.bam.bai	bam bai
+758	GAK							/nfs/cancer_trk0005/00000019/69617.bam		bam
+758	GAK							/nfs/cancer_trk0001/00000003/69618.bam.bai	bam bai
+758	GAMG							/nfs/cancer_trk0010/00000031/103961.bam		bam
+758	GAMG							/nfs/cancer_trk0007/00000024/103962.bam.bai	bam bai
+758	GB-1							/nfs/cancer_trk0009/00000029/103650.bam		bam
+758	GB-1							/nfs/cancer_trk0002/00000008/103651.bam.bai	bam bai
+758	GCIY							/nfs/cancer_trk0007/00000024/103720.bam		bam
+758	GCIY							/nfs/cancer_trk0007/00000024/103721.bam.bai	bam bai
+758	GCT							/nfs/cancer_trk0011/00000036/106481.bam		bam
+758	GCT							/nfs/cancer_trk0002/00000008/106482.bam.bai	bam bai
+758	GI-1							/nfs/cancer_trk0010/00000031/103652.bam		bam
+758	GI-1							/nfs/cancer_trk0005/00000017/103653.bam.bai	bam bai
+758	GMS-10							/nfs/cancer_trk0010/00000031/103963.bam		bam
+758	GMS-10							/nfs/cancer_trk0007/00000024/103964.bam.bai	bam bai
+758	GR-ST							/nfs/cancer_trk0010/00000031/103995.bam		bam
+758	GR-ST							/nfs/cancer_trk0002/00000008/103996.bam.bai	bam bai
+758	GT3TKB							/nfs/cancer_trk0007/00000024/103722.bam		bam
+758	GT3TKB							/nfs/cancer_trk0007/00000024/103723.bam.bai	bam bai
+758	H2369							/nfs/cancer_trk0007/00000024/95135.bam		bam
+758	H2369							/nfs/cancer_trk0006/00000022/95136.bam.bai	bam bai
+758	H2373							/nfs/cancer_trk0009/00000027/98498.bam		bam
+758	H2373							/nfs/cancer_trk0007/00000023/98499.bam.bai	bam bai
+758	H2461							/nfs/cancer_trk0006/00000022/86731.bam		bam
+758	H2461							/nfs/cancer_trk0006/00000022/86732.bam.bai	bam bai
+758	H2591							/nfs/cancer_trk0012/team78/00000042/99859.bam	bam
+758	H2591							/nfs/cancer_trk0007/00000024/99860.bam.bai	bam bai
+758	H2595							/nfs/cancer_trk0011/00000036/106469.bam		bam
+758	H2595							/nfs/cancer_trk0002/00000008/106470.bam.bai	bam bai
+758	H2722							/nfs/cancer_trk0007/00000024/95139.bam		bam
+758	H2722							/nfs/cancer_trk0006/00000022/95140.bam.bai	bam bai
+758	H2795							/nfs/cancer_trk0007/00000024/95137.bam		bam
+758	H2795							/nfs/cancer_trk0006/00000022/95138.bam.bai	bam bai
+758	H2803							/nfs/cancer_trk0006/00000022/86729.bam		bam
+758	H2803							/nfs/cancer_trk0006/00000022/86730.bam.bai	bam bai
+758	H2804							/nfs/cancer_trk0006/00000022/86757.bam		bam
+758	H2804							/nfs/cancer_trk0006/00000022/86758.bam.bai	bam bai
+758	H2810							/nfs/cancer_trk0010/00000033/106471.bam		bam
+758	H2810							/nfs/cancer_trk0006/00000022/106472.bam.bai	bam bai
+758	H2818							/nfs/cancer_trk0007/00000024/95131.bam		bam
+758	H2818							/nfs/cancer_trk0006/00000022/95132.bam.bai	bam bai
+758	H2869							/nfs/cancer_trk0006/00000022/86759.bam		bam
+758	H2869							/nfs/cancer_trk0006/00000022/86760.bam.bai	bam bai
+758	H290							/nfs/cancer_trk0006/00000022/86761.bam		bam
+758	H290							/nfs/cancer_trk0006/00000022/86762.bam.bai	bam bai
+758	H3118							/nfs/cancer_trk0010/00000031/104461.bam		bam
+758	H3118							/nfs/cancer_trk0009/00000030/104462.bam.bai	bam bai
+758	H4							/nfs/cancer_trk0010/00000031/103965.bam		bam
+758	H4							/nfs/cancer_trk0007/00000024/103966.bam.bai	bam bai
+758	H513							/nfs/cancer_trk0007/00000024/87675.bam		bam
+758	H513							/nfs/cancer_trk0006/00000022/87676.bam.bai	bam bai
+758	H9							/nfs/cancer_trk0010/00000031/104045.bam		bam
+758	H9							/nfs/cancer_trk0007/00000024/104046.bam.bai	bam bai
+758	HA7-RCC							/nfs/cancer_trk0010/00000031/106331.bam		bam
+758	HA7-RCC							/nfs/cancer_trk0002/00000006/106332.bam.bai	bam bai
+758	HARA							/nfs/cancer_trk0007/00000024/87665.bam		bam
+758	HARA							/nfs/cancer_trk0006/00000022/87666.bam.bai	bam bai
+758	HCC1187							/nfs/cancer_trk0006/00000022/86709.bam		bam
+758	HCC1187							/nfs/cancer_trk0006/00000022/86710.bam.bai	bam bai
+758	HCC1428							/nfs/cancer_trk0007/00000023/89555.bam		bam
+758	HCC1428							/nfs/cancer_trk0006/00000022/89556.bam.bai	bam bai
+758	HCC1500							/nfs/cancer_trk0007/00000023/89559.bam		bam
+758	HCC1500							/nfs/cancer_trk0006/00000022/89560.bam.bai	bam bai
+758	HCC1569							/nfs/cancer_trk0005/00000019/68112.bam		bam
+758	HCC1569							/nfs/cancer_trk0004/00000012/68113.bam.bai	bam bai
+758	HCC1599							/nfs/cancer_trk0006/00000022/86711.bam		bam
+758	HCC1599							/nfs/cancer_trk0006/00000022/86712.bam.bai	bam bai
+758	HCC1806							/nfs/cancer_trk0009/00000030/103817.bam		bam
+758	HCC1806							/nfs/cancer_trk0007/00000024/103818.bam.bai	bam bai
+758	HCC1937							/nfs/cancer_trk0006/00000022/86713.bam		bam
+758	HCC1937							/nfs/cancer_trk0006/00000022/86714.bam.bai	bam bai
+758	HCC1954							/nfs/cancer_trk0006/00000022/86707.bam		bam
+758	HCC1954							/nfs/cancer_trk0006/00000022/86708.bam.bai	bam bai
+758	HCC202							/nfs/cancer_trk0007/00000023/89501.bam		bam
+758	HCC202							/nfs/cancer_trk0006/00000022/89502.bam.bai	bam bai
+758	HCC2157							/nfs/cancer_trk0006/00000022/86717.bam		bam
+758	HCC2157							/nfs/cancer_trk0006/00000022/86718.bam.bai	bam bai
+758	HCC2218							/nfs/cancer_trk0006/00000022/86719.bam		bam
+758	HCC2218							/nfs/cancer_trk0006/00000022/86720.bam.bai	bam bai
+758	HCC38							/nfs/cancer_trk0005/00000019/69575.bam		bam
+758	HCC38							/nfs/cancer_trk0001/00000004/69576.bam.bai	bam bai
+758	HCC-44							/nfs/cancer_trk0005/00000019/69625.bam		bam
+758	HCC-44							/nfs/cancer_trk0001/00000003/69626.bam.bai	bam bai
+758	HCC-56							/nfs/cancer_trk0007/00000023/88547.bam		bam
+758	HCC-56							/nfs/cancer_trk0006/00000022/88548.bam.bai	bam bai
+758	HCC70							/nfs/cancer_trk0005/00000019/69587.bam		bam
+758	HCC70							/nfs/cancer_trk0001/00000003/69588.bam.bai	bam bai
+758	HCC-827							/nfs/cancer_trk0007/00000024/87667.bam		bam
+758	HCC-827							/nfs/cancer_trk0007/00000023/87668.bam.bai	bam bai
+758	HCE-4							/nfs/cancer_trk0010/00000031/103638.bam		bam
+758	HCE-4							/nfs/cancer_trk0005/00000017/103639.bam.bai	bam bai
+758	HCE-7							/nfs/cancer_trk0010/00000031/104493.bam		bam
+758	HCE-7							/nfs/cancer_trk0009/00000030/104494.bam.bai	bam bai
+758	HCE-T							/nfs/cancer_trk0011/00000036/106483.bam		bam
+758	HCE-T							/nfs/cancer_trk0002/00000008/106484.bam.bai	bam bai
+758	HCT-116							/nfs/cancer_trk0005/00000019/69565.bam		bam
+758	HCT-116							/nfs/cancer_trk0001/00000003/69566.bam.bai	bam bai
+758	HCT-15							/nfs/cancer_trk0005/00000019/69577.bam		bam
+758	HCT-15							/nfs/cancer_trk0001/00000003/69578.bam.bai	bam bai
+758	HDLM-2							/nfs/cancer_trk0010/00000031/103983.bam		bam
+758	HDLM-2							/nfs/cancer_trk0007/00000024/103984.bam.bai	bam bai
+758	HD-MY-Z							/nfs/cancer_trk0010/00000033/104023.bam		bam
+758	HD-MY-Z							/nfs/cancer_trk0007/00000024/104024.bam.bai	bam bai
+758	HDQ-P1							/nfs/cancer_trk0007/00000023/89557.bam		bam
+758	HDQ-P1							/nfs/cancer_trk0006/00000022/89558.bam.bai	bam bai
+758	HEC-1							/nfs/cancer_trk0011/00000036/106485.bam		bam
+758	HEC-1							/nfs/cancer_trk0002/00000008/106486.bam.bai	bam bai
+758	HEL							/nfs/cancer_trk0010/00000031/103997.bam		bam
+758	HEL							/nfs/cancer_trk0007/00000024/103998.bam.bai	bam bai
+758	H-EMC-SS						/nfs/cancer_trk0011/00000036/106442.bam		bam
+758	H-EMC-SS						/nfs/cancer_trk0002/00000008/106443.bam.bai	bam bai
+758	HGC-27							/nfs/cancer_trk0005/00000019/68114.bam		bam
+758	HGC-27							/nfs/cancer_trk0004/00000012/68115.bam.bai	bam bai
+758	HH							/nfs/cancer_trk0010/00000031/104047.bam		bam
+758	HH							/nfs/cancer_trk0009/00000030/104048.bam.bai	bam bai
+758	HL-60							/nfs/cancer_trk0010/00000033/104015.bam		bam
+758	HL-60							/nfs/cancer_trk0002/00000008/104016.bam.bai	bam bai
+758	HLE							/nfs/cancer_trk0010/00000033/104065.bam		bam
+758	HLE							/nfs/cancer_trk0009/00000030/104066.bam.bai	bam bai
+758	HMV-II							/nfs/cancer_trk0010/00000031/103857.bam		bam
+758	HMV-II							/nfs/cancer_trk0009/00000030/103858.bam.bai	bam bai
+758	HN							/nfs/cancer_trk0010/00000033/106487.bam		bam
+758	HN							/nfs/cancer_trk0002/00000008/106488.bam.bai	bam bai
+758	HO-1-N-1						/nfs/cancer_trk0010/00000031/104483.bam		bam
+758	HO-1-N-1						/nfs/cancer_trk0009/00000030/104484.bam.bai	bam bai
+758	HO-1-u-1						/nfs/cancer_trk0007/00000023/87621.bam		bam
+758	HO-1-u-1						/nfs/cancer_trk0006/00000022/87622.bam.bai	bam bai
+758	HOP-62							/nfs/cancer_trk0010/00000035/307915.bam		bam
+758	HOP-62							/nfs/cancer_trk0001/00000005/307916.bam.bai	bam bai
+758	HOP-92							/nfs/cancer_trk0007/00000024/89535.bam		bam
+758	HOP-92							/nfs/cancer_trk0006/00000022/89536.bam.bai	bam bai
+758	HOS							/nfs/cancer_trk0010/00000031/103933.bam		bam
+758	HOS							/nfs/cancer_trk0009/00000030/103934.bam.bai	bam bai
+758	HPAC							/nfs/cancer_trk0006/00000022/86703.bam		bam
+758	HPAC							/nfs/cancer_trk0006/00000022/86704.bam.bai	bam bai
+758	HPAF-II							/nfs/cancer_trk0011/00000036/106475.bam		bam
+758	HPAF-II							/nfs/cancer_trk0002/00000008/106476.bam.bai	bam bai
+758	Hs-578-T						/nfs/cancer_trk0011/00000036/106479.bam		bam
+758	Hs-578-T						/nfs/cancer_trk0002/00000008/106480.bam.bai	bam bai
+758	Hs633T							/nfs/cancer_trk0007/00000023/87625.bam		bam
+758	Hs633T							/nfs/cancer_trk0006/00000022/87626.bam.bai	bam bai
+758	Hs683							/nfs/cancer_trk0007/00000023/87609.bam		bam
+758	Hs683							/nfs/cancer_trk0007/00000023/87610.bam.bai	bam bai
+758	Hs746T							/nfs/cancer_trk0005/00000019/68172.bam		bam
+758	Hs746T							/nfs/cancer_trk0004/00000012/68173.bam.bai	bam bai
+758	Hs944_T							/nfs/cancer_trk0011/00000038/106319.bam		bam
+758	Hs944_T							/nfs/cancer_trk0002/00000008/106320.bam.bai	bam bai
+758	HSC-2							/nfs/cancer_trk0011/00000036/106432.bam		bam
+758	HSC-2							/nfs/cancer_trk0002/00000008/106433.bam.bai	bam bai
+758	HSC-3							/nfs/cancer_trk0011/00000036/106489.bam		bam
+758	HSC-3							/nfs/cancer_trk0002/00000008/106490.bam.bai	bam bai
+758	HT-1080							/nfs/cancer_trk0011/00000036/106491.bam		bam
+758	HT-1080							/nfs/cancer_trk0006/00000022/106492.bam.bai	bam bai
+758	HT-1197							/nfs/cancer_trk0009/00000030/103793.bam		bam
+758	HT-1197							/nfs/cancer_trk0009/00000030/103794.bam.bai	bam bai
+758	HT-1376							/nfs/cancer_trk0009/00000030/103771.bam		bam
+758	HT-1376							/nfs/cancer_trk0009/00000030/103772.bam.bai	bam bai
+758	HT-144							/nfs/cancer_trk0010/00000031/103859.bam		bam
+758	HT-144							/nfs/cancer_trk0009/00000030/103860.bam.bai	bam bai
+758	HT-29							/nfs/cancer_trk0005/00000019/69645.bam		bam
+758	HT-29							/nfs/cancer_trk0002/00000007/69646.bam.bai	bam bai
+758	HT-3							/nfs/cancer_trk0007/00000024/87757.bam		bam
+758	HT-3							/nfs/cancer_trk0007/00000023/87758.bam.bai	bam bai
+758	HTC-C3							/nfs/cancer_trk0011/00000036/106499.bam		bam
+758	HTC-C3							/nfs/cancer_trk0002/00000007/106500.bam.bai	bam bai
+758	HuCCT1							/nfs/cancer_trk0010/00000031/104067.bam		bam
+758	HuCCT1							/nfs/cancer_trk0009/00000030/104068.bam.bai	bam bai
+758	HuH-7							/nfs/cancer_trk0005/00000019/68116.bam		bam
+758	HuH-7							/nfs/cancer_trk0004/00000012/68117.bam.bai	bam bai
+758	HuO-3N1							/nfs/cancer_trk0010/00000031/103953.bam		bam
+758	HuO-3N1							/nfs/cancer_trk0009/00000030/103954.bam.bai	bam bai
+758	HuO9							/nfs/cancer_trk0010/00000031/103901.bam		bam
+758	HuO9							/nfs/cancer_trk0007/00000024/103902.bam.bai	bam bai
+758	HuP-T3							/nfs/cancer_trk0005/00000019/68118.bam		bam
+758	HuP-T3							/nfs/cancer_trk0004/00000012/68119.bam.bai	bam bai
+758	HuP-T4							/nfs/cancer_trk0011/00000038/106333.bam		bam
+758	HuP-T4							/nfs/cancer_trk0002/00000006/106334.bam.bai	bam bai
+758	HUTU-80							/nfs/cancer_trk0010/00000033/106493.bam		bam
+758	HUTU-80							/nfs/cancer_trk0006/00000022/106494.bam.bai	bam bai
+758	IA-LM							/nfs/cancer_trk0007/00000024/89539.bam		bam
+758	IA-LM							/nfs/cancer_trk0006/00000022/89540.bam.bai	bam bai
+758	IGR-1							/nfs/cancer_trk0010/00000031/103861.bam		bam
+758	IGR-1							/nfs/cancer_trk0009/00000030/103862.bam.bai	bam bai
+758	IGR-37							/nfs/cancer_trk0007/00000023/88553.bam		bam
+758	IGR-37							/nfs/cancer_trk0006/00000022/88554.bam.bai	bam bai
+758	IGROV-1							/nfs/cancer_trk0009/00000030/106779.bam		bam
+758	IGROV-1							/nfs/cancer_trk0009/00000030/106780.bam.bai	bam bai
+758	IHH-4							/nfs/cancer_trk0007/00000023/87641.bam		bam
+758	IHH-4							/nfs/cancer_trk0007/00000023/87642.bam.bai	bam bai
+758	IM-9							/nfs/cancer_trk0010/00000031/104051.bam		bam
+758	IM-9							/nfs/cancer_trk0009/00000030/104052.bam.bai	bam bai
+758	IM-95							/nfs/cancer_trk0005/00000019/68174.bam		bam
+758	IM-95							/nfs/cancer_trk0004/00000012/68175.bam.bai	bam bai
+758	IMR-5							/nfs/cancer_trk0011/00000036/106495.bam		bam
+758	IMR-5							/nfs/cancer_trk0002/00000008/106496.bam.bai	bam bai
+758	IPC-298							/nfs/cancer_trk0011/00000036/106497.bam		bam
+758	IPC-298							/nfs/cancer_trk0007/00000024/106498.bam.bai	bam bai
+758	Ishikawa_Heraklio_02ER-					/nfs/cancer_trk0011/00000036/106473.bam		bam
+758	Ishikawa_Heraklio_02ER-					/nfs/cancer_trk0002/00000008/106474.bam.bai	bam bai
+758	IST-MEL1						/nfs/cancer_trk0010/00000031/103863.bam		bam
+758	IST-MEL1						/nfs/cancer_trk0009/00000030/103864.bam.bai	bam bai
+758	IST-MES1						/nfs/cancer_trk0006/00000022/86739.bam		bam
+758	IST-MES1						/nfs/cancer_trk0006/00000022/86740.bam.bai	bam bai
+758	IST-SL1							/nfs/cancer_trk0007/00000024/87685.bam		bam
+758	IST-SL1							/nfs/cancer_trk0006/00000022/87686.bam.bai	bam bai
+758	IST-SL2							/nfs/cancer_trk0007/00000024/87653.bam		bam
+758	IST-SL2							/nfs/cancer_trk0006/00000022/87654.bam.bai	bam bai
+758	J82							/nfs/cancer_trk0006/00000022/86765.bam		bam
+758	J82							/nfs/cancer_trk0006/00000022/86766.bam.bai	bam bai
+758	JHH-1							/nfs/cancer_trk0007/00000023/87639.bam		bam
+758	JHH-1							/nfs/cancer_trk0007/00000023/87640.bam.bai	bam bai
+758	JHH-2							/nfs/cancer_trk0007/00000023/87627.bam		bam
+758	JHH-2							/nfs/cancer_trk0006/00000022/87628.bam.bai	bam bai
+758	JHH-4							/nfs/cancer_trk0007/00000023/87629.bam		bam
+758	JHH-4							/nfs/cancer_trk0007/00000023/87630.bam.bai	bam bai
+758	JHH-6							/nfs/cancer_trk0007/00000023/87631.bam		bam
+758	JHH-6							/nfs/cancer_trk0006/00000022/87632.bam.bai	bam bai
+758	JHH-7							/nfs/cancer_trk0007/00000023/87633.bam		bam
+758	JHH-7							/nfs/cancer_trk0006/00000022/87634.bam.bai	bam bai
+758	JHU-011							/nfs/cancer_trk0011/00000038/104463.bam		bam
+758	JHU-011							/nfs/cancer_trk0009/00000030/104464.bam.bai	bam bai
+758	JHU-022							/nfs/cancer_trk0011/00000038/104465.bam		bam
+758	JHU-022							/nfs/cancer_trk0009/00000030/104466.bam.bai	bam bai
+758	JiyoyeP-2003						/nfs/cancer_trk0010/00000033/103999.bam		bam
+758	JiyoyeP-2003						/nfs/cancer_trk0010/00000031/104000.bam.bai	bam bai
+758	J-RT3-T3-5						/nfs/cancer_trk0010/00000031/104001.bam		bam
+758	J-RT3-T3-5						/nfs/cancer_trk0007/00000024/104002.bam.bai	bam bai
+758	JVM-2							/nfs/cancer_trk0010/00000033/104025.bam		bam
+758	JVM-2							/nfs/cancer_trk0007/00000024/104026.bam.bai	bam bai
+758	JVM-3							/nfs/cancer_trk0010/00000035/307919.bam		bam
+758	JVM-3							/nfs/cancer_trk0001/00000005/307920.bam.bai	bam bai
+758	K5							/nfs/cancer_trk0011/00000036/106503.bam		bam
+758	K5							/nfs/cancer_trk0006/00000022/106504.bam.bai	bam bai
+758	KALS-1							/nfs/cancer_trk0010/00000031/103935.bam		bam
+758	KALS-1							/nfs/cancer_trk0009/00000030/103936.bam.bai	bam bai
+758	KARPAS-422						/nfs/cancer_trk0010/00000031/103969.bam		bam
+758	KARPAS-422						/nfs/cancer_trk0010/00000031/103970.bam.bai	bam bai
+758	KARPAS-45						/nfs/cancer_trk0010/00000031/103967.bam		bam
+758	KARPAS-45						/nfs/cancer_trk0007/00000024/103968.bam.bai	bam bai
+758	KASUMI-1						/nfs/cancer_trk0010/00000033/107027.bam		bam
+758	KASUMI-1						/nfs/cancer_trk0007/00000024/107028.bam.bai	bam bai
+758	KE-37							/nfs/cancer_trk0010/00000033/104069.bam		bam
+758	KE-37							/nfs/cancer_trk0010/00000031/104070.bam.bai	bam bai
+758	KELLY							/nfs/cancer_trk0007/00000023/87623.bam		bam
+758	KELLY							/nfs/cancer_trk0007/00000023/87624.bam.bai	bam bai
+758	KG-1							/nfs/cancer_trk0011/00000037/104429.bam		bam
+758	KG-1							/nfs/cancer_trk0009/00000030/104430.bam.bai	bam bai
+758	KGN							/nfs/cancer_trk0011/00000038/106349.bam		bam
+758	KGN							/nfs/cancer_trk0002/00000008/106350.bam.bai	bam bai
+758	KINGS-1							/nfs/cancer_trk0010/00000031/103937.bam		bam
+758	KINGS-1							/nfs/cancer_trk0002/00000008/103938.bam.bai	bam bai
+758	KLE							/nfs/cancer_trk0010/00000033/106501.bam		bam
+758	KLE							/nfs/cancer_trk0005/00000017/106502.bam.bai	bam bai
+758	KM12							/nfs/cancer_trk0005/00000019/68106.bam		bam
+758	KM12							/nfs/cancer_trk0004/00000012/68107.bam.bai	bam bai
+758	KMOE-2							/nfs/cancer_trk0010/00000035/106414.bam		bam
+758	KMOE-2							/nfs/cancer_trk0002/00000008/106415.bam.bai	bam bai
+758	KMRC-1							/nfs/cancer_trk0007/00000023/88459.bam		bam
+758	KMRC-1							/nfs/cancer_trk0007/00000023/88460.bam.bai	bam bai
+758	KMRC-20							/nfs/cancer_trk0007/00000023/88461.bam		bam
+758	KMRC-20							/nfs/cancer_trk0007/00000023/88462.bam.bai	bam bai
+758	KNS-42							/nfs/cancer_trk0010/00000031/103939.bam		bam
+758	KNS-42							/nfs/cancer_trk0009/00000030/103940.bam.bai	bam bai
+758	KNS-62							/nfs/cancer_trk0007/00000023/87655.bam		bam
+758	KNS-62							/nfs/cancer_trk0007/00000023/87656.bam.bai	bam bai
+758	KNS-81-FD						/nfs/cancer_trk0010/00000031/103955.bam		bam
+758	KNS-81-FD						/nfs/cancer_trk0009/00000030/103956.bam.bai	bam bai
+758	KO52							/nfs/cancer_trk0011/00000038/104485.bam		bam
+758	KO52							/nfs/cancer_trk0009/00000030/104486.bam.bai	bam bai
+758	KON							/nfs/cancer_trk0007/00000023/87607.bam		bam
+758	KON							/nfs/cancer_trk0007/00000023/87608.bam.bai	bam bai
+758	KOSC-2							/nfs/cancer_trk0011/00000038/104471.bam		bam
+758	KOSC-2							/nfs/cancer_trk0009/00000030/104472.bam.bai	bam bai
+758	KP-1N							/nfs/cancer_trk0007/00000023/88561.bam		bam
+758	KP-1N							/nfs/cancer_trk0007/00000023/88562.bam.bai	bam bai
+758	KP-4							/nfs/cancer_trk0010/00000031/104487.bam		bam
+758	KP-4							/nfs/cancer_trk0009/00000030/104488.bam.bai	bam bai
+758	KP-N-YS							/nfs/cancer_trk0011/00000036/106505.bam		bam
+758	KP-N-YS							/nfs/cancer_trk0002/00000008/106506.bam.bai	bam bai
+758	KS-1							/nfs/cancer_trk0010/00000031/103941.bam		bam
+758	KS-1							/nfs/cancer_trk0009/00000030/103942.bam.bai	bam bai
+758	KU-19-19						/nfs/cancer_trk0009/00000030/103773.bam		bam
+758	KU-19-19						/nfs/cancer_trk0009/00000030/103774.bam.bai	bam bai
+758	KU812							/nfs/cancer_trk0011/00000037/106416.bam		bam
+758	KU812							/nfs/cancer_trk0002/00000008/106417.bam.bai	bam bai
+758	KURAMOCHI						/nfs/cancer_trk0010/00000031/106341.bam		bam
+758	KURAMOCHI						/nfs/cancer_trk0006/00000022/106342.bam.bai	bam bai
+758	KY821							/nfs/cancer_trk0011/00000037/105767.bam		bam
+758	KY821							/nfs/cancer_trk0002/00000007/105768.bam.bai	bam bai
+758	KYM-1							/nfs/cancer_trk0007/00000023/87643.bam		bam
+758	KYM-1							/nfs/cancer_trk0007/00000023/87644.bam.bai	bam bai
+758	KYSE-140						/nfs/cancer_trk0010/00000031/103893.bam		bam
+758	KYSE-140						/nfs/cancer_trk0007/00000024/103894.bam.bai	bam bai
+758	KYSE-150						/nfs/cancer_trk0010/00000031/103903.bam		bam
+758	KYSE-150						/nfs/cancer_trk0007/00000024/103904.bam.bai	bam bai
+758	KYSE-180						/nfs/cancer_trk0010/00000031/103905.bam		bam
+758	KYSE-180						/nfs/cancer_trk0009/00000030/103906.bam.bai	bam bai
+758	KYSE-220						/nfs/cancer_trk0007/00000023/88555.bam		bam
+758	KYSE-220						/nfs/cancer_trk0007/00000023/88556.bam.bai	bam bai
+758	KYSE-270						/nfs/cancer_trk0010/00000031/103907.bam		bam
+758	KYSE-270						/nfs/cancer_trk0009/00000030/103908.bam.bai	bam bai
+758	KYSE-410						/nfs/cancer_trk0010/00000031/103895.bam		bam
+758	KYSE-410						/nfs/cancer_trk0009/00000030/103896.bam.bai	bam bai
+758	KYSE-450						/nfs/cancer_trk0010/00000031/103865.bam		bam
+758	KYSE-450						/nfs/cancer_trk0002/00000008/103866.bam.bai	bam bai
+758	KYSE-50							/nfs/cancer_trk0007/00000023/88549.bam		bam
+758	KYSE-50							/nfs/cancer_trk0006/00000022/88550.bam.bai	bam bai
+758	KYSE-510						/nfs/cancer_trk0009/00000030/103839.bam		bam
+758	KYSE-510						/nfs/cancer_trk0009/00000030/103840.bam.bai	bam bai
+758	KYSE-520						/nfs/cancer_trk0009/00000030/103831.bam		bam
+758	KYSE-520						/nfs/cancer_trk0009/00000030/103832.bam.bai	bam bai
+758	KYSE-70							/nfs/cancer_trk0010/00000031/103897.bam		bam
+758	KYSE-70							/nfs/cancer_trk0007/00000024/103898.bam.bai	bam bai
+758	L-363							/nfs/cancer_trk0011/00000036/106703.bam		bam
+758	L-363							/nfs/cancer_trk0010/00000031/106704.bam.bai	bam bai
+758	L-428							/nfs/cancer_trk0010/00000033/104071.bam		bam
+758	L-428							/nfs/cancer_trk0009/00000030/104072.bam.bai	bam bai
+758	L-540							/nfs/cancer_trk0011/00000037/106418.bam		bam
+758	L-540							/nfs/cancer_trk0002/00000008/106419.bam.bai	bam bai
+758	LAMA-84							/nfs/cancer_trk0011/00000037/104435.bam		bam
+758	LAMA-84							/nfs/cancer_trk0009/00000030/104436.bam.bai	bam bai
+758	LAN-6							/nfs/cancer_trk0007/00000024/163054.bam		bam
+758	LAN-6							/nfs/cancer_trk0001/00000004/163055.bam.bai	bam bai
+758	LB1047-RCC						/nfs/cancer_trk0010/00000031/104489.bam		bam
+758	LB1047-RCC						/nfs/cancer_trk0009/00000030/104490.bam.bai	bam bai
+758	LB2241-RCC						/nfs/cancer_trk0011/00000038/104491.bam		bam
+758	LB2241-RCC						/nfs/cancer_trk0009/00000030/104492.bam.bai	bam bai
+758	LB2518-MEL						/nfs/cancer_trk0010/00000035/307911.bam		bam
+758	LB2518-MEL						/nfs/cancer_trk0001/00000003/307912.bam.bai	bam bai
+758	LB373-MEL-D						/nfs/cancer_trk0027/00000094/307913.bam		bam
+758	LB373-MEL-D						/nfs/cancer_trk0001/00000003/307914.bam.bai	bam bai
+758	LB647-SCLC						/nfs/cancer_trk0006/00000022/86767.bam		bam
+758	LB647-SCLC						/nfs/cancer_trk0006/00000022/86768.bam.bai	bam bai
+758	LB771-HNC						/nfs/cancer_trk0011/00000036/106477.bam		bam
+758	LB771-HNC						/nfs/cancer_trk0002/00000008/106478.bam.bai	bam bai
+758	LB831-BLC						/nfs/cancer_trk0010/00000033/312524.bam		bam
+758	LB831-BLC						/nfs/cancer_trk0009/00000028/312525.bam.bai	bam bai
+758	LC-1F							/nfs/cancer_trk0007/00000024/89511.bam		bam
+758	LC-1F							/nfs/cancer_trk0007/00000023/89512.bam.bai	bam bai
+758	LC-2-ad							/nfs/cancer_trk0007/00000024/89513.bam		bam
+758	LC-2-ad							/nfs/cancer_trk0006/00000022/89514.bam.bai	bam bai
+758	LC4-1							/nfs/cancer_trk0010/00000031/106420.bam		bam
+758	LC4-1							/nfs/cancer_trk0002/00000008/106421.bam.bai	bam bai
+758	LCLC-103H						/nfs/cancer_trk0007/00000023/89503.bam		bam
+758	LCLC-103H						/nfs/cancer_trk0006/00000022/89504.bam.bai	bam bai
+758	LCLC-97TM1						/nfs/cancer_trk0007/00000024/87723.bam		bam
+758	LCLC-97TM1						/nfs/cancer_trk0007/00000023/87724.bam.bai	bam bai
+758	LK-2							/nfs/cancer_trk0007/00000024/87733.bam		bam
+758	LK-2							/nfs/cancer_trk0007/00000023/87734.bam.bai	bam bai
+758	LN-18							/nfs/cancer_trk0007/00000023/87611.bam		bam
+758	LN-18							/nfs/cancer_trk0007/00000023/87612.bam.bai	bam bai
+758	LN-229							/nfs/cancer_trk0007/00000023/87613.bam		bam
+758	LN-229							/nfs/cancer_trk0007/00000023/87614.bam.bai	bam bai
+758	LN-405							/nfs/cancer_trk0009/00000030/103760.bam		bam
+758	LN-405							/nfs/cancer_trk0002/00000008/103761.bam.bai	bam bai
+758	LNZTA3WT4						/nfs/cancer_trk0007/00000023/87615.bam		bam
+758	LNZTA3WT4						/nfs/cancer_trk0007/00000023/87616.bam.bai	bam bai
+758	LOUCY							/nfs/cancer_trk0011/00000037/106701.bam		bam
+758	LOUCY							/nfs/cancer_trk0009/00000030/106702.bam.bai	bam bai
+758	LoVo							/nfs/cancer_trk0005/00000019/69651.bam		bam
+758	LoVo							/nfs/cancer_trk0002/00000006/69652.bam.bai	bam bai
+758	LOXIMVI							/nfs/cancer_trk0010/00000031/103849.bam		bam
+758	LOXIMVI							/nfs/cancer_trk0007/00000024/103850.bam.bai	bam bai
+758	LS-1034							/nfs/cancer_trk0005/00000019/69667.bam		bam
+758	LS-1034							/nfs/cancer_trk0002/00000007/69668.bam.bai	bam bai
+758	LS-123							/nfs/cancer_trk0005/00000019/69589.bam		bam
+758	LS-123							/nfs/cancer_trk0001/00000003/69590.bam.bai	bam bai
+758	LS-180							/nfs/cancer_trk0007/00000024/86673.bam		bam
+758	LS-180							/nfs/cancer_trk0006/00000022/86674.bam.bai	bam bai
+758	LS-411N							/nfs/cancer_trk0005/00000019/68120.bam		bam
+758	LS-411N							/nfs/cancer_trk0004/00000012/68121.bam.bai	bam bai
+758	LS-513							/nfs/cancer_trk0005/00000019/69591.bam		bam
+758	LS-513							/nfs/cancer_trk0001/00000004/69592.bam.bai	bam bai
+758	LU-134-A						/nfs/cancer_trk0007/00000024/89505.bam		bam
+758	LU-134-A						/nfs/cancer_trk0006/00000022/89506.bam.bai	bam bai
+758	LU-135							/nfs/cancer_trk0007/00000023/87713.bam		bam
+758	LU-135							/nfs/cancer_trk0007/00000023/87714.bam.bai	bam bai
+758	LU-139							/nfs/cancer_trk0007/00000024/89521.bam		bam
+758	LU-139							/nfs/cancer_trk0007/00000023/89522.bam.bai	bam bai
+758	LU-165							/nfs/cancer_trk0007/00000023/89507.bam		bam
+758	LU-165							/nfs/cancer_trk0006/00000022/89508.bam.bai	bam bai
+758	LU-65							/nfs/cancer_trk0007/00000023/89531.bam		bam
+758	LU-65							/nfs/cancer_trk0006/00000022/89532.bam.bai	bam bai
+758	LU-99A							/nfs/cancer_trk0007/00000024/89515.bam		bam
+758	LU-99A							/nfs/cancer_trk0006/00000022/89516.bam.bai	bam bai
+758	LXF-289							/nfs/cancer_trk0007/00000024/89509.bam		bam
+758	LXF-289							/nfs/cancer_trk0006/00000022/89510.bam.bai	bam bai
+758	M059J							/nfs/cancer_trk0009/00000030/103742.bam		bam
+758	M059J							/nfs/cancer_trk0009/00000030/103743.bam.bai	bam bai
+758	M14							/nfs/cancer_trk0010/00000031/103851.bam		bam
+758	M14							/nfs/cancer_trk0009/00000030/103852.bam.bai	bam bai
+758	MC116							/nfs/cancer_trk0011/00000037/106422.bam		bam
+758	MC116							/nfs/cancer_trk0002/00000008/106423.bam.bai	bam bai
+758	MCF7							/nfs/cancer_trk0005/00000019/69579.bam		bam
+758	MCF7							/nfs/cancer_trk0001/00000003/69580.bam.bai	bam bai
+758	MC-IXC							/nfs/cancer_trk0007/00000024/103730.bam		bam
+758	MC-IXC							/nfs/cancer_trk0007/00000024/103731.bam.bai	bam bai
+758	MDA-MB-157						/nfs/cancer_trk0005/00000019/69621.bam		bam
+758	MDA-MB-157						/nfs/cancer_trk0001/00000004/69622.bam.bai	bam bai
+758	MDA-MB-231						/nfs/cancer_trk0010/00000031/103879.bam		bam
+758	MDA-MB-231						/nfs/cancer_trk0009/00000030/103880.bam.bai	bam bai
+758	MDA-MB-361						/nfs/cancer_trk0010/00000031/103881.bam		bam
+758	MDA-MB-361						/nfs/cancer_trk0002/00000008/103882.bam.bai	bam bai
+758	MDA-MB-453						/nfs/cancer_trk0010/00000031/103883.bam		bam
+758	MDA-MB-453						/nfs/cancer_trk0009/00000030/103884.bam.bai	bam bai
+758	MDST8							/nfs/cancer_trk0007/00000024/87677.bam		bam
+758	MDST8							/nfs/cancer_trk0006/00000022/87678.bam.bai	bam bai
+758	ME-180							/nfs/cancer_trk0007/00000023/87731.bam		bam
+758	ME-180							/nfs/cancer_trk0007/00000023/87732.bam.bai	bam bai
+758	MEG-01							/nfs/cancer_trk0024/00000087/307921.bam		bam
+758	MEG-01							/nfs/cancer_trk0001/00000005/307922.bam.bai	bam bai
+758	MEL-HO							/nfs/cancer_trk0005/00000019/69593.bam		bam
+758	MEL-HO							/nfs/cancer_trk0001/00000003/69594.bam.bai	bam bai
+758	MEL-JUSO						/nfs/cancer_trk0005/00000019/69595.bam		bam
+758	MEL-JUSO						/nfs/cancer_trk0001/00000005/69596.bam.bai	bam bai
+758	MES-SA							/nfs/cancer_trk0011/00000039/106335.bam		bam
+758	MES-SA							/nfs/cancer_trk0002/00000008/106336.bam.bai	bam bai
+758	Mewo							/nfs/cancer_trk0005/00000019/69597.bam		bam
+758	Mewo							/nfs/cancer_trk0001/00000004/69598.bam.bai	bam bai
+758	MFH-ino							/nfs/cancer_trk0011/00000037/106900.bam		bam
+758	MFH-ino							/nfs/cancer_trk0010/00000031/106901.bam.bai	bam bai
+758	MFM-223							/nfs/cancer_trk0010/00000031/103891.bam		bam
+758	MFM-223							/nfs/cancer_trk0009/00000030/103892.bam.bai	bam bai
+758	MG-63							/nfs/cancer_trk0010/00000031/103909.bam		bam
+758	MG-63							/nfs/cancer_trk0009/00000030/103910.bam.bai	bam bai
+758	MHH-NB-11						/nfs/cancer_trk0007/00000024/103732.bam		bam
+758	MHH-NB-11						/nfs/cancer_trk0007/00000024/103733.bam.bai	bam bai
+758	MHH-PREB-1						/nfs/cancer_trk0006/00000020/106424.bam		bam
+758	MHH-PREB-1						/nfs/cancer_trk0002/00000008/106425.bam.bai	bam bai
+758	MIA-PaCa-2						/nfs/cancer_trk0005/00000019/68092.bam		bam
+758	MIA-PaCa-2						/nfs/cancer_trk0004/00000012/68093.bam.bai	bam bai
+758	MKN1							/nfs/cancer_trk0005/00000019/68122.bam		bam
+758	MKN1							/nfs/cancer_trk0003/00000010/68123.bam.bai	bam bai
+758	MKN28							/nfs/cancer_trk0005/00000019/68124.bam		bam
+758	MKN28							/nfs/cancer_trk0003/00000011/68125.bam.bai	bam bai
+758	MKN45							/nfs/cancer_trk0005/00000019/68170.bam		bam
+758	MKN45							/nfs/cancer_trk0004/00000012/68171.bam.bai	bam bai
+758	MKN7							/nfs/cancer_trk0005/00000019/68168.bam		bam
+758	MKN7							/nfs/cancer_trk0003/00000010/68169.bam.bai	bam bai
+758	ML-1							/nfs/cancer_trk0011/00000038/106321.bam		bam
+758	ML-1							/nfs/cancer_trk0002/00000008/106322.bam.bai	bam bai
+758	ML-2							/nfs/cancer_trk0010/00000031/104439.bam		bam
+758	ML-2							/nfs/cancer_trk0009/00000030/104440.bam.bai	bam bai
+758	MMAC-SF							/nfs/cancer_trk0010/00000031/103873.bam		bam
+758	MMAC-SF							/nfs/cancer_trk0009/00000030/103874.bam.bai	bam bai
+758	MN-60							/nfs/cancer_trk0010/00000033/105773.bam		bam
+758	MN-60							/nfs/cancer_trk0010/00000031/105774.bam.bai	bam bai
+758	MOLT-13							/nfs/cancer_trk0010/00000031/106426.bam		bam
+758	MOLT-13							/nfs/cancer_trk0002/00000008/106427.bam.bai	bam bai
+758	MOLT-4							/nfs/cancer_trk0010/00000033/104473.bam		bam
+758	MOLT-4							/nfs/cancer_trk0009/00000030/104474.bam.bai	bam bai
+758	MONO-MAC-6						/nfs/cancer_trk0011/00000037/104441.bam		bam
+758	MONO-MAC-6						/nfs/cancer_trk0009/00000030/104442.bam.bai	bam bai
+758	Mo-T							/nfs/cancer_trk0010/00000033/104073.bam		bam
+758	Mo-T							/nfs/cancer_trk0007/00000024/104074.bam.bai	bam bai
+758	MPP-89							/nfs/cancer_trk0006/00000022/86769.bam		bam
+758	MPP-89							/nfs/cancer_trk0006/00000022/86770.bam.bai	bam bai
+758	MS-1							/nfs/cancer_trk0007/00000024/89523.bam		bam
+758	MS-1							/nfs/cancer_trk0007/00000023/89524.bam.bai	bam bai
+758	MS751							/nfs/cancer_trk0007/00000023/87635.bam		bam
+758	MS751							/nfs/cancer_trk0006/00000022/87636.bam.bai	bam bai
+758	MSTO-211H						/nfs/cancer_trk0006/00000022/86771.bam		bam
+758	MSTO-211H						/nfs/cancer_trk0006/00000022/86772.bam.bai	bam bai
+758	MUTZ-1							/nfs/cancer_trk0005/00000019/69643.bam		bam
+758	MUTZ-1							/nfs/cancer_trk0001/00000005/69644.bam.bai	bam bai
+758	MV-4-11							/nfs/cancer_trk0010/00000033/104475.bam		bam
+758	MV-4-11							/nfs/cancer_trk0009/00000030/104476.bam.bai	bam bai
+758	MZ1-PC							/nfs/cancer_trk0010/00000033/106920.bam		bam
+758	MZ1-PC							/nfs/cancer_trk0010/00000031/106921.bam.bai	bam bai
+758	MZ2-MEL							/nfs/cancer_trk0027/00000094/308310.bam		bam
+758	MZ2-MEL							/nfs/cancer_trk0001/00000004/308311.bam.bai	bam bai
+758	MZ7-mel							/nfs/cancer_trk0010/00000031/103847.bam		bam
+758	MZ7-mel							/nfs/cancer_trk0009/00000030/103848.bam.bai	bam bai
+758	NB12							/nfs/cancer_trk0009/00000030/106811.bam		bam
+758	NB12							/nfs/cancer_trk0009/00000030/106812.bam.bai	bam bai
+758	NB13							/nfs/cancer_trk0010/00000031/106353.bam		bam
+758	NB13							/nfs/cancer_trk0002/00000008/106354.bam.bai	bam bai
+758	NB14							/nfs/cancer_trk0011/00000037/106355.bam		bam
+758	NB14							/nfs/cancer_trk0002/00000008/106356.bam.bai	bam bai
+758	NB17							/nfs/cancer_trk0011/00000037/108446.bam		bam
+758	NB17							/nfs/cancer_trk0009/00000027/108447.bam.bai	bam bai
+758	NB5							/nfs/cancer_trk0011/00000037/106351.bam		bam
+758	NB5							/nfs/cancer_trk0002/00000008/106352.bam.bai	bam bai
+758	NB6							/nfs/cancer_trk0011/00000037/106813.bam		bam
+758	NB6							/nfs/cancer_trk0009/00000030/106814.bam.bai	bam bai
+758	NB69							/nfs/cancer_trk0007/00000024/103734.bam		bam
+758	NB69							/nfs/cancer_trk0007/00000024/103735.bam.bai	bam bai
+758	NB7							/nfs/cancer_trk0010/00000033/108444.bam		bam
+758	NB7							/nfs/cancer_trk0009/00000027/108445.bam.bai	bam bai
+758	NBsusSR							/nfs/cancer_trk0011/00000036/106809.bam		bam
+758	NBsusSR							/nfs/cancer_trk0009/00000030/106810.bam.bai	bam bai
+758	NCCIT							/nfs/cancer_trk0009/00000030/106805.bam		bam
+758	NCCIT							/nfs/cancer_trk0009/00000030/106806.bam.bai	bam bai
+758	NCI-H1048						/nfs/cancer_trk0011/00000038/106327.bam		bam
+758	NCI-H1048						/nfs/cancer_trk0002/00000008/106328.bam.bai	bam bai
+758	NCI-H1092						/nfs/cancer_trk0005/00000019/68077.bam		bam
+758	NCI-H1092						/nfs/cancer_trk0004/00000012/68078.bam.bai	bam bai
+758	NCI-H1105						/nfs/cancer_trk0007/00000023/89537.bam		bam
+758	NCI-H1105						/nfs/cancer_trk0006/00000022/89538.bam.bai	bam bai
+758	NCI-H1155						/nfs/cancer_trk0005/00000019/69601.bam		bam
+758	NCI-H1155						/nfs/cancer_trk0001/00000005/69602.bam.bai	bam bai
+758	NCI-H128						/nfs/cancer_trk0009/00000027/99863.bam		bam
+758	NCI-H128						/nfs/cancer_trk0007/00000023/99864.bam.bai	bam bai
+758	NCI-H1299						/nfs/cancer_trk0005/00000019/77829.bam		bam
+758	NCI-H1299						/nfs/cancer_trk0005/00000019/77830.bam.bai	bam bai
+758	NCI-H1355						/nfs/cancer_trk0005/00000019/77831.bam		bam
+758	NCI-H1355						/nfs/cancer_trk0005/00000019/77832.bam.bai	bam bai
+758	NCI-H1395						/nfs/cancer_trk0005/00000019/77819.bam		bam
+758	NCI-H1395						/nfs/cancer_trk0005/00000019/77820.bam.bai	bam bai
+758	NCI-H1437						/nfs/cancer_trk0005/00000019/77823.bam		bam
+758	NCI-H1437						/nfs/cancer_trk0005/00000019/77824.bam.bai	bam bai
+758	NCI-H146						/nfs/cancer_trk0007/00000024/87711.bam		bam
+758	NCI-H146						/nfs/cancer_trk0007/00000023/87712.bam.bai	bam bai
+758	NCI-H1568						/nfs/cancer_trk0007/00000023/87669.bam		bam
+758	NCI-H1568						/nfs/cancer_trk0006/00000022/87670.bam.bai	bam bai
+758	NCI-H1573						/nfs/cancer_trk0005/00000019/69603.bam		bam
+758	NCI-H1573						/nfs/cancer_trk0001/00000005/69604.bam.bai	bam bai
+758	NCI-H1581						/nfs/cancer_trk0005/00000019/68085.bam		bam
+758	NCI-H1581						/nfs/cancer_trk0004/00000012/68086.bam.bai	bam bai
+758	NCI-H1623						/nfs/cancer_trk0005/00000019/68073.bam		bam
+758	NCI-H1623						/nfs/cancer_trk0004/00000012/68074.bam.bai	bam bai
+758	NCI-H1648						/nfs/cancer_trk0015/00000052/307909.bam		bam
+758	NCI-H1648						/nfs/cancer_trk0001/00000003/307910.bam.bai	bam bai
+758	NCI-H1650						/nfs/cancer_trk0005/00000019/77825.bam		bam
+758	NCI-H1650						/nfs/cancer_trk0005/00000019/77826.bam.bai	bam bai
+758	NCI-H1651						/nfs/cancer_trk0007/00000024/87689.bam		bam
+758	NCI-H1651						/nfs/cancer_trk0006/00000022/87690.bam.bai	bam bai
+758	NCI-H1666						/nfs/cancer_trk0005/00000019/77835.bam		bam
+758	NCI-H1666						/nfs/cancer_trk0005/00000019/77836.bam.bai	bam bai
+758	NCI-H1688						/nfs/cancer_trk0007/00000023/87671.bam		bam
+758	NCI-H1688						/nfs/cancer_trk0006/00000022/87672.bam.bai	bam bai
+758	NCI-H1693						/nfs/cancer_trk0007/00000023/87697.bam		bam
+758	NCI-H1693						/nfs/cancer_trk0006/00000022/87698.bam.bai	bam bai
+758	NCI-H1694						/nfs/cancer_trk0005/00000019/69559.bam		bam
+758	NCI-H1694						/nfs/cancer_trk0001/00000003/69560.bam.bai	bam bai
+758	NCI-H1703						/nfs/cancer_trk0005/00000019/77837.bam		bam
+758	NCI-H1703						/nfs/cancer_trk0005/00000019/77838.bam.bai	bam bai
+758	NCI-H1734						/nfs/cancer_trk0007/00000024/89545.bam		bam
+758	NCI-H1734						/nfs/cancer_trk0006/00000022/89546.bam.bai	bam bai
+758	NCI-H1755						/nfs/cancer_trk0002/00000008/73247.bam		bam
+758	NCI-H1755						/nfs/cancer_trk0001/00000003/73248.bam.bai	bam bai
+758	NCI-H1770						/nfs/cancer_trk0005/00000019/69569.bam		bam
+758	NCI-H1770						/nfs/cancer_trk0001/00000003/69570.bam.bai	bam bai
+758	NCI-H1781						/nfs/cancer_trk0007/00000024/87679.bam		bam
+758	NCI-H1781						/nfs/cancer_trk0006/00000022/87680.bam.bai	bam bai
+758	NCI-H1792						/nfs/cancer_trk0005/00000019/77833.bam		bam
+758	NCI-H1792						/nfs/cancer_trk0005/00000019/77834.bam.bai	bam bai
+758	NCI-H1793						/nfs/cancer_trk0005/00000019/69599.bam		bam
+758	NCI-H1793						/nfs/cancer_trk0001/00000003/69600.bam.bai	bam bai
+758	NCI-H1838						/nfs/cancer_trk0005/00000019/80029.bam		bam
+758	NCI-H1838						/nfs/cancer_trk0005/00000019/80030.bam.bai	bam bai
+758	NCI-H1869						/nfs/cancer_trk0005/00000019/69627.bam		bam
+758	NCI-H1869						/nfs/cancer_trk0001/00000003/69628.bam.bai	bam bai
+758	NCI-H1915						/nfs/cancer_trk0007/00000023/89567.bam		bam
+758	NCI-H1915						/nfs/cancer_trk0006/00000022/89568.bam.bai	bam bai
+758	NCI-H196						/nfs/cancer_trk0007/00000023/89569.bam		bam
+758	NCI-H196						/nfs/cancer_trk0006/00000022/89570.bam.bai	bam bai
+758	NCI-H1963						/nfs/cancer_trk0007/00000024/89517.bam		bam
+758	NCI-H1963						/nfs/cancer_trk0007/00000023/89518.bam.bai	bam bai
+758	NCI-H1975						/nfs/cancer_trk0005/00000019/77839.bam		bam
+758	NCI-H1975						/nfs/cancer_trk0005/00000019/77840.bam.bai	bam bai
+758	NCI-H1993						/nfs/cancer_trk0005/00000019/69605.bam		bam
+758	NCI-H1993						/nfs/cancer_trk0001/00000005/69606.bam.bai	bam bai
+758	NCI-H2009						/nfs/cancer_trk0005/00000019/80035.bam		bam
+758	NCI-H2009						/nfs/cancer_trk0005/00000019/80036.bam.bai	bam bai
+758	NCI-H2023						/nfs/cancer_trk0007/00000023/89571.bam		bam
+758	NCI-H2023						/nfs/cancer_trk0007/00000023/89572.bam.bai	bam bai
+758	NCI-H2029						/nfs/cancer_trk0007/00000024/89529.bam		bam
+758	NCI-H2029						/nfs/cancer_trk0007/00000023/89530.bam.bai	bam bai
+758	NCI-H2030						/nfs/cancer_trk0005/00000019/80031.bam		bam
+758	NCI-H2030						/nfs/cancer_trk0005/00000019/80032.bam.bai	bam bai
+758	NCI-H2052						/nfs/cancer_trk0005/00000019/69563.bam		bam
+758	NCI-H2052						/nfs/cancer_trk0001/00000003/69564.bam.bai	bam bai
+758	NCI-H2081						/nfs/cancer_trk0007/00000024/89547.bam		bam
+758	NCI-H2081						/nfs/cancer_trk0006/00000022/89548.bam.bai	bam bai
+758	NCI-H2085						/nfs/cancer_trk0007/00000023/89579.bam		bam
+758	NCI-H2085						/nfs/cancer_trk0007/00000023/89580.bam.bai	bam bai
+758	NCI-H2087						/nfs/cancer_trk0005/00000019/69573.bam		bam
+758	NCI-H2087						/nfs/cancer_trk0001/00000003/69574.bam.bai	bam bai
+758	NCI-H209						/nfs/cancer_trk0009/00000029/89519.bam		bam
+758	NCI-H209						/nfs/cancer_trk0007/00000024/89520.bam.bai	bam bai
+758	NCI-H211						/nfs/cancer_trk0007/00000023/89573.bam		bam
+758	NCI-H211						/nfs/cancer_trk0007/00000023/89574.bam.bai	bam bai
+758	NCI-H2122						/nfs/cancer_trk0005/00000019/77827.bam		bam
+758	NCI-H2122						/nfs/cancer_trk0005/00000019/77828.bam.bai	bam bai
+758	NCI-H2126						/nfs/cancer_trk0001/00000005/73237.bam		bam
+758	NCI-H2126						/nfs/cancer_trk0001/00000003/73238.bam.bai	bam bai
+758	NCI-H2170						/nfs/cancer_trk0001/00000005/80223.bam		bam
+758	NCI-H2170						/nfs/cancer_trk0001/00000003/80224.bam.bai	bam bai
+758	NCI-H2171						/nfs/cancer_trk0007/00000024/89541.bam		bam
+758	NCI-H2171						/nfs/cancer_trk0006/00000022/89542.bam.bai	bam bai
+758	NCI-H2196						/nfs/cancer_trk0007/00000023/87717.bam		bam
+758	NCI-H2196						/nfs/cancer_trk0007/00000023/87718.bam.bai	bam bai
+758	NCI-H2228						/nfs/cancer_trk0002/00000008/80225.bam		bam
+758	NCI-H2228						/nfs/cancer_trk0001/00000003/80226.bam.bai	bam bai
+758	NCI-H226						/nfs/cancer_trk0003/00000009/80229.bam		bam
+758	NCI-H226						/nfs/cancer_trk0001/00000003/80230.bam.bai	bam bai
+758	NCI-H2291						/nfs/cancer_trk0007/00000024/87705.bam		bam
+758	NCI-H2291						/nfs/cancer_trk0007/00000023/87706.bam.bai	bam bai
+758	NCI-H23							/nfs/cancer_trk0003/00000009/80231.bam		bam
+758	NCI-H23							/nfs/cancer_trk0001/00000003/80232.bam.bai	bam bai
+758	NCI-H2342						/nfs/cancer_trk0007/00000024/87699.bam		bam
+758	NCI-H2342						/nfs/cancer_trk0006/00000022/87700.bam.bai	bam bai
+758	NCI-H2347						/nfs/cancer_trk0007/00000024/98486.bam		bam
+758	NCI-H2347						/nfs/cancer_trk0003/00000009/98487.bam.bai	bam bai
+758	NCI-H2405						/nfs/cancer_trk0005/00000019/68075.bam		bam
+758	NCI-H2405						/nfs/cancer_trk0004/00000012/68076.bam.bai	bam bai
+758	NCI-H2444						/nfs/cancer_trk0007/00000023/89577.bam		bam
+758	NCI-H2444						/nfs/cancer_trk0006/00000022/89578.bam.bai	bam bai
+758	NCI-H2452						/nfs/cancer_trk0006/00000022/86773.bam		bam
+758	NCI-H2452						/nfs/cancer_trk0006/00000022/86774.bam.bai	bam bai
+758	NCI-H28							/nfs/cancer_trk0007/00000024/95133.bam		bam
+758	NCI-H28							/nfs/cancer_trk0006/00000022/95134.bam.bai	bam bai
+758	NCI-H292						/nfs/cancer_trk0002/00000008/80227.bam		bam
+758	NCI-H292						/nfs/cancer_trk0001/00000003/80228.bam.bai	bam bai
+758	NCI-H322M						/nfs/cancer_trk0007/00000024/87709.bam		bam
+758	NCI-H322M						/nfs/cancer_trk0007/00000023/87710.bam.bai	bam bai
+758	NCI-H345						/nfs/cancer_trk0011/00000039/106329.bam		bam
+758	NCI-H345						/nfs/cancer_trk0002/00000008/106330.bam.bai	bam bai
+758	NCI-H358						/nfs/cancer_trk0005/00000019/80483.bam		bam
+758	NCI-H358						/nfs/cancer_trk0003/00000009/80484.bam.bai	bam bai
+758	NCI-H378						/nfs/cancer_trk0005/00000019/69561.bam		bam
+758	NCI-H378						/nfs/cancer_trk0001/00000003/69562.bam.bai	bam bai
+758	NCI-H441						/nfs/cancer_trk0005/00000018/80481.bam		bam
+758	NCI-H441						/nfs/cancer_trk0003/00000009/80482.bam.bai	bam bai
+758	NCI-H446						/nfs/cancer_trk0007/00000024/87701.bam		bam
+758	NCI-H446						/nfs/cancer_trk0006/00000022/87702.bam.bai	bam bai
+758	NCI-H460						/nfs/cancer_trk0005/00000017/80475.bam		bam
+758	NCI-H460						/nfs/cancer_trk0003/00000009/80476.bam.bai	bam bai
+758	NCI-H510A						/nfs/cancer_trk0007/00000024/87687.bam		bam
+758	NCI-H510A						/nfs/cancer_trk0006/00000022/87688.bam.bai	bam bai
+758	NCI-H520						/nfs/cancer_trk0005/00000017/80479.bam		bam
+758	NCI-H520						/nfs/cancer_trk0003/00000009/80480.bam.bai	bam bai
+758	NCI-H522						/nfs/cancer_trk0005/00000018/80477.bam		bam
+758	NCI-H522						/nfs/cancer_trk0003/00000009/80478.bam.bai	bam bai
+758	NCI-H526						/nfs/cancer_trk0001/00000005/73239.bam		bam
+758	NCI-H526						/nfs/cancer_trk0001/00000003/73240.bam.bai	bam bai
+758	NCI-H596						/nfs/cancer_trk0002/00000008/73245.bam		bam
+758	NCI-H596						/nfs/cancer_trk0001/00000003/73246.bam.bai	bam bai
+758	NCI-H630						/nfs/cancer_trk0011/00000037/106446.bam		bam
+758	NCI-H630						/nfs/cancer_trk0004/00000012/106447.bam.bai	bam bai
+758	NCI-H64							/nfs/cancer_trk0007/00000024/87703.bam		bam
+758	NCI-H64							/nfs/cancer_trk0007/00000023/87704.bam.bai	bam bai
+758	NCI-H647						/nfs/cancer_trk0007/00000024/86657.bam		bam
+758	NCI-H647						/nfs/cancer_trk0006/00000022/86658.bam.bai	bam bai
+758	NCI-H650						/nfs/cancer_trk0005/00000019/69571.bam		bam
+758	NCI-H650						/nfs/cancer_trk0001/00000003/69572.bam.bai	bam bai
+758	NCI-H661						/nfs/cancer_trk0004/00000012/80471.bam		bam
+758	NCI-H661						/nfs/cancer_trk0003/00000009/80472.bam.bai	bam bai
+758	NCI-H69							/nfs/cancer_trk0002/00000008/73241.bam		bam
+758	NCI-H69							/nfs/cancer_trk0001/00000003/73242.bam.bai	bam bai
+758	NCI-H716						/nfs/cancer_trk0005/00000019/69653.bam		bam
+758	NCI-H716						/nfs/cancer_trk0001/00000003/69654.bam.bai	bam bai
+758	NCI-H720						/nfs/cancer_trk0011/00000038/106325.bam		bam
+758	NCI-H720						/nfs/cancer_trk0002/00000008/106326.bam.bai	bam bai
+758	NCI-H727						/nfs/cancer_trk0009/00000027/102550.bam		bam
+758	NCI-H727						/nfs/cancer_trk0001/00000004/102551.bam.bai	bam bai
+758	NCI-H747						/nfs/cancer_trk0005/00000019/68136.bam		bam
+758	NCI-H747						/nfs/cancer_trk0004/00000012/68137.bam.bai	bam bai
+758	NCI-H748						/nfs/cancer_trk0007/00000024/87719.bam		bam
+758	NCI-H748						/nfs/cancer_trk0006/00000022/87720.bam.bai	bam bai
+758	NCI-H810						/nfs/cancer_trk0005/00000019/80487.bam		bam
+758	NCI-H810						/nfs/cancer_trk0003/00000009/80488.bam.bai	bam bai
+758	NCI-H82							/nfs/cancer_trk0002/00000008/73243.bam		bam
+758	NCI-H82							/nfs/cancer_trk0001/00000003/73244.bam.bai	bam bai
+758	NCI-H838						/nfs/cancer_trk0011/00000038/106343.bam		bam
+758	NCI-H838						/nfs/cancer_trk0002/00000008/106344.bam.bai	bam bai
+758	NCI-N87							/nfs/cancer_trk0005/00000019/68138.bam		bam
+758	NCI-N87							/nfs/cancer_trk0004/00000012/68139.bam.bai	bam bai
+758	NCI-SNU-1						/nfs/cancer_trk0005/00000019/68126.bam		bam
+758	NCI-SNU-1						/nfs/cancer_trk0004/00000012/68127.bam.bai	bam bai
+758	NCI-SNU-16						/nfs/cancer_trk0005/00000019/68130.bam		bam
+758	NCI-SNU-16						/nfs/cancer_trk0003/00000010/68131.bam.bai	bam bai
+758	NCI-SNU-5						/nfs/cancer_trk0005/00000019/68128.bam		bam
+758	NCI-SNU-5						/nfs/cancer_trk0004/00000012/68129.bam.bai	bam bai
+758	NH-12							/nfs/cancer_trk0011/00000037/106444.bam		bam
+758	NH-12							/nfs/cancer_trk0001/00000003/106445.bam.bai	bam bai
+758	NKM-1							/nfs/cancer_trk0010/00000033/104477.bam		bam
+758	NKM-1							/nfs/cancer_trk0009/00000030/104478.bam.bai	bam bai
+758	NMC-G1							/nfs/cancer_trk0010/00000031/103943.bam		bam
+758	NMC-G1							/nfs/cancer_trk0009/00000030/103944.bam.bai	bam bai
+758	no-10							/nfs/cancer_trk0010/00000031/103947.bam		bam
+758	no-10							/nfs/cancer_trk0009/00000030/103948.bam.bai	bam bai
+758	no-11							/nfs/cancer_trk0010/00000031/103945.bam		bam
+758	no-11							/nfs/cancer_trk0009/00000030/103946.bam.bai	bam bai
+758	NOMO-1							/nfs/cancer_trk0010/00000031/104055.bam		bam
+758	NOMO-1							/nfs/cancer_trk0009/00000030/104056.bam.bai	bam bai
+758	NOS-1							/nfs/cancer_trk0010/00000031/103921.bam		bam
+758	NOS-1							/nfs/cancer_trk0009/00000030/103922.bam.bai	bam bai
+758	NTERA-2cl-D1						/nfs/cancer_trk0073/00000283/1733040.bam	bam
+758	NTERA-2cl-D1						/nfs/cancer_trk0073/00000283/1733041.bam.bai	bam bai
+758	NUGC-3							/nfs/cancer_trk0005/00000019/68134.bam		bam
+758	NUGC-3							/nfs/cancer_trk0004/00000012/68135.bam.bai	bam bai
+758	NY							/nfs/cancer_trk0010/00000031/103919.bam		bam
+758	NY							/nfs/cancer_trk0007/00000024/103920.bam.bai	bam bai
+758	OAW-28							/nfs/cancer_trk0011/00000038/106902.bam		bam
+758	OAW-28							/nfs/cancer_trk0010/00000031/106903.bam.bai	bam bai
+758	OAW-42							/nfs/cancer_trk0010/00000033/108440.bam		bam
+758	OAW-42							/nfs/cancer_trk0009/00000027/108441.bam.bai	bam bai
+758	OC-314							/nfs/cancer_trk0011/00000038/106886.bam		bam
+758	OC-314							/nfs/cancer_trk0010/00000031/106887.bam.bai	bam bai
+758	OCI-AML2						/nfs/cancer_trk0011/00000037/104431.bam		bam
+758	OCI-AML2						/nfs/cancer_trk0009/00000030/104432.bam.bai	bam bai
+758	OCI-AML3						/nfs/cancer_trk0015/00000052/307907.bam		bam
+758	OCI-AML3						/nfs/cancer_trk0001/00000003/307908.bam.bai	bam bai
+758	OCUB-M							/nfs/cancer_trk0010/00000031/103885.bam		bam
+758	OCUB-M							/nfs/cancer_trk0009/00000030/103886.bam.bai	bam bai
+758	OE19							/nfs/cancer_trk0005/00000019/68156.bam		bam
+758	OE19							/nfs/cancer_trk0004/00000012/68157.bam.bai	bam bai
+758	OE21							/nfs/cancer_trk0007/00000023/88551.bam		bam
+758	OE21							/nfs/cancer_trk0006/00000022/88552.bam.bai	bam bai
+758	OE33							/nfs/cancer_trk0010/00000031/103917.bam		bam
+758	OE33							/nfs/cancer_trk0002/00000008/103918.bam.bai	bam bai
+758	OMC-1							/nfs/cancer_trk0007/00000024/87753.bam		bam
+758	OMC-1							/nfs/cancer_trk0007/00000023/87754.bam.bai	bam bai
+758	ONS-76							/nfs/cancer_trk0005/00000019/68087.bam		bam
+758	ONS-76							/nfs/cancer_trk0004/00000012/68088.bam.bai	bam bai
+758	OSC-19							/nfs/cancer_trk0011/00000039/106323.bam		bam
+758	OSC-19							/nfs/cancer_trk0002/00000008/106324.bam.bai	bam bai
+758	OSC-20							/nfs/cancer_trk0007/00000023/87597.bam		bam
+758	OSC-20							/nfs/cancer_trk0007/00000023/87598.bam.bai	bam bai
+758	OS-RC-2							/nfs/cancer_trk0010/00000033/106448.bam		bam
+758	OS-RC-2							/nfs/cancer_trk0002/00000008/106449.bam.bai	bam bai
+758	OVCAR-3							/nfs/cancer_trk0010/00000033/106880.bam		bam
+758	OVCAR-3							/nfs/cancer_trk0010/00000031/106881.bam.bai	bam bai
+758	OVCAR-4							/nfs/cancer_trk0011/00000038/106882.bam		bam
+758	OVCAR-4							/nfs/cancer_trk0010/00000031/106883.bam.bai	bam bai
+758	OVCAR-5							/nfs/cancer_trk0005/00000019/68104.bam		bam
+758	OVCAR-5							/nfs/cancer_trk0004/00000012/68105.bam.bai	bam bai
+758	OVCAR-8							/nfs/cancer_trk0010/00000033/106884.bam		bam
+758	OVCAR-8							/nfs/cancer_trk0010/00000031/106885.bam.bai	bam bai
+758	OVISE							/nfs/cancer_trk0007/00000023/87599.bam		bam
+758	OVISE							/nfs/cancer_trk0007/00000023/87600.bam.bai	bam bai
+758	OVKATE							/nfs/cancer_trk0007/00000023/89549.bam		bam
+758	OVKATE							/nfs/cancer_trk0006/00000022/89550.bam.bai	bam bai
+758	OVMIU							/nfs/cancer_trk0007/00000023/89551.bam		bam
+758	OVMIU							/nfs/cancer_trk0007/00000023/89552.bam.bai	bam bai
+758	P12-ICHIKAWA						/nfs/cancer_trk0024/00000087/307923.bam		bam
+758	P12-ICHIKAWA						/nfs/cancer_trk0001/00000004/307924.bam.bai	bam bai
+758	P31-FUJ							/nfs/cancer_trk0011/00000037/105775.bam		bam
+758	P31-FUJ							/nfs/cancer_trk0002/00000006/105776.bam.bai	bam bai
+758	P32-ISH							/nfs/cancer_trk0007/00000023/88563.bam		bam
+758	P32-ISH							/nfs/cancer_trk0006/00000022/88564.bam.bai	bam bai
+758	PA-1							/nfs/cancer_trk0005/00000019/69655.bam		bam
+758	PA-1							/nfs/cancer_trk0001/00000005/69656.bam.bai	bam bai
+758	PANC-03-27						/nfs/cancer_trk0011/00000037/106460.bam		bam
+758	PANC-03-27						/nfs/cancer_trk0002/00000008/106461.bam.bai	bam bai
+758	PANC-08-13						/nfs/cancer_trk0011/00000037/106462.bam		bam
+758	PANC-08-13						/nfs/cancer_trk0005/00000017/106463.bam.bai	bam bai
+758	PANC-10-05						/nfs/cancer_trk0010/00000033/106464.bam		bam
+758	PANC-10-05						/nfs/cancer_trk0002/00000008/106465.bam.bai	bam bai
+758	PA-TU-8988T						/nfs/cancer_trk0007/00000023/89581.bam		bam
+758	PA-TU-8988T						/nfs/cancer_trk0006/00000022/89582.bam.bai	bam bai
+758	PC-14							/nfs/cancer_trk0007/00000023/87707.bam		bam
+758	PC-14							/nfs/cancer_trk0006/00000022/87708.bam.bai	bam bai
+758	PC-3							/nfs/cancer_trk0024/00000087/272282.bam		bam
+758	PC-3							/nfs/cancer_trk0004/00000016/272283.bam.bai	bam bai
+758	PC-3_JPC-3						/nfs/cancer_trk0007/00000023/89575.bam		bam
+758	PC-3_JPC-3						/nfs/cancer_trk0007/00000023/89576.bam.bai	bam bai
+758	PCI-15A							/nfs/cancer_trk0011/00000038/106876.bam		bam
+758	PCI-15A							/nfs/cancer_trk0010/00000031/106877.bam.bai	bam bai
+758	PCI-30							/nfs/cancer_trk0011/00000037/106842.bam		bam
+758	PCI-30							/nfs/cancer_trk0009/00000030/106843.bam.bai	bam bai
+758	PCI-38							/nfs/cancer_trk0011/00000038/106878.bam		bam
+758	PCI-38							/nfs/cancer_trk0010/00000031/106879.bam.bai	bam bai
+758	PCI-4B							/nfs/cancer_trk0011/00000037/108436.bam		bam
+758	PCI-4B							/nfs/cancer_trk0009/00000027/108437.bam.bai	bam bai
+758	PCI-6A							/nfs/cancer_trk0011/00000037/106840.bam		bam
+758	PCI-6A							/nfs/cancer_trk0009/00000030/106841.bam.bai	bam bai
+758	PE_CA-PJ15						/nfs/cancer_trk0007/00000023/90903.bam		bam
+758	PE_CA-PJ15						/nfs/cancer_trk0005/00000017/90904.bam.bai	bam bai
+758	PFSK-1							/nfs/cancer_trk0024/00000087/272280.bam		bam
+758	PFSK-1							/nfs/cancer_trk0004/00000016/272281.bam.bai	bam bai
+758	PL18							/nfs/cancer_trk0011/00000037/106430.bam		bam
+758	PL18							/nfs/cancer_trk0005/00000017/106431.bam.bai	bam bai
+758	PSN1							/nfs/cancer_trk0010/00000033/106456.bam		bam
+758	PSN1							/nfs/cancer_trk0005/00000017/106457.bam.bai	bam bai
+758	QIMR-WIL						/nfs/cancer_trk0027/00000094/307927.bam		bam
+758	QIMR-WIL						/nfs/cancer_trk0001/00000005/307928.bam.bai	bam bai
+758	Raji							/nfs/cancer_trk0010/00000031/104075.bam		bam
+758	Raji							/nfs/cancer_trk0007/00000024/104076.bam.bai	bam bai
+758	Ramos-2G6-4C10						/nfs/cancer_trk0010/00000033/104057.bam		bam
+758	Ramos-2G6-4C10						/nfs/cancer_trk0007/00000024/104058.bam.bai	bam bai
+758	RCC10RGB						/nfs/cancer_trk0011/00000038/106454.bam		bam
+758	RCC10RGB						/nfs/cancer_trk0003/00000009/106455.bam.bai	bam bai
+758	RCM-1							/nfs/cancer_trk0005/00000019/69607.bam		bam
+758	RCM-1							/nfs/cancer_trk0001/00000003/69608.bam.bai	bam bai
+758	RD							/nfs/cancer_trk0009/00000030/106846.bam		bam
+758	RD							/nfs/cancer_trk0009/00000030/106847.bam.bai	bam bai
+758	REH							/nfs/cancer_trk0011/00000037/104445.bam		bam
+758	REH							/nfs/cancer_trk0009/00000030/104446.bam.bai	bam bai
+758	RERF-GC-1B						/nfs/cancer_trk0005/00000019/68176.bam		bam
+758	RERF-GC-1B						/nfs/cancer_trk0004/00000012/68177.bam.bai	bam bai
+758	RERF-LC-FM						/nfs/cancer_trk0007/00000023/87721.bam		bam
+758	RERF-LC-FM						/nfs/cancer_trk0007/00000023/87722.bam.bai	bam bai
+758	RERF-LC-MS						/nfs/cancer_trk0007/00000023/87691.bam		bam
+758	RERF-LC-MS						/nfs/cancer_trk0006/00000022/87692.bam.bai	bam bai
+758	RERF-LC-Sq1						/nfs/cancer_trk0007/00000023/87673.bam		bam
+758	RERF-LC-Sq1						/nfs/cancer_trk0006/00000022/87674.bam.bai	bam bai
+758	RF-48							/nfs/cancer_trk0009/00000030/103736.bam		bam
+758	RF-48							/nfs/cancer_trk0007/00000024/103737.bam.bai	bam bai
+758	RH-1							/nfs/cancer_trk0010/00000033/106866.bam		bam
+758	RH-1							/nfs/cancer_trk0009/00000030/106867.bam.bai	bam bai
+758	RH-41							/nfs/cancer_trk0005/00000019/68178.bam		bam
+758	RH-41							/nfs/cancer_trk0004/00000012/68179.bam.bai	bam bai
+758	RKO							/nfs/cancer_trk0005/00000019/68140.bam		bam
+758	RKO							/nfs/cancer_trk0004/00000012/68141.bam.bai	bam bai
+758	RL							/nfs/cancer_trk0011/00000038/106345.bam		bam
+758	RL							/nfs/cancer_trk0002/00000008/106346.bam.bai	bam bai
+758	RMG-I							/nfs/cancer_trk0011/00000038/106888.bam		bam
+758	RMG-I							/nfs/cancer_trk0010/00000031/106889.bam.bai	bam bai
+758	RO82-W-1						/nfs/cancer_trk0011/00000037/108442.bam		bam
+758	RO82-W-1						/nfs/cancer_trk0009/00000027/108443.bam.bai	bam bai
+758	RPMI-2650						/nfs/cancer_trk0010/00000033/106848.bam		bam
+758	RPMI-2650						/nfs/cancer_trk0007/00000024/106849.bam.bai	bam bai
+758	RPMI-6666						/nfs/cancer_trk0010/00000031/104077.bam		bam
+758	RPMI-6666						/nfs/cancer_trk0009/00000030/104078.bam.bai	bam bai
+758	RPMI-7951						/nfs/cancer_trk0012/team78/00000042/307929.bam	bam
+758	RPMI-7951						/nfs/cancer_trk0004/00000016/307930.bam.bai	bam bai
+758	RPMI-8226						/nfs/cancer_trk0010/00000031/104053.bam		bam
+758	RPMI-8226						/nfs/cancer_trk0009/00000030/104054.bam.bai	bam bai
+758	RPMI-8866						/nfs/cancer_trk0010/00000033/107029.bam		bam
+758	RPMI-8866						/nfs/cancer_trk0009/00000030/107030.bam.bai	bam bai
+758	RS4-11							/nfs/cancer_trk0010/00000031/104479.bam		bam
+758	RS4-11							/nfs/cancer_trk0009/00000030/104480.bam.bai	bam bai
+758	RT-112							/nfs/cancer_trk0027/00000094/307925.bam		bam
+758	RT-112							/nfs/cancer_trk0001/00000005/307926.bam.bai	bam bai
+758	RT4							/nfs/cancer_trk0009/00000030/103785.bam		bam
+758	RT4							/nfs/cancer_trk0009/00000030/103786.bam.bai	bam bai
+758	RVH-421							/nfs/cancer_trk0010/00000031/103867.bam		bam
+758	RVH-421							/nfs/cancer_trk0007/00000024/103868.bam.bai	bam bai
+758	RXF393							/nfs/cancer_trk0011/00000037/106434.bam		bam
+758	RXF393							/nfs/cancer_trk0002/00000008/106435.bam.bai	bam bai
+758	S-117							/nfs/cancer_trk0027/00000094/308865.bam		bam
+758	S-117							/nfs/cancer_trk0001/00000003/308866.bam.bai	bam bai
+758	SACC-83							/nfs/cancer_trk0011/00000037/106844.bam		bam
+758	SACC-83							/nfs/cancer_trk0009/00000030/106845.bam.bai	bam bai
+758	Saos-2							/nfs/cancer_trk0010/00000031/103911.bam		bam
+758	Saos-2							/nfs/cancer_trk0007/00000024/103912.bam.bai	bam bai
+758	SAS							/nfs/cancer_trk0011/00000038/106890.bam		bam
+758	SAS							/nfs/cancer_trk0010/00000031/106891.bam.bai	bam bai
+758	SBC-1							/nfs/cancer_trk0007/00000023/89543.bam		bam
+758	SBC-1							/nfs/cancer_trk0006/00000022/89544.bam.bai	bam bai
+758	SBC-5							/nfs/cancer_trk0007/00000023/87681.bam		bam
+758	SBC-5							/nfs/cancer_trk0007/00000023/87682.bam.bai	bam bai
+758	SCaBER							/nfs/cancer_trk0007/00000023/87647.bam		bam
+758	SCaBER							/nfs/cancer_trk0007/00000023/87648.bam.bai	bam bai
+758	SCC-15							/nfs/cancer_trk0011/00000038/106898.bam		bam
+758	SCC-15							/nfs/cancer_trk0010/00000031/106899.bam.bai	bam bai
+758	SCC-25							/nfs/cancer_trk0010/00000033/106896.bam		bam
+758	SCC-25							/nfs/cancer_trk0010/00000031/106897.bam.bai	bam bai
+758	SCC-3							/nfs/cancer_trk0011/00000039/106347.bam		bam
+758	SCC-3							/nfs/cancer_trk0002/00000008/106348.bam.bai	bam bai
+758	SCC-4							/nfs/cancer_trk0010/00000033/106862.bam		bam
+758	SCC-4							/nfs/cancer_trk0009/00000030/106863.bam.bai	bam bai
+758	SCC-9							/nfs/cancer_trk0011/00000038/106892.bam		bam
+758	SCC-9							/nfs/cancer_trk0010/00000031/106893.bam.bai	bam bai
+758	SCH							/nfs/cancer_trk0009/00000030/103738.bam		bam
+758	SCH							/nfs/cancer_trk0007/00000024/103739.bam.bai	bam bai
+758	SF126							/nfs/cancer_trk0009/00000030/103795.bam		bam
+758	SF126							/nfs/cancer_trk0009/00000030/103796.bam.bai	bam bai
+758	SF268							/nfs/cancer_trk0015/00000052/307917.bam		bam
+758	SF268							/nfs/cancer_trk0001/00000005/307918.bam.bai	bam bai
+758	SF539							/nfs/cancer_trk0012/team78/00000042/308307.bam	bam
+758	SF539							/nfs/cancer_trk0001/00000004/308308.bam.bai	bam bai
+758	SH-4							/nfs/cancer_trk0010/00000031/103869.bam		bam
+758	SH-4							/nfs/cancer_trk0002/00000008/103870.bam.bai	bam bai
+758	SHP-77							/nfs/cancer_trk0005/00000017/80473.bam		bam
+758	SHP-77							/nfs/cancer_trk0003/00000009/80474.bam.bai	bam bai
+758	SiHa							/nfs/cancer_trk0007/00000024/87747.bam		bam
+758	SiHa							/nfs/cancer_trk0007/00000023/87748.bam.bai	bam bai
+758	SISO							/nfs/cancer_trk0007/00000023/87617.bam		bam
+758	SISO							/nfs/cancer_trk0007/00000023/87618.bam.bai	bam bai
+758	SJRH30							/nfs/cancer_trk0011/00000037/106850.bam		bam
+758	SJRH30							/nfs/cancer_trk0009/00000030/106851.bam.bai	bam bai
+758	SJSA-1							/nfs/cancer_trk0010/00000031/103913.bam		bam
+758	SJSA-1							/nfs/cancer_trk0009/00000030/103914.bam.bai	bam bai
+758	SK-ES-1							/nfs/cancer_trk0007/00000023/89565.bam		bam
+758	SK-ES-1							/nfs/cancer_trk0006/00000022/89566.bam.bai	bam bai
+758	SKG-IIIa						/nfs/cancer_trk0007/00000023/87749.bam		bam
+758	SKG-IIIa						/nfs/cancer_trk0007/00000023/87750.bam.bai	bam bai
+758	SK-HEP-1						/nfs/cancer_trk0010/00000031/104079.bam		bam
+758	SK-HEP-1						/nfs/cancer_trk0007/00000024/104080.bam.bai	bam bai
+758	SK-LMS-1						/nfs/cancer_trk0009/00000030/106852.bam		bam
+758	SK-LMS-1						/nfs/cancer_trk0009/00000030/106853.bam.bai	bam bai
+758	SK-LU-1							/nfs/cancer_trk0005/00000019/69609.bam		bam
+758	SK-LU-1							/nfs/cancer_trk0001/00000003/69610.bam.bai	bam bai
+758	SKM-1							/nfs/cancer_trk0011/00000037/104447.bam		bam
+758	SKM-1							/nfs/cancer_trk0009/00000030/104448.bam.bai	bam bai
+758	SK-MEL-1						/nfs/cancer_trk0005/00000019/69611.bam		bam
+758	SK-MEL-1						/nfs/cancer_trk0001/00000003/69612.bam.bai	bam bai
+758	SK-MEL-2						/nfs/cancer_trk0005/00000019/68100.bam		bam
+758	SK-MEL-2						/nfs/cancer_trk0004/00000012/68101.bam.bai	bam bai
+758	SK-MEL-24						/nfs/cancer_trk0005/00000019/68142.bam		bam
+758	SK-MEL-24						/nfs/cancer_trk0004/00000012/68143.bam.bai	bam bai
+758	SK-MEL-28						/nfs/cancer_trk0005/00000019/75083.bam		bam
+758	SK-MEL-28						/nfs/cancer_trk0002/00000008/75084.bam.bai	bam bai
+758	SK-MEL-3						/nfs/cancer_trk0005/00000019/75089.bam		bam
+758	SK-MEL-3						/nfs/cancer_trk0001/00000005/75090.bam.bai	bam bai
+758	SK-MEL-30						/nfs/cancer_trk0010/00000031/103871.bam		bam
+758	SK-MEL-30						/nfs/cancer_trk0009/00000030/103872.bam.bai	bam bai
+758	SK-MES-1						/nfs/cancer_trk0005/00000019/80485.bam		bam
+758	SK-MES-1						/nfs/cancer_trk0003/00000009/80486.bam.bai	bam bai
+758	SK-MG-1							/nfs/cancer_trk0010/00000031/103949.bam		bam
+758	SK-MG-1							/nfs/cancer_trk0009/00000030/103950.bam.bai	bam bai
+758	SK-MM-2							/nfs/cancer_trk0011/00000037/104437.bam		bam
+758	SK-MM-2							/nfs/cancer_trk0009/00000030/104438.bam.bai	bam bai
+758	SK-N-AS							/nfs/cancer_trk0007/00000024/103728.bam		bam
+758	SK-N-AS							/nfs/cancer_trk0007/00000024/103729.bam.bai	bam bai
+758	SK-N-DZ							/nfs/cancer_trk0009/00000030/103767.bam		bam
+758	SK-N-DZ							/nfs/cancer_trk0009/00000030/103768.bam.bai	bam bai
+758	SK-NEP-1						/nfs/cancer_trk0011/00000037/106450.bam		bam
+758	SK-NEP-1						/nfs/cancer_trk0002/00000008/106451.bam.bai	bam bai
+758	SK-N-FI							/nfs/cancer_trk0009/00000030/103754.bam		bam
+758	SK-N-FI							/nfs/cancer_trk0009/00000030/103755.bam.bai	bam bai
+758	SK-OV-3							/nfs/cancer_trk0011/00000038/106922.bam		bam
+758	SK-OV-3							/nfs/cancer_trk0010/00000031/106923.bam.bai	bam bai
+758	SK-PN-DW						/nfs/cancer_trk0011/00000037/111513.bam		bam
+758	SK-PN-DW						/nfs/cancer_trk0001/00000005/111514.bam.bai	bam bai
+758	SK-UT-1							/nfs/cancer_trk0011/00000037/106854.bam		bam
+758	SK-UT-1							/nfs/cancer_trk0009/00000030/106855.bam.bai	bam bai
+758	SN12C							/nfs/cancer_trk0011/00000037/106436.bam		bam
+758	SN12C							/nfs/cancer_trk0002/00000008/106437.bam.bai	bam bai
+758	SNB75							/nfs/cancer_trk0010/00000033/312526.bam		bam
+758	SNB75							/nfs/cancer_trk0009/00000027/312527.bam.bai	bam bai
+758	SNU-182							/nfs/cancer_trk0007/00000023/87637.bam		bam
+758	SNU-182							/nfs/cancer_trk0006/00000022/87638.bam.bai	bam bai
+758	SNU-387							/nfs/cancer_trk0006/00000022/86723.bam		bam
+758	SNU-387							/nfs/cancer_trk0006/00000022/86724.bam.bai	bam bai
+758	SNU-398							/nfs/cancer_trk0005/00000019/68180.bam		bam
+758	SNU-398							/nfs/cancer_trk0004/00000012/68181.bam.bai	bam bai
+758	SNU-423							/nfs/cancer_trk0005/00000019/68144.bam		bam
+758	SNU-423							/nfs/cancer_trk0004/00000012/68145.bam.bai	bam bai
+758	SNU-449							/nfs/cancer_trk0005/00000019/68146.bam		bam
+758	SNU-449							/nfs/cancer_trk0004/00000012/68147.bam.bai	bam bai
+758	SNU-475							/nfs/cancer_trk0010/00000031/106337.bam		bam
+758	SNU-475							/nfs/cancer_trk0007/00000024/106338.bam.bai	bam bai
+758	SNU-C1							/nfs/cancer_trk0005/00000019/68164.bam		bam
+758	SNU-C1							/nfs/cancer_trk0004/00000012/68165.bam.bai	bam bai
+758	SNU-C2B							/nfs/cancer_trk0005/00000019/69657.bam		bam
+758	SNU-C2B							/nfs/cancer_trk0002/00000007/69658.bam.bai	bam bai
+758	SR							/nfs/cancer_trk0010/00000031/105771.bam		bam
+758	SR							/nfs/cancer_trk0002/00000006/105772.bam.bai	bam bai
+758	ST486							/nfs/cancer_trk0011/00000037/104459.bam		bam
+758	ST486							/nfs/cancer_trk0009/00000030/104460.bam.bai	bam bai
+758	SU8686							/nfs/cancer_trk0007/00000023/89563.bam		bam
+758	SU8686							/nfs/cancer_trk0007/00000023/89564.bam.bai	bam bai
+758	SU-DHL-1						/nfs/cancer_trk0010/00000031/106339.bam		bam
+758	SU-DHL-1						/nfs/cancer_trk0002/00000008/106340.bam.bai	bam bai
+758	SUIT-2							/nfs/cancer_trk0007/00000023/88557.bam		bam
+758	SUIT-2							/nfs/cancer_trk0006/00000022/88558.bam.bai	bam bai
+758	SUP-B15							/nfs/cancer_trk0010/00000033/104467.bam		bam
+758	SUP-B15							/nfs/cancer_trk0009/00000030/104468.bam.bai	bam bai
+758	SUP-B8							/nfs/cancer_trk0010/00000033/104481.bam		bam
+758	SUP-B8							/nfs/cancer_trk0009/00000030/104482.bam.bai	bam bai
+758	SUP-T1							/nfs/cancer_trk0010/00000033/104449.bam		bam
+758	SUP-T1							/nfs/cancer_trk0009/00000030/104450.bam.bai	bam bai
+758	SW1088							/nfs/cancer_trk0009/00000030/103777.bam		bam
+758	SW1088							/nfs/cancer_trk0009/00000030/103778.bam.bai	bam bai
+758	SW1116							/nfs/cancer_trk0005/00000019/69613.bam		bam
+758	SW1116							/nfs/cancer_trk0001/00000003/69614.bam.bai	bam bai
+758	SW13							/nfs/cancer_trk0011/00000038/106452.bam		bam
+758	SW13							/nfs/cancer_trk0004/00000012/106453.bam.bai	bam bai
+758	SW1417							/nfs/cancer_trk0005/00000019/68148.bam		bam
+758	SW1417							/nfs/cancer_trk0004/00000012/68149.bam.bai	bam bai
+758	SW1463							/nfs/cancer_trk0005/00000019/69659.bam		bam
+758	SW1463							/nfs/cancer_trk0002/00000006/69660.bam.bai	bam bai
+758	SW156							/nfs/cancer_trk0007/00000023/88457.bam		bam
+758	SW156							/nfs/cancer_trk0007/00000023/88458.bam.bai	bam bai
+758	SW1710							/nfs/cancer_trk0009/00000030/103779.bam		bam
+758	SW1710							/nfs/cancer_trk0009/00000030/103780.bam.bai	bam bai
+758	SW1783							/nfs/cancer_trk0009/00000030/103758.bam		bam
+758	SW1783							/nfs/cancer_trk0002/00000008/103759.bam.bai	bam bai
+758	SW1990							/nfs/cancer_trk0011/00000037/106458.bam		bam
+758	SW1990							/nfs/cancer_trk0002/00000008/106459.bam.bai	bam bai
+758	SW48							/nfs/cancer_trk0005/00000019/68150.bam		bam
+758	SW48							/nfs/cancer_trk0004/00000012/68151.bam.bai	bam bai
+758	SW620							/nfs/cancer_trk0005/00000019/68102.bam		bam
+758	SW620							/nfs/cancer_trk0004/00000012/68103.bam.bai	bam bai
+758	SW626							/nfs/cancer_trk0011/00000038/106924.bam		bam
+758	SW626							/nfs/cancer_trk0010/00000031/106925.bam.bai	bam bai
+758	SW684							/nfs/cancer_trk0011/00000037/106894.bam		bam
+758	SW684							/nfs/cancer_trk0010/00000031/106895.bam.bai	bam bai
+758	SW780							/nfs/cancer_trk0009/00000030/103787.bam		bam
+758	SW780							/nfs/cancer_trk0002/00000008/103788.bam.bai	bam bai
+758	SW837							/nfs/cancer_trk0005/00000019/68152.bam		bam
+758	SW837							/nfs/cancer_trk0004/00000012/68153.bam.bai	bam bai
+758	SW872							/nfs/cancer_trk0011/00000037/106856.bam		bam
+758	SW872							/nfs/cancer_trk0009/00000030/106857.bam.bai	bam bai
+758	SW900							/nfs/cancer_trk0005/00000019/68079.bam		bam
+758	SW900							/nfs/cancer_trk0004/00000012/68080.bam.bai	bam bai
+758	SW948							/nfs/cancer_trk0005/00000019/68154.bam		bam
+758	SW948							/nfs/cancer_trk0004/00000012/68155.bam.bai	bam bai
+758	SW954							/nfs/cancer_trk0010/00000033/104081.bam		bam
+758	SW954							/nfs/cancer_trk0009/00000030/104082.bam.bai	bam bai
+758	SW962							/nfs/cancer_trk0011/00000037/106858.bam		bam
+758	SW962							/nfs/cancer_trk0010/00000031/106859.bam.bai	bam bai
+758	SW982							/nfs/cancer_trk0011/00000037/108438.bam		bam
+758	SW982							/nfs/cancer_trk0009/00000027/108439.bam.bai	bam bai
+758	T-24							/nfs/cancer_trk0009/00000030/103789.bam		bam
+758	T-24							/nfs/cancer_trk0009/00000030/103790.bam.bai	bam bai
+758	T47D							/nfs/cancer_trk0005/00000019/68098.bam		bam
+758	T47D							/nfs/cancer_trk0004/00000012/68099.bam.bai	bam bai
+758	T98G							/nfs/cancer_trk0009/00000030/103746.bam		bam
+758	T98G							/nfs/cancer_trk0009/00000030/103747.bam.bai	bam bai
+758	TCCSUP							/nfs/cancer_trk0009/00000030/103765.bam		bam
+758	TCCSUP							/nfs/cancer_trk0009/00000030/103766.bam.bai	bam bai
+758	TC-YIK							/nfs/cancer_trk0007/00000023/87751.bam		bam
+758	TC-YIK							/nfs/cancer_trk0007/00000023/87752.bam.bai	bam bai
+758	TE-1							/nfs/cancer_trk0009/00000030/103835.bam		bam
+758	TE-1							/nfs/cancer_trk0009/00000030/103836.bam.bai	bam bai
+758	TE-10							/nfs/cancer_trk0009/00000030/103837.bam		bam
+758	TE-10							/nfs/cancer_trk0009/00000030/103838.bam.bai	bam bai
+758	TE-11							/nfs/cancer_trk0010/00000031/103925.bam		bam
+758	TE-11							/nfs/cancer_trk0009/00000030/103926.bam.bai	bam bai
+758	TE-12							/nfs/cancer_trk0009/00000030/103843.bam		bam
+758	TE-12							/nfs/cancer_trk0009/00000030/103844.bam.bai	bam bai
+758	TE-15							/nfs/cancer_trk0009/00000030/103833.bam		bam
+758	TE-15							/nfs/cancer_trk0009/00000030/103834.bam.bai	bam bai
+758	TE-441-T						/nfs/cancer_trk0011/00000036/106864.bam		bam
+758	TE-441-T						/nfs/cancer_trk0009/00000030/106865.bam.bai	bam bai
+758	TE-5							/nfs/cancer_trk0009/00000030/103829.bam		bam
+758	TE-5							/nfs/cancer_trk0007/00000024/103830.bam.bai	bam bai
+758	TE-6							/nfs/cancer_trk0009/00000030/103841.bam		bam
+758	TE-6							/nfs/cancer_trk0007/00000024/103842.bam.bai	bam bai
+758	TE-8							/nfs/cancer_trk0010/00000031/103899.bam		bam
+758	TE-8							/nfs/cancer_trk0009/00000030/103900.bam.bai	bam bai
+758	TE-9							/nfs/cancer_trk0010/00000031/103923.bam		bam
+758	TE-9							/nfs/cancer_trk0002/00000008/103924.bam.bai	bam bai
+758	TGBC11TKB						/nfs/cancer_trk0009/00000030/103740.bam		bam
+758	TGBC11TKB						/nfs/cancer_trk0007/00000024/103741.bam.bai	bam bai
+758	TGBC24TKB						/nfs/cancer_trk0011/00000037/106860.bam		bam
+758	TGBC24TKB						/nfs/cancer_trk0009/00000030/106861.bam.bai	bam bai
+758	THP-1							/nfs/cancer_trk0010/00000031/104451.bam		bam
+758	THP-1							/nfs/cancer_trk0009/00000030/104452.bam.bai	bam bai
+758	TK10							/nfs/cancer_trk0010/00000033/106438.bam		bam
+758	TK10							/nfs/cancer_trk0005/00000017/106439.bam.bai	bam bai
+758	TT2609-C02						/nfs/cancer_trk0007/00000024/87739.bam		bam
+758	TT2609-C02						/nfs/cancer_trk0007/00000023/87740.bam.bai	bam bai
+758	TUR							/nfs/cancer_trk0010/00000031/104453.bam		bam
+758	TUR							/nfs/cancer_trk0009/00000030/104454.bam.bai	bam bai
+758	U031							/nfs/cancer_trk0011/00000038/106440.bam		bam
+758	U031							/nfs/cancer_trk0004/00000016/106441.bam.bai	bam bai
+758	U-118-MG						/nfs/cancer_trk0009/00000030/103748.bam		bam
+758	U-118-MG						/nfs/cancer_trk0009/00000030/103749.bam.bai	bam bai
+758	U251							/nfs/cancer_trk0009/00000030/103756.bam		bam
+758	U251							/nfs/cancer_trk0007/00000024/103757.bam.bai	bam bai
+758	U-266							/nfs/cancer_trk0010/00000033/104427.bam		bam
+758	U-266							/nfs/cancer_trk0009/00000030/104428.bam.bai	bam bai
+758	U-2-OS							/nfs/cancer_trk0010/00000031/103915.bam		bam
+758	U-2-OS							/nfs/cancer_trk0009/00000030/103916.bam.bai	bam bai
+758	U-698-M							/nfs/cancer_trk0010/00000033/104455.bam		bam
+758	U-698-M							/nfs/cancer_trk0007/00000024/104456.bam.bai	bam bai
+758	U-87-MG							/nfs/cancer_trk0009/00000030/103750.bam		bam
+758	U-87-MG							/nfs/cancer_trk0009/00000030/103751.bam.bai	bam bai
+758	UACC-257						/nfs/cancer_trk0010/00000031/103855.bam		bam
+758	UACC-257						/nfs/cancer_trk0002/00000008/103856.bam.bai	bam bai
+758	UACC-62							/nfs/cancer_trk0010/00000031/103853.bam		bam
+758	UACC-62							/nfs/cancer_trk0009/00000030/103854.bam.bai	bam bai
+758	UACC-893						/nfs/cancer_trk0010/00000031/103887.bam		bam
+758	UACC-893						/nfs/cancer_trk0009/00000030/103888.bam.bai	bam bai
+758	UMC-11							/nfs/cancer_trk0007/00000024/89527.bam		bam
+758	UMC-11							/nfs/cancer_trk0007/00000023/89528.bam.bai	bam bai
+758	UM-UC-3							/nfs/cancer_trk0009/00000030/103769.bam		bam
+758	UM-UC-3							/nfs/cancer_trk0009/00000030/103770.bam.bai	bam bai
+758	VCaP							/nfs/cancer_trk0007/00000024/87741.bam		bam
+758	VCaP							/nfs/cancer_trk0007/00000023/87742.bam.bai	bam bai
+758	VM-CUB-1						/nfs/cancer_trk0009/00000030/103797.bam		bam
+758	VM-CUB-1						/nfs/cancer_trk0009/00000030/103798.bam.bai	bam bai
+758	WM1552C							/nfs/cancer_trk0007/00000024/87727.bam		bam
+758	WM1552C							/nfs/cancer_trk0007/00000023/87728.bam.bai	bam bai
+758	WM278							/nfs/cancer_trk0007/00000023/87725.bam		bam
+758	WM278							/nfs/cancer_trk0007/00000023/87726.bam.bai	bam bai
+758	WM35							/nfs/cancer_trk0007/00000024/87729.bam		bam
+758	WM35							/nfs/cancer_trk0007/00000023/87730.bam.bai	bam bai
+758	WSU-NHL							/nfs/cancer_trk0010/00000031/104457.bam		bam
+758	WSU-NHL							/nfs/cancer_trk0009/00000030/104458.bam.bai	bam bai
+758	YH-13							/nfs/cancer_trk0010/00000031/103951.bam		bam
+758	YH-13							/nfs/cancer_trk0009/00000030/103952.bam.bai	bam bai
+758	YKG-1							/nfs/cancer_trk0009/00000030/103752.bam		bam
+758	YKG-1							/nfs/cancer_trk0009/00000030/103753.bam.bai	bam bai
+758	YT							/nfs/cancer_trk0010/00000035/104433.bam		bam
+758	YT							/nfs/cancer_trk0009/00000030/104434.bam.bai	bam bai
+786	5637							/nfs/cancer_trk0010/00000033/108465.bam		bam
+786	5637							/nfs/cancer_trk0009/00000027/108466.bam.bai	bam bai
+786	201T							/nfs/cancer_trk0005/00000018/134352.bam		bam
+786	201T							/nfs/cancer_trk0001/00000003/134353.bam.bai	bam bai
+786	22RV1							/nfs/cancer_trk0028/00000098/307993.bam		bam
+786	22RV1							/nfs/cancer_trk0001/00000003/307994.bam.bai	bam bai
+786	451Lu							/nfs/cancer_trk0009/00000028/200589.bam		bam
+786	451Lu							/nfs/cancer_trk0006/00000021/200590.bam.bai	bam bai
+786	639-V							/nfs/cancer_trk0010/00000034/108481.bam		bam
+786	639-V							/nfs/cancer_trk0009/00000027/108482.bam.bai	bam bai
+786	647-V							/nfs/cancer_trk0009/00000027/109452.bam		bam
+786	647-V							/nfs/cancer_trk0002/00000008/109453.bam.bai	bam bai
+786	769-P							/nfs/cancer_trk0011/00000038/106397.bam		bam
+786	769-P							/nfs/cancer_trk0003/00000009/106398.bam.bai	bam bai
+786	786-0							/nfs/cancer_trk0011/00000038/106365.bam		bam
+786	786-0							/nfs/cancer_trk0002/00000008/106366.bam.bai	bam bai
+786	8305C							/nfs/cancer_trk0011/00000037/108479.bam		bam
+786	8305C							/nfs/cancer_trk0009/00000027/108480.bam.bai	bam bai
+786	8505C							/nfs/cancer_trk0004/00000012/109462.bam		bam
+786	8505C							/nfs/cancer_trk0002/00000008/109463.bam.bai	bam bai
+786	A427							/nfs/cancer_trk0013/00000046/133617.bam		bam
+786	A427							/nfs/cancer_trk0002/00000008/133618.bam.bai	bam bai
+786	ABC-1							/nfs/cancer_trk0013/00000046/133644.bam		bam
+786	ABC-1							/nfs/cancer_trk0004/00000012/133645.bam.bai	bam bai
+786	ACHN							/nfs/cancer_trk0010/00000031/106367.bam		bam
+786	ACHN							/nfs/cancer_trk0002/00000008/106368.bam.bai	bam bai
+786	ACN							/nfs/cancer_trk0024/00000087/307977.bam		bam
+786	ACN							/nfs/cancer_trk0001/00000005/307978.bam.bai	bam bai
+786	ALL-SIL							/nfs/cancer_trk0025/00000089/274491.bam		bam
+786	ALL-SIL							/nfs/cancer_trk0005/00000017/274492.bam.bai	bam bai
+786	AMO-1							/nfs/cancer_trk0006/00000020/193602.bam		bam
+786	AMO-1							/nfs/cancer_trk0003/00000010/193603.bam.bai	bam bai
+786	AN3-CA							/nfs/cancer_trk0011/00000037/108493.bam		bam
+786	AN3-CA							/nfs/cancer_trk0009/00000027/108494.bam.bai	bam bai
+786	ASH-3							/nfs/cancer_trk0013/00000046/133630.bam		bam
+786	ASH-3							/nfs/cancer_trk0002/00000008/133631.bam.bai	bam bai
+786	BB30-PBL						/nfs/cancer_trk0011/00000038/111008.bam		bam
+786	BB30-PBL						/nfs/cancer_trk0003/00000009/111009.bam.bai	bam bai
+786	BB49-EBV						/nfs/cancer_trk0011/00000036/111006.bam		bam
+786	BB49-EBV						/nfs/cancer_trk0002/00000008/111007.bam.bai	bam bai
+786	BB49-HNC						/nfs/cancer_trk0011/00000036/108467.bam		bam
+786	BB49-HNC						/nfs/cancer_trk0009/00000027/108468.bam.bai	bam bai
+786	BB65-EBV						/nfs/cancer_trk0011/00000038/111004.bam		bam
+786	BB65-EBV						/nfs/cancer_trk0002/00000007/111005.bam.bai	bam bai
+786	BB65-RCC						/nfs/cancer_trk0011/00000036/108469.bam		bam
+786	BB65-RCC						/nfs/cancer_trk0009/00000030/108470.bam.bai	bam bai
+786	BCPAP							/nfs/cancer_trk0012/team78/00000042/108501.bam	bam
+786	BCPAP							/nfs/cancer_trk0009/00000027/108502.bam.bai	bam bai
+786	BE2-M17							/nfs/cancer_trk0010/00000033/108475.bam		bam
+786	BE2-M17							/nfs/cancer_trk0009/00000027/108476.bam.bai	bam bai
+786	BFTC-905						/nfs/cancer_trk0007/00000025/109460.bam		bam
+786	BFTC-905						/nfs/cancer_trk0002/00000008/109461.bam.bai	bam bai
+786	BFTC-909						/nfs/cancer_trk0011/00000038/106393.bam		bam
+786	BFTC-909						/nfs/cancer_trk0002/00000008/106394.bam.bai	bam bai
+786	BHT-101							/nfs/cancer_trk0009/00000030/109442.bam		bam
+786	BHT-101							/nfs/cancer_trk0002/00000008/109443.bam.bai	bam bai
+786	BHY							/nfs/cancer_trk0011/00000036/106359.bam		bam
+786	BHY							/nfs/cancer_trk0002/00000008/106360.bam.bai	bam bai
+786	BICR10							/nfs/cancer_trk0021/00000078/259723.bam		bam
+786	BICR10							/nfs/cancer_trk0014/00000051/259724.bam.bai	bam bai
+786	BICR31							/nfs/cancer_trk0005/00000017/274445.bam		bam
+786	BICR31							/nfs/cancer_trk0004/00000016/274446.bam.bai	bam bai
+786	BL-41							/nfs/cancer_trk0013/00000047/274479.bam		bam
+786	BL-41							/nfs/cancer_trk0004/00000016/274480.bam.bai	bam bai
+786	BL-70							/nfs/cancer_trk0054/00000208/863104.bam		bam
+786	BL-70							/nfs/cancer_trk0050/00000191/863105.bam.bai	bam bai
+786	BPH-1							/nfs/cancer_trk0011/00000036/108503.bam		bam
+786	BPH-1							/nfs/cancer_trk0009/00000027/108504.bam.bai	bam bai
+786	BxPC-3							/nfs/cancer_trk0011/00000038/106371.bam		bam
+786	BxPC-3							/nfs/cancer_trk0002/00000008/106372.bam.bai	bam bai
+786	C2BBe1							/nfs/cancer_trk0011/00000038/106395.bam		bam
+786	C2BBe1							/nfs/cancer_trk0002/00000008/106396.bam.bai	bam bai
+786	C-4-I							/nfs/cancer_trk0015/00000052/259733.bam		bam
+786	C-4-I							/nfs/cancer_trk0014/00000051/259734.bam.bai	bam bai
+786	Ca9-22							/nfs/cancer_trk0011/00000037/106361.bam		bam
+786	Ca9-22							/nfs/cancer_trk0004/00000012/106362.bam.bai	bam bai
+786	CADO-ES1						/nfs/cancer_trk0027/00000097/307971.bam		bam
+786	CADO-ES1						/nfs/cancer_trk0002/00000008/307972.bam.bai	bam bai
+786	CAKI-1							/nfs/cancer_trk0011/00000038/106369.bam		bam
+786	CAKI-1							/nfs/cancer_trk0002/00000008/106370.bam.bai	bam bai
+786	CAL-27							/nfs/cancer_trk0011/00000036/108497.bam		bam
+786	CAL-27							/nfs/cancer_trk0009/00000027/108498.bam.bai	bam bai
+786	CAL-33							/nfs/cancer_trk0010/00000031/106363.bam		bam
+786	CAL-33							/nfs/cancer_trk0004/00000012/106364.bam.bai	bam bai
+786	CAL-54							/nfs/cancer_trk0010/00000033/106401.bam		bam
+786	CAL-54							/nfs/cancer_trk0002/00000006/106402.bam.bai	bam bai
+786	CAL-62							/nfs/cancer_trk0011/00000037/108483.bam		bam
+786	CAL-62							/nfs/cancer_trk0009/00000027/108484.bam.bai	bam bai
+786	Calu-3							/nfs/cancer_trk0024/00000086/267294.bam		bam
+786	Calu-3							/nfs/cancer_trk0016/00000057/267295.bam.bai	bam bai
+786	Caov-3							/nfs/cancer_trk0011/00000037/106375.bam		bam
+786	Caov-3							/nfs/cancer_trk0002/00000006/106376.bam.bai	bam bai
+786	Caov-4							/nfs/cancer_trk0025/00000089/274515.bam		bam
+786	Caov-4							/nfs/cancer_trk0005/00000017/274516.bam.bai	bam bai
+786	CaR-1							/nfs/cancer_trk0011/00000036/108505.bam		bam
+786	CaR-1							/nfs/cancer_trk0009/00000027/108506.bam.bai	bam bai
+786	CCF-STTG1						/nfs/cancer_trk0005/00000017/274457.bam		bam
+786	CCF-STTG1						/nfs/cancer_trk0004/00000016/274458.bam.bai	bam bai
+786	CFPAC-1							/nfs/cancer_trk0010/00000031/106373.bam		bam
+786	CFPAC-1							/nfs/cancer_trk0002/00000008/106374.bam.bai	bam bai
+786	CHP-126							/nfs/cancer_trk0011/00000036/109446.bam		bam
+786	CHP-126							/nfs/cancer_trk0002/00000008/109447.bam.bai	bam bai
+786	CHP-134							/nfs/cancer_trk0010/00000033/108499.bam		bam
+786	CHP-134							/nfs/cancer_trk0009/00000027/108500.bam.bai	bam bai
+786	CHSA0011						/nfs/cancer_trk0045/00000167/559382.bam		bam
+786	CHSA0011						/nfs/cancer_trk0045/00000167/559381.bam.bai	bam bai
+786	CHSA0108						/nfs/cancer_trk0045/00000167/559394.bam		bam
+786	CHSA0108						/nfs/cancer_trk0045/00000167/559393.bam.bai	bam bai
+786	CHSA8926						/nfs/cancer_trk0024/00000085/267260.bam		bam
+786	CHSA8926						/nfs/cancer_trk0004/00000016/267261.bam.bai	bam bai
+786	CL-11							/nfs/cancer_trk0010/00000035/200609.bam		bam
+786	CL-11							/nfs/cancer_trk0006/00000021/200610.bam.bai	bam bai
+786	CL-34							/nfs/cancer_trk0045/00000167/559392.bam		bam
+786	CL-34							/nfs/cancer_trk0045/00000167/559391.bam.bai	bam bai
+786	CL-40							/nfs/cancer_trk0024/00000085/267248.bam		bam
+786	CL-40							/nfs/cancer_trk0014/00000051/267249.bam.bai	bam bai
+786	CMK							/nfs/cancer_trk0028/00000098/307991.bam		bam
+786	CMK							/nfs/cancer_trk0002/00000008/307992.bam.bai	bam bai
+786	CML-T1							/nfs/cancer_trk0025/00000090/274962.bam		bam
+786	CML-T1							/nfs/cancer_trk0004/00000016/274963.bam.bai	bam bai
+786	COLO-684						/nfs/cancer_trk0010/00000033/108491.bam		bam
+786	COLO-684						/nfs/cancer_trk0009/00000027/108492.bam.bai	bam bai
+786	COLO-783						/nfs/cancer_trk0010/00000031/274465.bam		bam
+786	COLO-783						/nfs/cancer_trk0005/00000017/274466.bam.bai	bam bai
+786	COLO-829-BL						/nfs/cancer_trk0011/00000036/111010.bam		bam
+786	COLO-829-BL						/nfs/cancer_trk0002/00000008/111011.bam.bai	bam bai
+786	COR-L279						/nfs/cancer_trk0025/00000089/274489.bam		bam
+786	COR-L279						/nfs/cancer_trk0005/00000017/274490.bam.bai	bam bai
+786	COR-L303						/nfs/cancer_trk0025/00000089/274493.bam		bam
+786	COR-L303						/nfs/cancer_trk0005/00000017/274494.bam.bai	bam bai
+786	COR-L311						/nfs/cancer_trk0005/00000017/274455.bam		bam
+786	COR-L311						/nfs/cancer_trk0004/00000016/274456.bam.bai	bam bai
+786	COR-L32							/nfs/cancer_trk0024/00000085/267262.bam		bam
+786	COR-L32							/nfs/cancer_trk0015/00000052/267263.bam.bai	bam bai
+786	COR-L321						/nfs/cancer_trk0024/00000085/267264.bam		bam
+786	COR-L321						/nfs/cancer_trk0015/00000052/267265.bam.bai	bam bai
+786	COR-L95							/nfs/cancer_trk0027/00000095/308312.bam		bam
+786	COR-L95							/nfs/cancer_trk0001/00000005/308313.bam.bai	bam bai
+786	CP50-EBV						/nfs/cancer_trk0011/00000036/111046.bam		bam
+786	CP50-EBV						/nfs/cancer_trk0002/00000007/111047.bam.bai	bam bai
+786	CP66-EBV						/nfs/cancer_trk0011/00000036/111002.bam		bam
+786	CP66-EBV						/nfs/cancer_trk0002/00000008/111003.bam.bai	bam bai
+786	CRO-AP3							/nfs/cancer_trk0050/00000191/863078.bam		bam
+786	CRO-AP3							/nfs/cancer_trk0050/00000191/863079.bam.bai	bam bai
+786	CS1							/nfs/cancer_trk0024/00000085/267250.bam		bam
+786	CS1							/nfs/cancer_trk0004/00000016/267251.bam.bai	bam bai
+786	CW-2							/nfs/cancer_trk0010/00000031/106391.bam		bam
+786	CW-2							/nfs/cancer_trk0002/00000008/106392.bam.bai	bam bai
+786	D-245MG							/nfs/cancer_trk0002/00000008/109448.bam		bam
+786	D-245MG							/nfs/cancer_trk0002/00000008/109449.bam.bai	bam bai
+786	D-423MG							/nfs/cancer_trk0025/00000089/274523.bam		bam
+786	D-423MG							/nfs/cancer_trk0005/00000017/274524.bam.bai	bam bai
+786	D-566MG							/nfs/cancer_trk0007/00000024/133780.bam		bam
+786	D-566MG							/nfs/cancer_trk0002/00000008/133781.bam.bai	bam bai
+786	DB							/nfs/cancer_trk0011/00000036/109444.bam		bam
+786	DB							/nfs/cancer_trk0002/00000008/109445.bam.bai	bam bai
+786	Detroit562						/nfs/cancer_trk0011/00000037/106377.bam		bam
+786	Detroit562						/nfs/cancer_trk0002/00000008/106378.bam.bai	bam bai
+786	DIFI							/nfs/cancer_trk0003/00000010/284084.bam		bam
+786	DIFI							/nfs/cancer_trk0002/00000007/284085.bam.bai	bam bai
+786	DMS-114							/nfs/cancer_trk0013/00000046/133778.bam		bam
+786	DMS-114							/nfs/cancer_trk0004/00000012/133779.bam.bai	bam bai
+786	DMS-273							/nfs/cancer_trk0003/00000010/193650.bam		bam
+786	DMS-273							/nfs/cancer_trk0003/00000010/193651.bam.bai	bam bai
+786	DMS-79							/nfs/cancer_trk0045/00000167/559400.bam		bam
+786	DMS-79							/nfs/cancer_trk0045/00000167/559399.bam.bai	bam bai
+786	DND-41							/nfs/cancer_trk0006/00000020/193610.bam		bam
+786	DND-41							/nfs/cancer_trk0003/00000010/193611.bam.bai	bam bai
+786	DOK							/nfs/cancer_trk0011/00000037/106399.bam		bam
+786	DOK							/nfs/cancer_trk0004/00000012/106400.bam.bai	bam bai
+786	DOV13							/nfs/cancer_trk0024/00000086/307945.bam		bam
+786	DOV13							/nfs/cancer_trk0001/00000005/307946.bam.bai	bam bai
+786	DSH1							/nfs/cancer_trk0012/team78/00000042/108471.bam	bam
+786	DSH1							/nfs/cancer_trk0009/00000027/108472.bam.bai	bam bai
+786	DU-145							/nfs/cancer_trk0011/00000036/109450.bam		bam
+786	DU-145							/nfs/cancer_trk0002/00000008/109451.bam.bai	bam bai
+786	EA-hy926						/nfs/cancer_trk0003/00000010/193670.bam		bam
+786	EA-hy926						/nfs/cancer_trk0003/00000010/193671.bam.bai	bam bai
+786	EBC-1							/nfs/cancer_trk0003/00000010/193606.bam		bam
+786	EBC-1							/nfs/cancer_trk0002/00000007/193607.bam.bai	bam bai
+786	EFO-21							/nfs/cancer_trk0010/00000031/106403.bam		bam
+786	EFO-21							/nfs/cancer_trk0002/00000006/106404.bam.bai	bam bai
+786	EFO-27							/nfs/cancer_trk0010/00000031/106379.bam		bam
+786	EFO-27							/nfs/cancer_trk0002/00000008/106380.bam.bai	bam bai
+786	EJM							/nfs/cancer_trk0025/00000089/274495.bam		bam
+786	EJM							/nfs/cancer_trk0005/00000017/274496.bam.bai	bam bai
+786	EMC-BAC-1						/nfs/cancer_trk0013/00000046/133744.bam		bam
+786	EMC-BAC-1						/nfs/cancer_trk0002/00000008/133745.bam.bai	bam bai
+786	EMC-BAC-2						/nfs/cancer_trk0007/00000025/133551.bam		bam
+786	EMC-BAC-2						/nfs/cancer_trk0004/00000012/133552.bam.bai	bam bai
+786	EoL-1-cell						/nfs/cancer_trk0006/00000020/193608.bam		bam
+786	EoL-1-cell						/nfs/cancer_trk0003/00000009/193609.bam.bai	bam bai
+786	ES6							/nfs/cancer_trk0003/00000010/193626.bam		bam
+786	ES6							/nfs/cancer_trk0003/00000010/193627.bam.bai	bam bai
+786	ES7-OLAR-1-2uM						/nfs/cancer_trk0013/00000046/133619.bam		bam
+786	ES7-OLAR-1-2uM						/nfs/cancer_trk0002/00000008/133620.bam.bai	bam bai
+786	ES7-OLAR-3-2uM						/nfs/cancer_trk0013/00000045/133601.bam		bam
+786	ES7-OLAR-3-2uM						/nfs/cancer_trk0002/00000008/133602.bam.bai	bam bai
+786	ES8-OLAR-2-5uM						/nfs/cancer_trk0013/00000046/133603.bam		bam
+786	ES8-OLAR-2-5uM						/nfs/cancer_trk0002/00000008/133604.bam.bai	bam bai
+786	ES8-OLAR-3-5uM						/nfs/cancer_trk0013/00000046/133621.bam		bam
+786	ES8-OLAR-3-5uM						/nfs/cancer_trk0002/00000008/133622.bam.bai	bam bai
+786	ES8-OLAR-4-5uM						/nfs/cancer_trk0007/00000024/133623.bam		bam
+786	ES8-OLAR-4-5uM						/nfs/cancer_trk0002/00000008/133624.bam.bai	bam bai
+786	ES8-OLAR-5-5uM						/nfs/cancer_trk0007/00000024/133625.bam		bam
+786	ES8-OLAR-5-5uM						/nfs/cancer_trk0002/00000008/133626.bam.bai	bam bai
+786	ESO26							/nfs/cancer_trk0024/00000085/307949.bam		bam
+786	ESO26							/nfs/cancer_trk0001/00000003/307950.bam.bai	bam bai
+786	ESO51							/nfs/cancer_trk0013/00000046/133642.bam		bam
+786	ESO51							/nfs/cancer_trk0004/00000012/133643.bam.bai	bam bai
+786	ESS-1							/nfs/cancer_trk0006/00000022/193672.bam		bam
+786	ESS-1							/nfs/cancer_trk0003/00000010/193673.bam.bai	bam bai
+786	ETK-1							/nfs/cancer_trk0011/00000036/109456.bam		bam
+786	ETK-1							/nfs/cancer_trk0002/00000008/109457.bam.bai	bam bai
+786	FADU							/nfs/cancer_trk0011/00000037/106381.bam		bam
+786	FADU							/nfs/cancer_trk0005/00000017/106382.bam.bai	bam bai
+786	Farage							/nfs/cancer_trk0024/00000085/267252.bam		bam
+786	Farage							/nfs/cancer_trk0014/00000051/267253.bam.bai	bam bai
+786	FLO-1							/nfs/cancer_trk0013/00000046/133638.bam		bam
+786	FLO-1							/nfs/cancer_trk0004/00000012/133639.bam.bai	bam bai
+786	FTC-133							/nfs/cancer_trk0009/00000027/109458.bam		bam
+786	FTC-133							/nfs/cancer_trk0002/00000008/109459.bam.bai	bam bai
+786	G-292_Clone_A141B1					/nfs/cancer_trk0024/00000085/308915.bam		bam
+786	G-292_Clone_A141B1					/nfs/cancer_trk0010/00000031/308916.bam.bai	bam bai
+786	G-401							/nfs/cancer_trk0011/00000038/106385.bam		bam
+786	G-401							/nfs/cancer_trk0002/00000006/106386.bam.bai	bam bai
+786	G-402							/nfs/cancer_trk0011/00000038/106383.bam		bam
+786	G-402							/nfs/cancer_trk0002/00000008/106384.bam.bai	bam bai
+786	GDM-1							/nfs/cancer_trk0028/00000098/307979.bam		bam
+786	GDM-1							/nfs/cancer_trk0001/00000005/307980.bam.bai	bam bai
+786	GEO							/nfs/cancer_trk0054/00000208/863098.bam		bam
+786	GEO							/nfs/cancer_trk0050/00000191/863099.bam.bai	bam bai
+786	GI-ME-N							/nfs/cancer_trk0015/00000052/152491.bam		bam
+786	GI-ME-N							/nfs/cancer_trk0007/00000025/152492.bam.bai	bam bai
+786	G-MEL							/nfs/cancer_trk0006/00000020/193600.bam		bam
+786	G-MEL							/nfs/cancer_trk0001/00000005/193601.bam.bai	bam bai
+786	GOTO							/nfs/cancer_trk0010/00000033/108485.bam		bam
+786	GOTO							/nfs/cancer_trk0010/00000033/108486.bam.bai	bam bai
+786	GP5d							/nfs/cancer_trk0011/00000039/108487.bam		bam
+786	GP5d							/nfs/cancer_trk0009/00000027/108488.bam.bai	bam bai
+786	GRANTA-519						/nfs/cancer_trk0024/00000085/259729.bam		bam
+786	GRANTA-519						/nfs/cancer_trk0014/00000051/259730.bam.bai	bam bai
+786	H2731							/nfs/cancer_trk0004/00000012/127707.bam		bam
+786	H2731							/nfs/cancer_trk0001/00000005/127708.bam.bai	bam bai
+786	H3255							/nfs/cancer_trk0011/00000039/108463.bam		bam
+786	H3255							/nfs/cancer_trk0010/00000031/108464.bam.bai	bam bai
+786	HA7-EBV							/nfs/cancer_trk0011/00000036/111060.bam		bam
+786	HA7-EBV							/nfs/cancer_trk0002/00000007/111061.bam.bai	bam bai
+786	HAL-01							/nfs/cancer_trk0027/00000097/307995.bam		bam
+786	HAL-01							/nfs/cancer_trk0001/00000005/307996.bam.bai	bam bai
+786	HC-1							/nfs/cancer_trk0007/00000024/133646.bam		bam
+786	HC-1							/nfs/cancer_trk0002/00000008/133647.bam.bai	bam bai
+786	HCC1143							/nfs/cancer_trk0025/00000089/274487.bam		bam
+786	HCC1143							/nfs/cancer_trk0005/00000017/274488.bam.bai	bam bai
+786	HCC1143-BL						/nfs/cancer_trk0011/00000038/111000.bam		bam
+786	HCC1143-BL						/nfs/cancer_trk0007/00000025/111001.bam.bai	bam bai
+786	HCC1187-BL						/nfs/cancer_trk0014/00000048/110988.bam		bam
+786	HCC1187-BL						/nfs/cancer_trk0003/00000010/110989.bam.bai	bam bai
+786	HCC1395							/nfs/cancer_trk0024/00000085/267298.bam		bam
+786	HCC1395							/nfs/cancer_trk0015/00000053/267299.bam.bai	bam bai
+786	HCC1395-BL						/nfs/cancer_trk0011/00000038/110990.bam		bam
+786	HCC1395-BL						/nfs/cancer_trk0006/00000021/110991.bam.bai	bam bai
+786	HCC1419							/nfs/cancer_trk0013/00000046/133648.bam		bam
+786	HCC1419							/nfs/cancer_trk0002/00000008/133649.bam.bai	bam bai
+786	HCC-15							/nfs/cancer_trk0013/00000046/133628.bam		bam
+786	HCC-15							/nfs/cancer_trk0002/00000008/133629.bam.bai	bam bai
+786	HCC1599-BL						/nfs/cancer_trk0011/00000039/122748.bam		bam
+786	HCC1599-BL						/nfs/cancer_trk0003/00000010/122749.bam.bai	bam bai
+786	HCC1937-BL						/nfs/cancer_trk0011/00000038/110992.bam		bam
+786	HCC1937-BL						/nfs/cancer_trk0004/00000013/110993.bam.bai	bam bai
+786	HCC1954-BL						/nfs/cancer_trk0012/team78/00000040/122750.bam	bam
+786	HCC1954-BL						/nfs/cancer_trk0003/00000010/122751.bam.bai	bam bai
+786	HCC2157-BL						/nfs/cancer_trk0011/00000036/110994.bam		bam
+786	HCC2157-BL						/nfs/cancer_trk0002/00000008/110995.bam.bai	bam bai
+786	HCC2218-BL						/nfs/cancer_trk0012/team78/00000041/122752.bam	bam
+786	HCC2218-BL						/nfs/cancer_trk0003/00000010/122753.bam.bai	bam bai
+786	HCC2998							/nfs/cancer_trk0011/00000039/108477.bam		bam
+786	HCC2998							/nfs/cancer_trk0010/00000035/108478.bam.bai	bam bai
+786	HCC-33							/nfs/cancer_trk0013/00000046/133634.bam		bam
+786	HCC-33							/nfs/cancer_trk0004/00000012/133635.bam.bai	bam bai
+786	HCC-366							/nfs/cancer_trk0005/00000018/274459.bam		bam
+786	HCC-366							/nfs/cancer_trk0004/00000016/274460.bam.bai	bam bai
+786	HCC38-BL						/nfs/cancer_trk0011/00000038/110996.bam		bam
+786	HCC38-BL						/nfs/cancer_trk0006/00000020/110997.bam.bai	bam bai
+786	HCC-78							/nfs/cancer_trk0006/00000022/193632.bam		bam
+786	HCC-78							/nfs/cancer_trk0001/00000005/193633.bam.bai	bam bai
+786	HeLa							/nfs/cancer_trk0002/00000008/109464.bam		bam
+786	HeLa							/nfs/cancer_trk0002/00000008/109465.bam.bai	bam bai
+786	Hep-3B2-1-7						/nfs/cancer_trk0009/00000029/302261.bam		bam
+786	Hep-3B2-1-7						/nfs/cancer_trk0006/00000021/302262.bam.bai	bam bai
+786	Hey							/nfs/cancer_trk0003/00000010/193666.bam		bam
+786	Hey							/nfs/cancer_trk0003/00000010/193667.bam.bai	bam bai
+786	Hs-445							/nfs/cancer_trk0013/00000045/274469.bam		bam
+786	Hs-445							/nfs/cancer_trk0005/00000017/274470.bam.bai	bam bai
+786	Hs766T							/nfs/cancer_trk0013/00000046/133632.bam		bam
+786	Hs766T							/nfs/cancer_trk0004/00000012/133633.bam.bai	bam bai
+786	Hs939-T							/nfs/cancer_trk0004/00000013/308025.bam		bam
+786	Hs939-T							/nfs/cancer_trk0001/00000005/308026.bam.bai	bam bai
+786	Hs940-T							/nfs/cancer_trk0004/00000016/274432.bam		bam
+786	Hs940-T							/nfs/cancer_trk0004/00000016/274433.bam.bai	bam bai
+786	HSC-39							/nfs/cancer_trk0024/00000085/267266.bam		bam
+786	HSC-39							/nfs/cancer_trk0015/00000052/267267.bam.bai	bam bai
+786	HSC-4							/nfs/cancer_trk0006/00000022/193652.bam		bam
+786	HSC-4							/nfs/cancer_trk0003/00000010/193653.bam.bai	bam bai
+786	HT							/nfs/cancer_trk0025/00000089/274513.bam		bam
+786	HT							/nfs/cancer_trk0005/00000017/274514.bam.bai	bam bai
+786	HT-115							/nfs/cancer_trk0005/00000017/127717.bam		bam
+786	HT-115							/nfs/cancer_trk0001/00000003/127718.bam.bai	bam bai
+786	HT55							/nfs/cancer_trk0003/00000010/193674.bam		bam
+786	HT55							/nfs/cancer_trk0003/00000010/193675.bam.bai	bam bai
+786	huH-1							/nfs/cancer_trk0024/00000085/267254.bam		bam
+786	huH-1							/nfs/cancer_trk0004/00000016/267255.bam.bai	bam bai
+786	HUH-6-clone5						/nfs/cancer_trk0054/00000208/863100.bam		bam
+786	HUH-6-clone5						/nfs/cancer_trk0050/00000191/863101.bam.bai	bam bai
+786	IOSE-364-						/nfs/cancer_trk0005/00000017/274451.bam		bam
+786	IOSE-364-						/nfs/cancer_trk0005/00000017/274452.bam.bai	bam bai
+786	IOSE-397						/nfs/cancer_trk0005/00000018/274453.bam		bam
+786	IOSE-397						/nfs/cancer_trk0004/00000016/274454.bam.bai	bam bai
+786	IOSE-523-						/nfs/cancer_trk0005/00000017/274434.bam		bam
+786	IOSE-523-						/nfs/cancer_trk0004/00000016/274435.bam.bai	bam bai
+786	IOSE-75-16SV40						/nfs/cancer_trk0004/00000016/274436.bam		bam
+786	IOSE-75-16SV40						/nfs/cancer_trk0004/00000016/274437.bam.bai	bam bai
+786	J82-EBV							/nfs/cancer_trk0061/00000222/921215.bam		bam
+786	J82-EBV							/nfs/cancer_trk0061/00000222/921216.bam.bai	bam bai
+786	JAR							/nfs/cancer_trk0015/00000052/152493.bam		bam
+786	JAR							/nfs/cancer_trk0002/00000006/152494.bam.bai	bam bai
+786	JEG-3							/nfs/cancer_trk0005/00000019/193624.bam		bam
+786	JEG-3							/nfs/cancer_trk0003/00000010/193625.bam.bai	bam bai
+786	JEKO-1							/nfs/cancer_trk0027/00000096/308041.bam		bam
+786	JEKO-1							/nfs/cancer_trk0001/00000004/308042.bam.bai	bam bai
+786	JHOS-2							/nfs/cancer_trk0024/00000085/267282.bam		bam
+786	JHOS-2							/nfs/cancer_trk0015/00000052/267283.bam.bai	bam bai
+786	JHOS-3							/nfs/cancer_trk0024/00000085/267284.bam		bam
+786	JHOS-3							/nfs/cancer_trk0003/00000009/267285.bam.bai	bam bai
+786	JHOS-4							/nfs/cancer_trk0005/00000017/274438.bam		bam
+786	JHOS-4							/nfs/cancer_trk0004/00000016/274439.bam.bai	bam bai
+786	JHU-028							/nfs/cancer_trk0045/00000167/559357.bam		bam
+786	JHU-028							/nfs/cancer_trk0045/00000167/559356.bam.bai	bam bai
+786	JHU-029							/nfs/cancer_trk0045/00000167/559386.bam		bam
+786	JHU-029							/nfs/cancer_trk0045/00000167/559385.bam.bai	bam bai
+786	JIMT-1							/nfs/cancer_trk0045/00000167/559350.bam		bam
+786	JIMT-1							/nfs/cancer_trk0045/00000167/559349.bam.bai	bam bai
+786	JJN-3							/nfs/cancer_trk0010/00000035/200613.bam		bam
+786	JJN-3							/nfs/cancer_trk0006/00000021/200614.bam.bai	bam bai
+786	JM1							/nfs/cancer_trk0007/00000025/200615.bam		bam
+786	JM1							/nfs/cancer_trk0006/00000021/200616.bam.bai	bam bai
+786	JSC-1							/nfs/cancer_trk0010/00000035/200591.bam		bam
+786	JSC-1							/nfs/cancer_trk0006/00000021/200592.bam.bai	bam bai
+786	Jurkat							/nfs/cancer_trk0027/00000096/307999.bam		bam
+786	Jurkat							/nfs/cancer_trk0001/00000005/308000.bam.bai	bam bai
+786	JURL-MK1						/nfs/cancer_trk0006/00000021/200593.bam		bam
+786	JURL-MK1						/nfs/cancer_trk0006/00000021/200594.bam.bai	bam bai
+786	K2							/nfs/cancer_trk0045/00000167/559348.bam		bam
+786	K2							/nfs/cancer_trk0045/00000167/559347.bam.bai	bam bai
+786	K-562							/nfs/cancer_trk0027/00000095/307975.bam		bam
+786	K-562							/nfs/cancer_trk0001/00000004/307976.bam.bai	bam bai
+786	KARPAS-1106P						/nfs/cancer_trk0028/00000098/308043.bam		bam
+786	KARPAS-1106P						/nfs/cancer_trk0001/00000005/308044.bam.bai	bam bai
+786	KARPAS-231						/nfs/cancer_trk0006/00000021/200595.bam		bam
+786	KARPAS-231						/nfs/cancer_trk0006/00000021/200596.bam.bai	bam bai
+786	KARPAS-299						/nfs/cancer_trk0009/00000027/122742.bam		bam
+786	KARPAS-299						/nfs/cancer_trk0003/00000010/122743.bam.bai	bam bai
+786	KARPAS-620						/nfs/cancer_trk0003/00000010/193660.bam		bam
+786	KARPAS-620						/nfs/cancer_trk0003/00000010/193661.bam.bai	bam bai
+786	KATOIII							/nfs/cancer_trk0014/00000048/133607.bam		bam
+786	KATOIII							/nfs/cancer_trk0002/00000008/133608.bam.bai	bam bai
+786	KCL-22							/nfs/cancer_trk0010/00000035/200597.bam		bam
+786	KCL-22							/nfs/cancer_trk0006/00000021/200598.bam.bai	bam bai
+786	KMH-2							/nfs/cancer_trk0027/00000095/308027.bam		bam
+786	KMH-2							/nfs/cancer_trk0001/00000003/308028.bam.bai	bam bai
+786	KM-H2							/nfs/cancer_trk0010/00000033/122746.bam		bam
+786	KM-H2							/nfs/cancer_trk0003/00000010/122747.bam.bai	bam bai
+786	KMS-11							/nfs/cancer_trk0045/00000167/559398.bam		bam
+786	KMS-11							/nfs/cancer_trk0045/00000167/559397.bam.bai	bam bai
+786	KMS-12-BM						/nfs/cancer_trk0024/00000085/259735.bam		bam
+786	KMS-12-BM						/nfs/cancer_trk0014/00000051/259736.bam.bai	bam bai
+786	KOPN-8							/nfs/cancer_trk0010/00000035/200599.bam		bam
+786	KOPN-8							/nfs/cancer_trk0006/00000021/200600.bam.bai	bam bai
+786	KP-2							/nfs/cancer_trk0045/00000167/559396.bam		bam
+786	KP-2							/nfs/cancer_trk0045/00000167/559395.bam.bai	bam bai
+786	KP-3							/nfs/cancer_trk0004/00000012/127711.bam		bam
+786	KP-3							/nfs/cancer_trk0001/00000005/127712.bam.bai	bam bai
+786	KP-N-RT-BM-1						/nfs/cancer_trk0024/00000085/267314.bam		bam
+786	KP-N-RT-BM-1						/nfs/cancer_trk0015/00000053/267315.bam.bai	bam bai
+786	KP-N-YN							/nfs/cancer_trk0014/00000048/133589.bam		bam
+786	KP-N-YN							/nfs/cancer_trk0002/00000008/133590.bam.bai	bam bai
+786	KYAE-1							/nfs/cancer_trk0027/00000096/307951.bam		bam
+786	KYAE-1							/nfs/cancer_trk0001/00000003/307952.bam.bai	bam bai
+786	KYSE-30							/nfs/cancer_trk0050/00000191/863080.bam		bam
+786	KYSE-30							/nfs/cancer_trk0050/00000191/863081.bam.bai	bam bai
+786	L-1236							/nfs/cancer_trk0006/00000022/193662.bam		bam
+786	L-1236							/nfs/cancer_trk0003/00000010/193663.bam.bai	bam bai
+786	L542							/nfs/cancer_trk0011/00000036/111058.bam		bam
+786	L542							/nfs/cancer_trk0002/00000007/111059.bam.bai	bam bai
+786	LB1047-EBV						/nfs/cancer_trk0011/00000037/111064.bam		bam
+786	LB1047-EBV						/nfs/cancer_trk0001/00000003/111065.bam.bai	bam bai
+786	LB2241-EBV						/nfs/cancer_trk0010/00000033/110980.bam		bam
+786	LB2241-EBV						/nfs/cancer_trk0001/00000003/110981.bam.bai	bam bai
+786	LB2518-EBV						/nfs/cancer_trk0011/00000038/110978.bam		bam
+786	LB2518-EBV						/nfs/cancer_trk0002/00000008/110979.bam.bai	bam bai
+786	LB373-EBV						/nfs/cancer_trk0004/00000012/111069.bam		bam
+786	LB373-EBV						/nfs/cancer_trk0001/00000003/111070.bam.bai	bam bai
+786	LB647-PBL						/nfs/cancer_trk0011/00000038/110986.bam		bam
+786	LB647-PBL						/nfs/cancer_trk0002/00000008/110987.bam.bai	bam bai
+786	LB771-PBL						/nfs/cancer_trk0011/00000038/110984.bam		bam
+786	LB771-PBL						/nfs/cancer_trk0002/00000006/110985.bam.bai	bam bai
+786	LB831-EBV						/nfs/cancer_trk0011/00000038/110982.bam		bam
+786	LB831-EBV						/nfs/cancer_trk0002/00000008/110983.bam.bai	bam bai
+786	LB996-EBV						/nfs/cancer_trk0011/00000037/111062.bam		bam
+786	LB996-EBV						/nfs/cancer_trk0002/00000007/111063.bam.bai	bam bai
+786	LB996-RCC						/nfs/cancer_trk0011/00000039/108473.bam		bam
+786	LB996-RCC						/nfs/cancer_trk0009/00000027/108474.bam.bai	bam bai
+786	LIM1215							/nfs/cancer_trk0050/00000191/863096.bam		bam
+786	LIM1215							/nfs/cancer_trk0050/00000191/863097.bam.bai	bam bai
+786	LNCaP-Clone-FGC						/nfs/cancer_trk0012/team78/00000040/133557.bam	bam
+786	LNCaP-Clone-FGC						/nfs/cancer_trk0002/00000008/133558.bam.bai	bam bai
+786	LOU-NH91						/nfs/cancer_trk0006/00000022/193656.bam		bam
+786	LOU-NH91						/nfs/cancer_trk0003/00000010/193657.bam.bai	bam bai
+786	LP-1							/nfs/cancer_trk0028/00000098/307981.bam		bam
+786	LP-1							/nfs/cancer_trk0001/00000005/307982.bam.bai	bam bai
+786	LS1034-PBL						/nfs/cancer_trk0011/00000038/110998.bam		bam
+786	LS1034-PBL						/nfs/cancer_trk0001/00000005/110999.bam.bai	bam bai
+786	M00921							/nfs/cancer_trk0027/00000094/307967.bam		bam
+786	M00921							/nfs/cancer_trk0001/00000005/307968.bam.bai	bam bai
+786	M120327_3						/nfs/cancer_trk0045/00000167/559384.bam		bam
+786	M120327_3						/nfs/cancer_trk0045/00000167/559383.bam.bai	bam bai
+786	M980513							/nfs/cancer_trk0024/00000085/307969.bam		bam
+786	M980513							/nfs/cancer_trk0001/00000005/307970.bam.bai	bam bai
+786	MC-1010							/nfs/cancer_trk0054/00000208/863102.bam		bam
+786	MC-1010							/nfs/cancer_trk0050/00000191/863103.bam.bai	bam bai
+786	MCAS							/nfs/cancer_trk0050/00000191/863076.bam		bam
+786	MCAS							/nfs/cancer_trk0050/00000191/863077.bam.bai	bam bai
+786	MCC13							/nfs/cancer_trk0050/00000191/863090.bam		bam
+786	MCC13							/nfs/cancer_trk0050/00000191/863091.bam.bai	bam bai
+786	MCC26							/nfs/cancer_trk0050/00000191/863082.bam		bam
+786	MCC26							/nfs/cancer_trk0050/00000191/863083.bam.bai	bam bai
+786	MC-CAR							/nfs/cancer_trk0013/00000046/134778.bam		bam
+786	MC-CAR							/nfs/cancer_trk0002/00000008/134779.bam.bai	bam bai
+786	MDA-MB-175-VII						/nfs/cancer_trk0011/00000039/122775.bam		bam
+786	MDA-MB-175-VII						/nfs/cancer_trk0003/00000010/122776.bam.bai	bam bai
+786	MDA-MB-330						/nfs/cancer_trk0013/00000047/274471.bam		bam
+786	MDA-MB-330						/nfs/cancer_trk0005/00000017/274472.bam.bai	bam bai
+786	MDA-MB-415						/nfs/cancer_trk0025/00000089/274503.bam		bam
+786	MDA-MB-415						/nfs/cancer_trk0004/00000016/274504.bam.bai	bam bai
+786	MDA-MB-436						/nfs/cancer_trk0001/00000004/308021.bam		bam
+786	MDA-MB-436						/nfs/cancer_trk0001/00000004/308022.bam.bai	bam bai
+786	MDA-MB-468						/nfs/cancer_trk0010/00000031/122777.bam		bam
+786	MDA-MB-468						/nfs/cancer_trk0003/00000010/122778.bam.bai	bam bai
+786	ME-1							/nfs/cancer_trk0024/00000085/259731.bam		bam
+786	ME-1							/nfs/cancer_trk0014/00000051/259732.bam.bai	bam bai
+786	MEC-1							/nfs/cancer_trk0010/00000035/200617.bam		bam
+786	MEC-1							/nfs/cancer_trk0006/00000022/200618.bam.bai	bam bai
+786	MET-2B							/nfs/cancer_trk0025/00000089/274511.bam		bam
+786	MET-2B							/nfs/cancer_trk0005/00000017/274512.bam.bai	bam bai
+786	MFE-280							/nfs/cancer_trk0015/00000052/152487.bam		bam
+786	MFE-280							/nfs/cancer_trk0001/00000004/152488.bam.bai	bam bai
+786	MFE-296							/nfs/cancer_trk0025/00000089/274519.bam		bam
+786	MFE-296							/nfs/cancer_trk0005/00000017/274520.bam.bai	bam bai
+786	MFE-319							/nfs/cancer_trk0010/00000031/127678.bam		bam
+786	MFE-319							/nfs/cancer_trk0003/00000010/127679.bam.bai	bam bai
+786	MHH-CALL-2						/nfs/cancer_trk0005/00000017/274463.bam		bam
+786	MHH-CALL-2						/nfs/cancer_trk0005/00000017/274464.bam.bai	bam bai
+786	MHH-CALL-4						/nfs/cancer_trk0013/00000045/274473.bam		bam
+786	MHH-CALL-4						/nfs/cancer_trk0004/00000016/274474.bam.bai	bam bai
+786	MHH-ES-1						/nfs/cancer_trk0025/00000090/274521.bam		bam
+786	MHH-ES-1						/nfs/cancer_trk0004/00000016/274522.bam.bai	bam bai
+786	MLMA							/nfs/cancer_trk0027/00000095/307983.bam		bam
+786	MLMA							/nfs/cancer_trk0001/00000005/307984.bam.bai	bam bai
+786	MM1S							/nfs/cancer_trk0024/00000085/307959.bam		bam
+786	MM1S							/nfs/cancer_trk0001/00000005/307960.bam.bai	bam bai
+786	MOG-G-CCM						/nfs/cancer_trk0015/00000052/259737.bam		bam
+786	MOG-G-CCM						/nfs/cancer_trk0014/00000051/259738.bam.bai	bam bai
+786	MOG-G-UVW						/nfs/cancer_trk0028/00000098/307985.bam		bam
+786	MOG-G-UVW						/nfs/cancer_trk0002/00000008/307986.bam.bai	bam bai
+786	MOLM-13							/nfs/cancer_trk0006/00000021/200601.bam		bam
+786	MOLM-13							/nfs/cancer_trk0006/00000021/200602.bam.bai	bam bai
+786	MOLM-16							/nfs/cancer_trk0045/00000167/559388.bam		bam
+786	MOLM-16							/nfs/cancer_trk0045/00000167/559387.bam.bai	bam bai
+786	MOLP-8							/nfs/cancer_trk0005/00000017/274449.bam		bam
+786	MOLP-8							/nfs/cancer_trk0004/00000016/274450.bam.bai	bam bai
+786	MOLT-16							/nfs/cancer_trk0007/00000024/133609.bam		bam
+786	MOLT-16							/nfs/cancer_trk0004/00000012/133610.bam.bai	bam bai
+786	MRK-nu-1						/nfs/cancer_trk0014/00000048/133611.bam		bam
+786	MRK-nu-1						/nfs/cancer_trk0004/00000012/133612.bam.bai	bam bai
+786	MY-M12							/nfs/cancer_trk0027/00000096/308045.bam		bam
+786	MY-M12							/nfs/cancer_trk0002/00000006/308046.bam.bai	bam bai
+786	MZ1-B							/nfs/cancer_trk0011/00000039/111018.bam		bam
+786	MZ1-B							/nfs/cancer_trk0007/00000024/111019.bam.bai	bam bai
+786	MZ7-B							/nfs/cancer_trk0011/00000038/111016.bam		bam
+786	MZ7-B							/nfs/cancer_trk0002/00000008/111017.bam.bai	bam bai
+786	NALM-6							/nfs/cancer_trk0012/team78/00000041/122779.bam	bam
+786	NALM-6							/nfs/cancer_trk0003/00000010/122780.bam.bai	bam bai
+786	NB1							/nfs/cancer_trk0027/00000096/307997.bam		bam
+786	NB1							/nfs/cancer_trk0001/00000003/307998.bam.bai	bam bai
+786	NB10							/nfs/cancer_trk0015/00000052/152489.bam		bam
+786	NB10							/nfs/cancer_trk0001/00000004/152490.bam.bai	bam bai
+786	NB-4							/nfs/cancer_trk0027/00000096/308039.bam		bam
+786	NB-4							/nfs/cancer_trk0001/00000005/308040.bam.bai	bam bai
+786	NB-TU-1-10						/nfs/cancer_trk0005/00000017/274443.bam		bam
+786	NB-TU-1-10						/nfs/cancer_trk0004/00000016/274444.bam.bai	bam bai
+786	NCC010							/nfs/cancer_trk0014/00000048/133599.bam		bam
+786	NCC010							/nfs/cancer_trk0004/00000012/133600.bam.bai	bam bai
+786	NCC021							/nfs/cancer_trk0007/00000025/133553.bam		bam
+786	NCC021							/nfs/cancer_trk0004/00000012/133554.bam.bai	bam bai
+786	NCI-BL128						/nfs/cancer_trk0011/00000038/111022.bam		bam
+786	NCI-BL128						/nfs/cancer_trk0003/00000009/111023.bam.bai	bam bai
+786	NCI-BL1395						/nfs/cancer_trk0011/00000036/111028.bam		bam
+786	NCI-BL1395						/nfs/cancer_trk0010/00000031/111029.bam.bai	bam bai
+786	NCI-BL1437						/nfs/cancer_trk0011/00000038/111030.bam		bam
+786	NCI-BL1437						/nfs/cancer_trk0002/00000008/111031.bam.bai	bam bai
+786	NCI-BL1770						/nfs/cancer_trk0011/00000039/111012.bam		bam
+786	NCI-BL1770						/nfs/cancer_trk0010/00000031/111013.bam.bai	bam bai
+786	NCI-BL2009						/nfs/cancer_trk0011/00000038/111032.bam		bam
+786	NCI-BL2009						/nfs/cancer_trk0002/00000008/111033.bam.bai	bam bai
+786	NCI-BL2052						/nfs/cancer_trk0011/00000036/111026.bam		bam
+786	NCI-BL2052						/nfs/cancer_trk0009/00000027/111027.bam.bai	bam bai
+786	NCI-BL2087						/nfs/cancer_trk0011/00000036/111034.bam		bam
+786	NCI-BL2087						/nfs/cancer_trk0002/00000008/111035.bam.bai	bam bai
+786	NCI-BL209						/nfs/cancer_trk0011/00000039/111024.bam		bam
+786	NCI-BL209						/nfs/cancer_trk0002/00000008/111025.bam.bai	bam bai
+786	NCI-BL2122						/nfs/cancer_trk0011/00000038/111014.bam		bam
+786	NCI-BL2122						/nfs/cancer_trk0002/00000008/111015.bam.bai	bam bai
+786	NCI-BL2126						/nfs/cancer_trk0014/00000048/137784.bam		bam
+786	NCI-BL2126						/nfs/cancer_trk0003/00000010/137785.bam.bai	bam bai
+786	NCI-BL2171						/nfs/cancer_trk0011/00000038/111020.bam		bam
+786	NCI-BL2171						/nfs/cancer_trk0002/00000008/111021.bam.bai	bam bai
+786	NCI-H1304						/nfs/cancer_trk0027/00000097/307973.bam		bam
+786	NCI-H1304						/nfs/cancer_trk0001/00000003/307974.bam.bai	bam bai
+786	NCI-H1341						/nfs/cancer_trk0024/00000085/267268.bam		bam
+786	NCI-H1341						/nfs/cancer_trk0004/00000016/267269.bam.bai	bam bai
+786	NCI-H1417						/nfs/cancer_trk0005/00000017/274440.bam		bam
+786	NCI-H1417						/nfs/cancer_trk0005/00000017/274441.bam.bai	bam bai
+786	NCI-H1435						/nfs/cancer_trk0025/00000089/274497.bam		bam
+786	NCI-H1435						/nfs/cancer_trk0005/00000017/274498.bam.bai	bam bai
+786	NCI-H1436						/nfs/cancer_trk0027/00000097/308318.bam		bam
+786	NCI-H1436						/nfs/cancer_trk0002/00000008/308319.bam.bai	bam bai
+786	NCI-H1563						/nfs/cancer_trk0023/00000080/312935.bam		bam
+786	NCI-H1563						/nfs/cancer_trk0010/00000034/312936.bam.bai	bam bai
+786	NCI-H1836						/nfs/cancer_trk0001/00000004/308023.bam		bam
+786	NCI-H1836						/nfs/cancer_trk0001/00000004/308024.bam.bai	bam bai
+786	NCI-H187						/nfs/cancer_trk0007/00000024/133583.bam		bam
+786	NCI-H187						/nfs/cancer_trk0004/00000012/133584.bam.bai	bam bai
+786	NCI-H1876						/nfs/cancer_trk0002/00000008/127684.bam		bam
+786	NCI-H1876						/nfs/cancer_trk0002/00000008/127685.bam.bai	bam bai
+786	NCI-H1944						/nfs/cancer_trk0010/00000035/200607.bam		bam
+786	NCI-H1944						/nfs/cancer_trk0006/00000021/200608.bam.bai	bam bai
+786	NCI-H2066						/nfs/cancer_trk0014/00000048/133567.bam		bam
+786	NCI-H2066						/nfs/cancer_trk0002/00000008/133568.bam.bai	bam bai
+786	NCI-H2110						/nfs/cancer_trk0001/00000004/308029.bam		bam
+786	NCI-H2110						/nfs/cancer_trk0001/00000004/308030.bam.bai	bam bai
+786	NCI-H2135						/nfs/cancer_trk0004/00000012/127713.bam		bam
+786	NCI-H2135						/nfs/cancer_trk0001/00000003/127714.bam.bai	bam bai
+786	NCI-H2141						/nfs/cancer_trk0025/00000088/274485.bam		bam
+786	NCI-H2141						/nfs/cancer_trk0005/00000017/274486.bam.bai	bam bai
+786	NCI-H2172						/nfs/cancer_trk0016/00000057/267256.bam		bam
+786	NCI-H2172						/nfs/cancer_trk0014/00000051/267257.bam.bai	bam bai
+786	NCI-H2227						/nfs/cancer_trk0005/00000019/137782.bam		bam
+786	NCI-H2227						/nfs/cancer_trk0001/00000003/137783.bam.bai	bam bai
+786	NCI-H250						/nfs/cancer_trk0025/00000089/274505.bam		bam
+786	NCI-H250						/nfs/cancer_trk0005/00000017/274506.bam.bai	bam bai
+786	NCI-H3122						/nfs/cancer_trk0004/00000012/127709.bam		bam
+786	NCI-H3122						/nfs/cancer_trk0001/00000003/127710.bam.bai	bam bai
+786	NCI-H508						/nfs/cancer_trk0014/00000048/133591.bam		bam
+786	NCI-H508						/nfs/cancer_trk0004/00000012/133592.bam.bai	bam bai
+786	NCI-H524						/nfs/cancer_trk0024/00000085/267302.bam		bam
+786	NCI-H524						/nfs/cancer_trk0004/00000016/267303.bam.bai	bam bai
+786	NCI-H660						/nfs/cancer_trk0025/00000089/274509.bam		bam
+786	NCI-H660						/nfs/cancer_trk0005/00000017/274510.bam.bai	bam bai
+786	NCI-H740						/nfs/cancer_trk0007/00000025/133549.bam		bam
+786	NCI-H740						/nfs/cancer_trk0003/00000011/133550.bam.bai	bam bai
+786	NCI-H820						/nfs/cancer_trk0050/00000191/863092.bam		bam
+786	NCI-H820						/nfs/cancer_trk0050/00000191/863093.bam.bai	bam bai
+786	NCI-H835						/nfs/cancer_trk0007/00000024/133587.bam		bam
+786	NCI-H835						/nfs/cancer_trk0004/00000012/133588.bam.bai	bam bai
+786	NCI-H841						/nfs/cancer_trk0007/00000025/133559.bam		bam
+786	NCI-H841						/nfs/cancer_trk0002/00000008/133560.bam.bai	bam bai
+786	NCI-H847						/nfs/cancer_trk0014/00000050/274481.bam		bam
+786	NCI-H847						/nfs/cancer_trk0005/00000017/274482.bam.bai	bam bai
+786	NCI-H929						/nfs/cancer_trk0014/00000048/133585.bam		bam
+786	NCI-H929						/nfs/cancer_trk0004/00000012/133586.bam.bai	bam bai
+786	NEC8							/nfs/cancer_trk0024/00000085/267312.bam		bam
+786	NEC8							/nfs/cancer_trk0004/00000016/267313.bam.bai	bam bai
+786	NK-92MI							/nfs/cancer_trk0028/00000098/308047.bam		bam
+786	NK-92MI							/nfs/cancer_trk0001/00000004/308048.bam.bai	bam bai
+786	NU-DUL-1						/nfs/cancer_trk0006/00000022/193664.bam		bam
+786	NU-DUL-1						/nfs/cancer_trk0003/00000010/193665.bam.bai	bam bai
+786	NUGC-4							/nfs/cancer_trk0005/00000017/274447.bam		bam
+786	NUGC-4							/nfs/cancer_trk0004/00000016/274448.bam.bai	bam bai
+786	OACM5-1							/nfs/cancer_trk0014/00000048/133595.bam		bam
+786	OACM5-1							/nfs/cancer_trk0004/00000012/133596.bam.bai	bam bai
+786	OACp4C							/nfs/cancer_trk0007/00000024/133593.bam		bam
+786	OACp4C							/nfs/cancer_trk0004/00000012/133594.bam.bai	bam bai
+786	OCI-AML5						/nfs/cancer_trk0006/00000020/193614.bam		bam
+786	OCI-AML5						/nfs/cancer_trk0003/00000010/193615.bam.bai	bam bai
+786	OCI-LY-19						/nfs/cancer_trk0006/00000022/193636.bam		bam
+786	OCI-LY-19						/nfs/cancer_trk0003/00000010/193637.bam.bai	bam bai
+786	OCI-LY7							/nfs/cancer_trk0045/00000167/559380.bam		bam
+786	OCI-LY7							/nfs/cancer_trk0045/00000167/559379.bam.bai	bam bai
+786	OCI-M1							/nfs/cancer_trk0006/00000022/193638.bam		bam
+786	OCI-M1							/nfs/cancer_trk0003/00000010/193639.bam.bai	bam bai
+786	OCUM-1							/nfs/cancer_trk0007/00000024/133563.bam		bam
+786	OCUM-1							/nfs/cancer_trk0004/00000012/133564.bam.bai	bam bai
+786	OPM-2							/nfs/cancer_trk0007/00000023/122692.bam		bam
+786	OPM-2							/nfs/cancer_trk0003/00000010/122693.bam.bai	bam bai
+786	OUMS-23							/nfs/cancer_trk0050/00000191/863084.bam		bam
+786	OUMS-23							/nfs/cancer_trk0050/00000191/863085.bam.bai	bam bai
+786	OV-17R							/nfs/cancer_trk0024/00000085/267288.bam		bam
+786	OV-17R							/nfs/cancer_trk0004/00000016/267289.bam.bai	bam bai
+786	OV-56							/nfs/cancer_trk0024/00000085/307947.bam		bam
+786	OV-56							/nfs/cancer_trk0001/00000005/307948.bam.bai	bam bai
+786	OV-7							/nfs/cancer_trk0024/00000085/267286.bam		bam
+786	OV-7							/nfs/cancer_trk0004/00000016/267287.bam.bai	bam bai
+786	OV-90							/nfs/cancer_trk0003/00000010/193628.bam		bam
+786	OV-90							/nfs/cancer_trk0003/00000010/193629.bam.bai	bam bai
+786	OVCA420							/nfs/cancer_trk0024/00000085/267290.bam		bam
+786	OVCA420							/nfs/cancer_trk0004/00000016/267291.bam.bai	bam bai
+786	OVCA433							/nfs/cancer_trk0007/00000025/200619.bam		bam
+786	OVCA433							/nfs/cancer_trk0006/00000021/200620.bam.bai	bam bai
+786	OVK-18							/nfs/cancer_trk0010/00000035/200603.bam		bam
+786	OVK-18							/nfs/cancer_trk0006/00000021/200604.bam.bai	bam bai
+786	OVTOKO							/nfs/cancer_trk0004/00000013/308031.bam		bam
+786	OVTOKO							/nfs/cancer_trk0001/00000005/308032.bam.bai	bam bai
+786	P30-OHK							/nfs/cancer_trk0027/00000097/307987.bam		bam
+786	P30-OHK							/nfs/cancer_trk0001/00000004/307988.bam.bai	bam bai
+786	PANC-02-03						/nfs/cancer_trk0024/00000085/267258.bam		bam
+786	PANC-02-03						/nfs/cancer_trk0004/00000016/267259.bam.bai	bam bai
+786	PANC-04-03						/nfs/cancer_trk0001/00000005/308033.bam		bam
+786	PANC-04-03						/nfs/cancer_trk0001/00000004/308034.bam.bai	bam bai
+786	PA-TU-8902						/nfs/cancer_trk0004/00000013/308035.bam		bam
+786	PA-TU-8902						/nfs/cancer_trk0001/00000005/308036.bam.bai	bam bai
+786	PEO1							/nfs/cancer_trk0024/00000085/267292.bam		bam
+786	PEO1							/nfs/cancer_trk0004/00000016/267293.bam.bai	bam bai
+786	PF-382							/nfs/cancer_trk0012/team78/00000041/122781.bam	bam
+786	PF-382							/nfs/cancer_trk0003/00000010/122782.bam.bai	bam bai
+786	PL-21							/nfs/cancer_trk0003/00000010/193616.bam		bam
+786	PL-21							/nfs/cancer_trk0003/00000010/193617.bam.bai	bam bai
+786	PL4							/nfs/cancer_trk0015/00000052/259725.bam		bam
+786	PL4							/nfs/cancer_trk0014/00000051/259726.bam.bai	bam bai
+786	PWR-1E							/nfs/cancer_trk0024/00000085/274483.bam		bam
+786	PWR-1E							/nfs/cancer_trk0005/00000017/274484.bam.bai	bam bai
+786	QGP-1							/nfs/cancer_trk0010/00000031/127682.bam		bam
+786	QGP-1							/nfs/cancer_trk0002/00000008/127683.bam.bai	bam bai
+786	RCC-AB							/nfs/cancer_trk0027/00000097/307955.bam		bam
+786	RCC-AB							/nfs/cancer_trk0001/00000003/307956.bam.bai	bam bai
+786	RCC-ER							/nfs/cancer_trk0013/00000046/134776.bam		bam
+786	RCC-ER							/nfs/cancer_trk0002/00000008/134777.bam.bai	bam bai
+786	RCC-FG2							/nfs/cancer_trk0007/00000024/133555.bam		bam
+786	RCC-FG2							/nfs/cancer_trk0001/00000003/133556.bam.bai	bam bai
+786	RCC-JF							/nfs/cancer_trk0025/00000090/274958.bam		bam
+786	RCC-JF							/nfs/cancer_trk0004/00000016/274959.bam.bai	bam bai
+786	RCC-JW							/nfs/cancer_trk0024/00000085/307953.bam		bam
+786	RCC-JW							/nfs/cancer_trk0001/00000005/307954.bam.bai	bam bai
+786	RCC-MF							/nfs/cancer_trk0027/00000097/307957.bam		bam
+786	RCC-MF							/nfs/cancer_trk0001/00000003/307958.bam.bai	bam bai
+786	RCH-ACV							/nfs/cancer_trk0023/00000080/307939.bam		bam
+786	RCH-ACV							/nfs/cancer_trk0001/00000005/307940.bam.bai	bam bai
+786	RC-K8							/nfs/cancer_trk0006/00000020/193622.bam		bam
+786	RC-K8							/nfs/cancer_trk0003/00000010/193623.bam.bai	bam bai
+786	RERF-LC-KJ						/nfs/cancer_trk0015/00000052/259727.bam		bam
+786	RERF-LC-KJ						/nfs/cancer_trk0014/00000051/259728.bam.bai	bam bai
+786	RH-18							/nfs/cancer_trk0015/00000052/152495.bam		bam
+786	RH-18							/nfs/cancer_trk0002/00000007/152496.bam.bai	bam bai
+786	RKN							/nfs/cancer_trk0006/00000022/193618.bam		bam
+786	RKN							/nfs/cancer_trk0003/00000010/193619.bam.bai	bam bai
+786	RL95-2							/nfs/cancer_trk0002/00000008/127690.bam		bam
+786	RL95-2							/nfs/cancer_trk0002/00000008/127691.bam.bai	bam bai
+786	ROS-50							/nfs/cancer_trk0024/00000086/267270.bam		bam
+786	ROS-50							/nfs/cancer_trk0014/00000049/267271.bam.bai	bam bai
+786	RPMI-8402						/nfs/cancer_trk0024/00000085/267304.bam		bam
+786	RPMI-8402						/nfs/cancer_trk0013/00000047/267305.bam.bai	bam bai
+786	Sarc9371						/nfs/cancer_trk0050/00000191/863088.bam		bam
+786	Sarc9371						/nfs/cancer_trk0050/00000191/863089.bam.bai	bam bai
+786	SAT							/nfs/cancer_trk0007/00000025/200611.bam		bam
+786	SAT							/nfs/cancer_trk0006/00000021/200612.bam.bai	bam bai
+786	SBC-3							/nfs/cancer_trk0010/00000035/200605.bam		bam
+786	SBC-3							/nfs/cancer_trk0006/00000021/200606.bam.bai	bam bai
+786	SCC90							/nfs/cancer_trk0045/00000167/559355.bam		bam
+786	SCC90							/nfs/cancer_trk0045/00000167/559354.bam.bai	bam bai
+786	Sci-1							/nfs/cancer_trk0023/00000080/307941.bam		bam
+786	Sci-1							/nfs/cancer_trk0004/00000016/307942.bam.bai	bam bai
+786	Set2							/nfs/cancer_trk0054/00000208/863094.bam		bam
+786	Set2							/nfs/cancer_trk0050/00000191/863095.bam.bai	bam bai
+786	SF295							/nfs/cancer_trk0005/00000018/274461.bam		bam
+786	SF295							/nfs/cancer_trk0005/00000017/274462.bam.bai	bam bai
+786	SIG-M5							/nfs/cancer_trk0024/00000085/267306.bam		bam
+786	SIG-M5							/nfs/cancer_trk0004/00000016/267307.bam.bai	bam bai
+786	SIMA							/nfs/cancer_trk0024/00000086/267300.bam		bam
+786	SIMA							/nfs/cancer_trk0015/00000053/267301.bam.bai	bam bai
+786	SK-CO-1							/nfs/cancer_trk0014/00000050/274475.bam		bam
+786	SK-CO-1							/nfs/cancer_trk0005/00000017/274476.bam.bai	bam bai
+786	SK-GT-2							/nfs/cancer_trk0014/00000048/133597.bam		bam
+786	SK-GT-2							/nfs/cancer_trk0002/00000008/133598.bam.bai	bam bai
+786	SK-GT-4							/nfs/cancer_trk0013/00000047/133573.bam		bam
+786	SK-GT-4							/nfs/cancer_trk0004/00000012/133574.bam.bai	bam bai
+786	SK-MEL-31						/nfs/cancer_trk0027/00000095/307989.bam		bam
+786	SK-MEL-31						/nfs/cancer_trk0002/00000008/307990.bam.bai	bam bai
+786	SK-MEL-5						/nfs/cancer_trk0012/team78/00000042/134782.bam	bam
+786	SK-MEL-5						/nfs/cancer_trk0002/00000008/134783.bam.bai	bam bai
+786	SKN							/nfs/cancer_trk0003/00000010/193654.bam		bam
+786	SKN							/nfs/cancer_trk0003/00000010/193655.bam.bai	bam bai
+786	SKN-3							/nfs/cancer_trk0003/00000010/193612.bam		bam
+786	SKN-3							/nfs/cancer_trk0002/00000008/193613.bam.bai	bam bai
+786	SK-N-SH							/nfs/cancer_trk0010/00000033/127688.bam		bam
+786	SK-N-SH							/nfs/cancer_trk0001/00000005/127689.bam.bai	bam bai
+786	SLVL							/nfs/cancer_trk0003/00000010/193604.bam		bam
+786	SLVL							/nfs/cancer_trk0003/00000010/193605.bam.bai	bam bai
+786	SNG-M							/nfs/cancer_trk0025/00000090/274960.bam		bam
+786	SNG-M							/nfs/cancer_trk0004/00000013/274961.bam.bai	bam bai
+786	SNU-1040						/nfs/cancer_trk0024/00000086/307961.bam		bam
+786	SNU-1040						/nfs/cancer_trk0001/00000005/307962.bam.bai	bam bai
+786	SNU-175							/nfs/cancer_trk0025/00000089/274499.bam		bam
+786	SNU-175							/nfs/cancer_trk0005/00000017/274500.bam.bai	bam bai
+786	SNU-283							/nfs/cancer_trk0025/00000090/307963.bam		bam
+786	SNU-283							/nfs/cancer_trk0001/00000005/307964.bam.bai	bam bai
+786	SNU-407							/nfs/cancer_trk0025/00000089/274501.bam		bam
+786	SNU-407							/nfs/cancer_trk0004/00000016/274502.bam.bai	bam bai
+786	SNU-61							/nfs/cancer_trk0027/00000094/307965.bam		bam
+786	SNU-61							/nfs/cancer_trk0001/00000005/307966.bam.bai	bam bai
+786	SNU-81							/nfs/cancer_trk0028/00000098/308316.bam		bam
+786	SNU-81							/nfs/cancer_trk0002/00000008/308317.bam.bai	bam bai
+786	SNU-C5							/nfs/cancer_trk0025/00000089/274507.bam		bam
+786	SNU-C5							/nfs/cancer_trk0005/00000017/274508.bam.bai	bam bai
+786	STS-0421						/nfs/cancer_trk0045/00000167/559404.bam		bam
+786	STS-0421						/nfs/cancer_trk0045/00000167/559403.bam.bai	bam bai
+786	SU-DHL-10						/nfs/cancer_trk0003/00000010/193640.bam		bam
+786	SU-DHL-10						/nfs/cancer_trk0003/00000010/193641.bam.bai	bam bai
+786	SU-DHL-16						/nfs/cancer_trk0006/00000022/193642.bam		bam
+786	SU-DHL-16						/nfs/cancer_trk0003/00000010/193643.bam.bai	bam bai
+786	SU-DHL-4						/nfs/cancer_trk0003/00000010/193644.bam		bam
+786	SU-DHL-4						/nfs/cancer_trk0003/00000010/193645.bam.bai	bam bai
+786	SU-DHL-5						/nfs/cancer_trk0024/00000085/267272.bam		bam
+786	SU-DHL-5						/nfs/cancer_trk0004/00000016/267273.bam.bai	bam bai
+786	SU-DHL-6						/nfs/cancer_trk0024/00000085/267274.bam		bam
+786	SU-DHL-6						/nfs/cancer_trk0004/00000016/267275.bam.bai	bam bai
+786	SU-DHL-8						/nfs/cancer_trk0006/00000022/193646.bam		bam
+786	SU-DHL-8						/nfs/cancer_trk0003/00000010/193647.bam.bai	bam bai
+786	SUP-HD1							/nfs/cancer_trk0024/00000085/267276.bam		bam
+786	SUP-HD1							/nfs/cancer_trk0004/00000016/267277.bam.bai	bam bai
+786	SUP-M2							/nfs/cancer_trk0024/00000085/267278.bam		bam
+786	SUP-M2							/nfs/cancer_trk0004/00000016/267279.bam.bai	bam bai
+786	SW1271							/nfs/cancer_trk0003/00000010/193658.bam		bam
+786	SW1271							/nfs/cancer_trk0003/00000010/193659.bam.bai	bam bai
+786	SW1573							/nfs/cancer_trk0007/00000024/133605.bam		bam
+786	SW1573							/nfs/cancer_trk0004/00000012/133606.bam.bai	bam bai
+786	SW403							/nfs/cancer_trk0050/00000191/863106.bam		bam
+786	SW403							/nfs/cancer_trk0050/00000191/863107.bam.bai	bam bai
+786	SW756							/nfs/cancer_trk0024/00000085/267296.bam		bam
+786	SW756							/nfs/cancer_trk0004/00000016/267297.bam.bai	bam bai
+786	T84							/nfs/cancer_trk0010/00000033/122744.bam		bam
+786	T84							/nfs/cancer_trk0003/00000010/122745.bam.bai	bam bai
+786	TALL-1							/nfs/cancer_trk0012/team78/00000041/122783.bam	bam
+786	TALL-1							/nfs/cancer_trk0003/00000010/122784.bam.bai	bam bai
+786	TASK1							/nfs/cancer_trk0045/00000167/559346.bam		bam
+786	TASK1							/nfs/cancer_trk0045/00000167/559345.bam.bai	bam bai
+786	TC-71							/nfs/cancer_trk0013/00000047/133561.bam		bam
+786	TC-71							/nfs/cancer_trk0004/00000012/133562.bam.bai	bam bai
+786	TE-4							/nfs/cancer_trk0010/00000031/127686.bam		bam
+786	TE-4							/nfs/cancer_trk0002/00000008/127687.bam.bai	bam bai
+786	TGBC1TKB						/nfs/cancer_trk0024/00000086/267308.bam		bam
+786	TGBC1TKB						/nfs/cancer_trk0014/00000048/267309.bam.bai	bam bai
+786	TGW							/nfs/cancer_trk0024/00000085/267310.bam		bam
+786	TGW							/nfs/cancer_trk0004/00000016/267311.bam.bai	bam bai
+786	TK							/nfs/cancer_trk0028/00000098/308314.bam		bam
+786	TK							/nfs/cancer_trk0001/00000005/308315.bam.bai	bam bai
+786	TMK-1							/nfs/cancer_trk0045/00000167/559390.bam		bam
+786	TMK-1							/nfs/cancer_trk0045/00000167/559389.bam.bai	bam bai
+786	TOV-112D						/nfs/cancer_trk0027/00000095/308037.bam		bam
+786	TOV-112D						/nfs/cancer_trk0001/00000005/308038.bam.bai	bam bai
+786	TOV-21G							/nfs/cancer_trk0003/00000010/193630.bam		bam
+786	TOV-21G							/nfs/cancer_trk0003/00000009/193631.bam.bai	bam bai
+786	TT							/nfs/cancer_trk0024/00000085/267316.bam		bam
+786	TT							/nfs/cancer_trk0004/00000016/267317.bam.bai	bam bai
+786	T-T							/nfs/cancer_trk0003/00000010/193620.bam		bam
+786	T-T							/nfs/cancer_trk0003/00000010/193621.bam.bai	bam bai
+786	TYK-nu							/nfs/cancer_trk0014/00000050/274477.bam		bam
+786	TYK-nu							/nfs/cancer_trk0004/00000012/274478.bam.bai	bam bai
+786	UACC-812						/nfs/cancer_trk0011/00000037/108495.bam		bam
+786	UACC-812						/nfs/cancer_trk0009/00000027/108496.bam.bai	bam bai
+786	U-CH2							/nfs/cancer_trk0006/00000022/193668.bam		bam
+786	U-CH2							/nfs/cancer_trk0003/00000010/193669.bam.bai	bam bai
+786	UDSCC2							/nfs/cancer_trk0050/00000191/863086.bam		bam
+786	UDSCC2							/nfs/cancer_trk0050/00000191/863087.bam.bai	bam bai
+786	UE6E7T-3						/nfs/cancer_trk0024/00000086/307943.bam		bam
+786	UE6E7T-3						/nfs/cancer_trk0001/00000005/307944.bam.bai	bam bai
+786	UWB1.289						/nfs/cancer_trk0024/00000085/260377.bam		bam
+786	UWB1.289						/nfs/cancer_trk0014/00000051/260378.bam.bai	bam bai
+786	VA-ES-BJ						/nfs/cancer_trk0011/00000036/109466.bam		bam
+786	VA-ES-BJ						/nfs/cancer_trk0002/00000008/109467.bam.bai	bam bai
+786	VAL							/nfs/cancer_trk0014/00000048/133569.bam		bam
+786	VAL							/nfs/cancer_trk0004/00000012/133570.bam.bai	bam bai
+786	VMRC-LCD						/nfs/cancer_trk0045/00000167/559353.bam		bam
+786	VMRC-LCD						/nfs/cancer_trk0045/00000167/559352.bam.bai	bam bai
+786	VMRC-MELG						/nfs/cancer_trk0011/00000038/106405.bam		bam
+786	VMRC-MELG						/nfs/cancer_trk0002/00000008/106406.bam.bai	bam bai
+786	VMRC-RCW						/nfs/cancer_trk0011/00000038/106357.bam		bam
+786	VMRC-RCW						/nfs/cancer_trk0002/00000008/106358.bam.bai	bam bai
+786	VMRC-RCZ						/nfs/cancer_trk0007/00000024/133615.bam		bam
+786	VMRC-RCZ						/nfs/cancer_trk0004/00000012/133616.bam.bai	bam bai
+786	WIL2-NS							/nfs/cancer_trk0014/00000048/133571.bam		bam
+786	WIL2-NS							/nfs/cancer_trk0004/00000012/133572.bam.bai	bam bai
+786	WM-115							/nfs/cancer_trk0010/00000033/108489.bam		bam
+786	WM-115							/nfs/cancer_trk0009/00000027/108490.bam.bai	bam bai
+786	WM793B							/nfs/cancer_trk0003/00000010/193634.bam		bam
+786	WM793B							/nfs/cancer_trk0003/00000010/193635.bam.bai	bam bai
+786	WSU-DLCL2						/nfs/cancer_trk0006/00000022/193648.bam		bam
+786	WSU-DLCL2						/nfs/cancer_trk0003/00000010/193649.bam.bai	bam bai
+786	YAPC							/nfs/cancer_trk0011/00000038/106387.bam		bam
+786	YAPC							/nfs/cancer_trk0002/00000008/106388.bam.bai	bam bai
+786	YMB-1-E							/nfs/cancer_trk0004/00000016/127715.bam		bam
+786	YMB-1-E							/nfs/cancer_trk0001/00000005/127716.bam.bai	bam bai
+786	ZR-75-30						/nfs/cancer_trk0010/00000031/106389.bam		bam
+786	ZR-75-30						/nfs/cancer_trk0002/00000008/106390.bam.bai	bam bai
